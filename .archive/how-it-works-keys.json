@@ -1,0 +1,572 @@
+{
+  "hiw.eyebrow": {
+    "en": "How it works",
+    "ms": "Cara ia berfungsi",
+    "zh": "运作方式"
+  },
+  "hiw.title": {
+    "en": "How members share the cost of care",
+    "ms": "Bagaimana ahli berkongsi kos rawatan",
+    "zh": "会员如何共同分担医疗费用"
+  },
+  "hiw.lede": {
+    "en": "You pay a membership fee and a small monthly share. When a member is warded, the community shares the approved bill.",
+    "ms": "Anda membayar yuran keahlian dan sedikit kongsian bulanan. Apabila seorang ahli dimasukkan ke wad, komuniti berkongsi bil yang diluluskan.",
+    "zh": "您缴付会员费和每月少量分摊金。当会员住院时，社群共同分担获批的账单。"
+  },
+  "hiw.cta": {
+    "en": "See how it works",
+    "ms": "Lihat cara ia berfungsi",
+    "zh": "查看运作方式"
+  },
+  "hiw.s1.t": {
+    "en": "You stay an active member",
+    "ms": "Anda kekal sebagai ahli aktif",
+    "zh": "保持活跃会员身份"
+  },
+  "hiw.s1.d": {
+    "en": "Keep up your membership fee and sharing contributions to stay active, so you can help and be helped.",
+    "ms": "Teruskan yuran keahlian dan sumbangan kongsian anda untuk kekal aktif, supaya anda boleh membantu dan dibantu.",
+    "zh": "持续缴付会员费与分摊金以保持活跃，让您能帮助他人，也能获得帮助。"
+  },
+  "hiw.s1.link": {
+    "en": "How contributions work",
+    "ms": "Cara sumbangan berfungsi",
+    "zh": "分摊金如何运作"
+  },
+  "hiw.s2.t": {
+    "en": "A case is checked and approved",
+    "ms": "Kes disemak dan diluluskan",
+    "zh": "个案经过审核与批准"
+  },
+  "hiw.s2.d": {
+    "en": "When a member is warded, an independent medical team checks the bill is fair before it can be shared.",
+    "ms": "Apabila seorang ahli dimasukkan ke wad, pasukan perubatan bebas menyemak bahawa bil adalah adil sebelum ia boleh dikongsi.",
+    "zh": "当会员住院时，独立医疗团队会先审核账单是否合理，才可进行分摊。"
+  },
+  "hiw.s2.link": {
+    "en": "How cases are reviewed",
+    "ms": "Cara kes disemak",
+    "zh": "个案如何审核"
+  },
+  "hiw.s3.t": {
+    "en": "The community shares the bill",
+    "ms": "Komuniti berkongsi bil",
+    "zh": "社群共同分担账单"
+  },
+  "hiw.s3.d": {
+    "en": "The approved cost is split among active members that month, never more than RM60.",
+    "ms": "Kos yang diluluskan dibahagikan antara ahli aktif pada bulan itu, tidak pernah melebihi RM60.",
+    "zh": "获批费用由当月活跃会员共同分摊，每人绝不超过 RM60。"
+  },
+  "hiw.s3.link": {
+    "en": "See this month's sharing",
+    "ms": "Lihat kongsian bulan ini",
+    "zh": "查看本月分摊"
+  },
+  "hiw.diagram.title": {
+    "en": "How community sharing works",
+    "ms": "Bagaimana perkongsian komuniti berfungsi",
+    "zh": "社群分摊如何运作"
+  },
+  "hiw.diagram.desc": {
+    "en": "Many members each contribute a small share. Their contributions cover one approved hospital bill, which is then split into many small equal shares back to the members.",
+    "ms": "Ramai ahli masing-masing menyumbang kongsian kecil. Sumbangan mereka menampung satu bil hospital yang diluluskan, yang kemudian dibahagikan kepada banyak kongsian kecil yang sama rata kembali kepada ahli.",
+    "zh": "众多会员各自贡献少量分摊金。这些分摊金用于支付一张获批的医院账单，再平均分摊为许多份小额金额回到会员身上。"
+  },
+  "hiw.diagram.members": {
+    "en": "Many members",
+    "ms": "Ramai ahli",
+    "zh": "众多会员"
+  },
+  "hiw.diagram.bill": {
+    "en": "One approved bill",
+    "ms": "Satu bil diluluskan",
+    "zh": "一张获批账单"
+  },
+  "hiw.diagram.shares": {
+    "en": "Small shares each",
+    "ms": "Kongsian kecil setiap seorang",
+    "zh": "每人小额分摊"
+  },
+  "hiwp.hero.eyebrow": {
+    "en": "The Process",
+    "ms": "Prosesnya",
+    "zh": "运作流程"
+  },
+  "hiwp.hero.title": {
+    "en": "How We Kongsi works",
+    "ms": "Bagaimana We Kongsi berfungsi",
+    "zh": "We Kongsi 如何运作"
+  },
+  "hiwp.hero.lede": {
+    "en": "Medical cost-sharing is a simple idea: members voluntarily contribute to a shared pool and help cover each other's eligible medical bills. Here's everything you need to know.",
+    "ms": "Perkongsian kos perubatan ialah idea yang mudah: ahli menyumbang secara sukarela ke dalam kumpulan wang bersama dan membantu menampung bil perubatan yang layak antara satu sama lain. Inilah semua yang anda perlu tahu.",
+    "zh": "医疗费用分摊的概念很简单：会员自愿把资金投入共同的资金池，互相帮助支付符合条件的医疗账单。以下是您需要了解的一切。"
+  },
+  "hiwp.model.eyebrow": {
+    "en": "The Model",
+    "ms": "Modelnya",
+    "zh": "运作模式"
+  },
+  "hiwp.model.title": {
+    "en": "A Better Way to\n[[Share Medical Costs]]",
+    "ms": "Cara Lebih Baik untuk\n[[Berkongsi Kos Perubatan]]",
+    "zh": "[[分担医疗费用]]的\n更好方式"
+  },
+  "hiwp.model.desc": {
+    "en": "Unlike conventional insurance or Takaful, We Kongsi empowers members to retain ownership of their funds while voluntarily sharing eligible medical costs through a transparent, community-driven model.",
+    "ms": "Tidak seperti insurans konvensional atau Takaful, We Kongsi membolehkan ahli mengekalkan pemilikan dana mereka sambil berkongsi kos perubatan yang layak secara sukarela melalui model telus yang dipacu komuniti.",
+    "zh": "与传统保险或 Takaful 不同，We Kongsi 让会员保有自己资金的所有权，同时通过透明的、以社群为本的模式自愿分担符合条件的医疗费用。"
+  },
+  "hiwp.model.s1.t": {
+    "en": "Bills Are Totalled Monthly",
+    "ms": "Bil Dijumlahkan Setiap Bulan",
+    "zh": "账单按月汇总"
+  },
+  "hiwp.model.s1.d": {
+    "en": "Approved medical expenses are reviewed and consolidated each month under the Program Guidelines.",
+    "ms": "Perbelanjaan perubatan yang diluluskan disemak dan disatukan setiap bulan di bawah Garis Panduan Program.",
+    "zh": "获批的医疗开销依据计划指南每月审核并整合。"
+  },
+  "hiwp.model.s2.t": {
+    "en": "Shared Among Members",
+    "ms": "Dikongsi Antara Ahli",
+    "zh": "在会员之间分摊"
+  },
+  "hiwp.model.s2.d": {
+    "en": "The total is divided fairly across all active members — no one bears the full burden alone.",
+    "ms": "Jumlahnya dibahagikan secara adil kepada semua ahli aktif — tiada sesiapa menanggung beban penuh seorang diri.",
+    "zh": "总额在所有活跃会员之间公平分摊 — 没有人需要独自承担全部负担。"
+  },
+  "hiwp.model.s3.t": {
+    "en": "Members Receive Support",
+    "ms": "Ahli Menerima Bantuan",
+    "zh": "会员获得支援"
+  },
+  "hiwp.model.s3.d": {
+    "en": "The community covers the approved bills, so members can focus on recovery.",
+    "ms": "Komuniti menampung bil yang diluluskan, supaya ahli boleh fokus pada pemulihan.",
+    "zh": "社群共同承担获批的账单，让会员能够专心康复。"
+  },
+  "hiwp.partners.eyebrow": {
+    "en": "Who Makes It Work",
+    "ms": "Siapa Yang Menjayakannya",
+    "zh": "谁让它运作起来"
+  },
+  "hiwp.partners.title": {
+    "en": "A Trusted Circle of\n[[Partners]]",
+    "ms": "Lingkaran [[Rakan Kongsi]]\nYang Dipercayai",
+    "zh": "值得信赖的\n[[合作伙伴]]网络"
+  },
+  "hiwp.partners.desc": {
+    "en": "We Kongsi is administered by Kita Kongsi Sdn Bhd and supported by licensed partners who each play a clear, separate role — so no single party holds both your money and the decisions.",
+    "ms": "We Kongsi diuruskan oleh Kita Kongsi Sdn Bhd dan disokong oleh rakan kongsi berlesen yang masing-masing memainkan peranan yang jelas dan berasingan — supaya tiada satu pihak memegang kedua-dua wang anda dan keputusannya.",
+    "zh": "We Kongsi 由 Kita Kongsi Sdn Bhd 管理，并由持牌合作伙伴提供支援，各自扮演清晰而独立的角色 — 因此没有任何一方同时掌握您的资金与决策权。"
+  },
+  "hiwp.partners.heydoc": {
+    "en": "Your first stop for outpatient and primary care — teleconsultations and panel clinics (Coordination of Benefits).",
+    "ms": "Hentian pertama anda untuk rawatan pesakit luar dan penjagaan primer — telekonsultasi dan klinik panel (Coordination of Benefits).",
+    "zh": "门诊与基层医疗的第一站 — 远程问诊与指定诊所（福利协调）。"
+  },
+  "hiwp.partners.emas": {
+    "en": "The independent Third-Party Administrator (TPA) that reviews hospital cases and issues Guarantee Letters.",
+    "ms": "Pentadbir Pihak Ketiga (TPA) bebas yang menyemak kes hospital dan mengeluarkan Surat Jaminan.",
+    "zh": "独立的第三方管理机构（TPA），负责审核住院个案并签发担保函。"
+  },
+  "hiwp.partners.palladium": {
+    "en": "A licensed trustee that holds and manages members' Sharing Account funds. We Kongsi has no access to this money.",
+    "ms": "Pemegang amanah berlesen yang memegang dan menguruskan dana Akaun Perkongsian ahli. We Kongsi tiada akses kepada wang ini.",
+    "zh": "持牌信托机构，负责持有与管理会员分摊账户的资金。We Kongsi 无法动用这笔资金。"
+  },
+  "hiwp.partners.curlec": {
+    "en": "Handles secure recurring payments for your membership and Sharing Account.",
+    "ms": "Mengendalikan pembayaran berulang yang selamat untuk keahlian dan Akaun Perkongsian anda.",
+    "zh": "处理您的会员费与分摊账户的安全定期扣款。"
+  },
+  "hiwp.partners.kitakongsi": {
+    "en": "The Administrator that runs the platform, coordinates documents, and publishes shared cases each month.",
+    "ms": "Pentadbir yang mengendalikan platform, menyelaras dokumen, dan menerbitkan kes yang dikongsi setiap bulan.",
+    "zh": "管理方，负责营运平台、协调文件，并每月公布已分摊的个案。"
+  },
+  "hiwp.partners.communityName": {
+    "en": "The Community",
+    "ms": "Komuniti",
+    "zh": "社群"
+  },
+  "hiwp.partners.community": {
+    "en": "Every member. Together you share one another's approved medical bills — risk is shared, never transferred away.",
+    "ms": "Setiap ahli. Bersama-sama anda berkongsi bil perubatan yang diluluskan antara satu sama lain — risiko dikongsi, tidak pernah dipindahkan.",
+    "zh": "每一位会员。大家共同分担彼此获批的医疗账单 — 风险由社群共担，而非转移出去。"
+  },
+  "hiwp.partners.role.outpatient": {
+    "en": "Outpatient & Primary Care",
+    "ms": "Pesakit Luar & Penjagaan Primer",
+    "zh": "门诊与基层医疗"
+  },
+  "hiwp.partners.role.tpa": {
+    "en": "Third-Party Administrator",
+    "ms": "Pentadbir Pihak Ketiga",
+    "zh": "第三方管理机构"
+  },
+  "hiwp.partners.role.trustee": {
+    "en": "Trustee",
+    "ms": "Pemegang Amanah",
+    "zh": "信托机构"
+  },
+  "hiwp.partners.role.payments": {
+    "en": "Payments",
+    "ms": "Pembayaran",
+    "zh": "支付"
+  },
+  "hiwp.partners.role.administrator": {
+    "en": "Administrator",
+    "ms": "Pentadbir",
+    "zh": "管理方"
+  },
+  "hiwp.partners.role.members": {
+    "en": "Members",
+    "ms": "Ahli",
+    "zh": "会员"
+  },
+  "hiwp.journey.eyebrow": {
+    "en": "The Sharing Journey",
+    "ms": "Perjalanan Perkongsian",
+    "zh": "分摊流程"
+  },
+  "hiwp.journey.title": {
+    "en": "From Sign-Up to\n[[Sharing]]",
+    "ms": "Dari Pendaftaran ke\n[[Perkongsian]]",
+    "zh": "从注册到\n[[分摊]]"
+  },
+  "hiwp.journey.desc": {
+    "en": "A typical journey for a planned hospital admission. Emergencies should always be treated immediately at the nearest qualified facility — just notify us as soon as possible afterwards.",
+    "ms": "Perjalanan biasa bagi kemasukan hospital yang dirancang. Kecemasan hendaklah sentiasa dirawat segera di kemudahan berkelayakan terdekat — cuma maklumkan kepada kami secepat mungkin selepas itu.",
+    "zh": "这是计划性住院的典型流程。紧急情况应立即前往最近的合格医疗机构就医 — 事后尽快通知我们即可。"
+  },
+  "hiwp.journey.s1.t": {
+    "en": "Join & Activate",
+    "ms": "Sertai & Aktifkan",
+    "zh": "加入并启动"
+  },
+  "hiwp.journey.s1.d": {
+    "en": "Register, choose a package, and pay to activate your membership.",
+    "ms": "Daftar, pilih pakej, dan bayar untuk mengaktifkan keahlian anda.",
+    "zh": "注册、选择配套，并付款启动您的会员资格。"
+  },
+  "hiwp.journey.s2.t": {
+    "en": "Fund Sharing Account",
+    "ms": "Dana Akaun Perkongsian",
+    "zh": "为分摊账户注资"
+  },
+  "hiwp.journey.s2.d": {
+    "en": "On day 60, fund RM150 (Standard) or RM300 (Deluxe). Auto top-up keeps it active.",
+    "ms": "Pada hari ke-60, dana RM150 (Standard) atau RM300 (Deluxe). Tambah nilai automatik memastikan ia kekal aktif.",
+    "zh": "第 60 天存入 RM150（标准配套）或 RM300（豪华配套）。自动充值会让账户保持活跃。"
+  },
+  "hiwp.journey.s3.t": {
+    "en": "Doctor's Referral",
+    "ms": "Rujukan Doktor",
+    "zh": "医生转介"
+  },
+  "hiwp.journey.s3.d": {
+    "en": "Get a referral letter from a HEYDOC panel clinic.",
+    "ms": "Dapatkan surat rujukan daripada klinik panel HEYDOC.",
+    "zh": "向 HEYDOC 指定诊所索取转介信。"
+  },
+  "hiwp.journey.s4.t": {
+    "en": "Visit Panel Hospital",
+    "ms": "Kunjungi Hospital Panel",
+    "zh": "前往指定医院"
+  },
+  "hiwp.journey.s4.d": {
+    "en": "Present your Admissions Card and mention our TPA. A co-share applies.",
+    "ms": "Tunjukkan Kad Kemasukan anda dan nyatakan TPA kami. Bahagian co-share dikenakan.",
+    "zh": "出示您的入院卡并说明我们的 TPA。需支付共付部分。"
+  },
+  "hiwp.journey.s5.t": {
+    "en": "Review & Approval",
+    "ms": "Semakan & Kelulusan",
+    "zh": "审核与批准"
+  },
+  "hiwp.journey.s5.d": {
+    "en": "eMAS reviews the case and issues a Guarantee Letter.",
+    "ms": "eMAS menyemak kes dan mengeluarkan Surat Jaminan.",
+    "zh": "eMAS 审核个案并签发担保函。"
+  },
+  "hiwp.journey.s6.t": {
+    "en": "Treatment & Cost Review",
+    "ms": "Rawatan & Semakan Kos",
+    "zh": "治疗与费用审核"
+  },
+  "hiwp.journey.s6.d": {
+    "en": "Bill checked against the MMA 13th Fee Schedule; Final GL issued.",
+    "ms": "Bil disemak mengikut Jadual Fi ke-13 MMA; GL Akhir dikeluarkan.",
+    "zh": "账单依据 MMA 第 13 版收费表审核，并签发最终担保函。"
+  },
+  "hiwp.journey.s7.t": {
+    "en": "Published & Shared",
+    "ms": "Diterbitkan & Dikongsi",
+    "zh": "公布并分摊"
+  },
+  "hiwp.journey.s7.d": {
+    "en": "Published on the 7th and shared by the community.",
+    "ms": "Diterbitkan pada 7 haribulan dan dikongsi oleh komuniti.",
+    "zh": "于每月 7 日公布，并由社群共同分摊。"
+  },
+  "hiwp.journey.publishTitle": {
+    "en": "What gets published — for\n[[full transparency]]",
+    "ms": "Apa yang diterbitkan — untuk\n[[ketelusan penuh]]",
+    "zh": "公布的内容 — 为了\n[[完全透明]]"
+  },
+  "hiwp.journey.publishDesc": {
+    "en": "Member name & partial NRIC (first 4 digits + surname) · admission & discharge dates · diagnosis · total cost. Published on the website, in the member system, and on social media — so the whole community can see exactly what it is sharing.",
+    "ms": "Nama ahli & sebahagian NRIC (4 digit pertama + nama keluarga) · tarikh kemasukan & discaj · diagnosis · jumlah kos. Diterbitkan di laman web, dalam sistem ahli, dan di media sosial — supaya seluruh komuniti dapat melihat dengan tepat apa yang dikongsi.",
+    "zh": "会员姓名与部分身份证号（前 4 位 + 姓氏）· 入院与出院日期 · 诊断 · 费用总额。公布于官网、会员系统与社交媒体 — 让整个社群清楚看到所分摊的内容。"
+  },
+  "hiwp.journey.emergencyTitle": {
+    "en": "In an emergency",
+    "ms": "Dalam kecemasan",
+    "zh": "紧急情况时"
+  },
+  "hiwp.journey.emergencyDesc": {
+    "en": "Get treated immediately at the nearest facility — your health comes first. Notify the Administrator as soon as you reasonably can afterwards, and the case follows the review and sharing process above.",
+    "ms": "Dapatkan rawatan segera di kemudahan terdekat — kesihatan anda didahulukan. Maklumkan kepada Pentadbir secepat yang munasabah selepas itu, dan kes tersebut akan mengikut proses semakan dan perkongsian di atas.",
+    "zh": "请立即前往最近的医疗机构接受治疗 — 健康第一。事后请尽快通知管理方，该个案将依照上述审核与分摊流程处理。"
+  },
+  "hiwp.notins.eyebrow": {
+    "en": "Important to Understand",
+    "ms": "Penting untuk Difahami",
+    "zh": "务必了解"
+  },
+  "hiwp.notins.title": {
+    "en": "This Is Not Insurance —\n[[It's a Community]]",
+    "ms": "Ini Bukan Insurans —\n[[Ini Sebuah Komuniti]]",
+    "zh": "这不是保险 —\n[[这是一个社群]]"
+  },
+  "hiwp.notins.desc": {
+    "en": "We Kongsi is not insurance or Takaful. No company takes on your risk. Instead, members agree to share one another's medical bills directly. It rests on two clear agreements.",
+    "ms": "We Kongsi bukan insurans atau Takaful. Tiada syarikat menanggung risiko anda. Sebaliknya, ahli bersetuju untuk berkongsi bil perubatan antara satu sama lain secara langsung. Ia berdasarkan dua perjanjian yang jelas.",
+    "zh": "We Kongsi 不是保险，也不是 Takaful。没有任何公司承担您的风险。会员之间直接约定互相分担医疗账单。这建立在两份清晰的约定之上。"
+  },
+  "hiwp.notins.c1.label": {
+    "en": "Contract 1 · Wakālah bi Ujrah",
+    "ms": "Kontrak 1 · Wakālah bi Ujrah",
+    "zh": "契约一 · Wakālah bi Ujrah"
+  },
+  "hiwp.notins.c1.t": {
+    "en": "You & Kita Kongsi",
+    "ms": "Anda & Kita Kongsi",
+    "zh": "您与 Kita Kongsi"
+  },
+  "hiwp.notins.c1.d": {
+    "en": "You appoint Kita Kongsi to administer the platform in return for your membership fee — running the system, coordinating cases, and publishing shared bills.",
+    "ms": "Anda melantik Kita Kongsi untuk mentadbir platform sebagai balasan kepada yuran keahlian anda — mengendalikan sistem, menyelaras kes, dan menerbitkan bil yang dikongsi.",
+    "zh": "您委任 Kita Kongsi 管理平台，以您的会员费作为报酬 — 营运系统、协调个案，并公布已分摊的账单。"
+  },
+  "hiwp.notins.c2.label": {
+    "en": "Contract 2 · Iltizām bi al-Tabarru'",
+    "ms": "Kontrak 2 · Iltizām bi al-Tabarru'",
+    "zh": "契约二 · Iltizām bi al-Tabarru'"
+  },
+  "hiwp.notins.c2.t": {
+    "en": "You & All Members",
+    "ms": "Anda & Semua Ahli",
+    "zh": "您与全体会员"
+  },
+  "hiwp.notins.c2.d": {
+    "en": "You and every other member commit to share each other's medical bills through your Sharing Accounts. Risk is shared by the community, not transferred to a company — and you may withdraw at any time.",
+    "ms": "Anda dan setiap ahli lain berikrar untuk berkongsi bil perubatan antara satu sama lain melalui Akaun Perkongsian anda. Risiko dikongsi oleh komuniti, bukan dipindahkan kepada syarikat — dan anda boleh menarik diri pada bila-bila masa.",
+    "zh": "您与其他每一位会员共同承诺，通过各自的分摊账户互相分担医疗账单。风险由社群共担，而非转移给公司 — 您也可随时退出。"
+  },
+  "hiwp.everyday.eyebrow": {
+    "en": "Everyday Care",
+    "ms": "Penjagaan Harian",
+    "zh": "日常照护"
+  },
+  "hiwp.everyday.title": {
+    "en": "Outpatient Care with\n[[HEYDOC]]",
+    "ms": "Penjagaan Pesakit Luar dengan\n[[HEYDOC]]",
+    "zh": "由 [[HEYDOC]] 提供的\n门诊照护"
+  },
+  "hiwp.everyday.desc": {
+    "en": "Beyond hospital cases, your membership covers everyday outpatient care through HEYDOC — Coordination of Benefits (COB), available after your 90-day waiting period.",
+    "ms": "Selain kes hospital, keahlian anda merangkumi penjagaan pesakit luar harian melalui HEYDOC — Coordination of Benefits (COB), tersedia selepas tempoh menunggu 90 hari anda.",
+    "zh": "除住院个案外，您的会员资格还通过 HEYDOC 涵盖日常门诊照护 — 福利协调（COB），于 90 天等待期后生效。"
+  },
+  "hiwp.everyday.f1.v": {
+    "en": "RM15 / month",
+    "ms": "RM15 / bulan",
+    "zh": "RM15 / 月"
+  },
+  "hiwp.everyday.f1.t": {
+    "en": "Outpatient (COB) Portion",
+    "ms": "Bahagian Pesakit Luar (COB)",
+    "zh": "门诊（COB）部分"
+  },
+  "hiwp.everyday.f1.d": {
+    "en": "The outpatient portion of your monthly sharing, included within the RM75 cap.",
+    "ms": "Bahagian pesakit luar daripada perkongsian bulanan anda, termasuk dalam had RM75.",
+    "zh": "您每月分摊中的门诊部分，包含在 RM75 上限之内。"
+  },
+  "hiwp.everyday.f2.v": {
+    "en": "8 episodes / year",
+    "ms": "8 episod / tahun",
+    "zh": "8 次 / 年"
+  },
+  "hiwp.everyday.f2.t": {
+    "en": "Episodes",
+    "ms": "Episod",
+    "zh": "就诊次数"
+  },
+  "hiwp.everyday.f2.d": {
+    "en": "2 on activation, then +2 each quarter. Unused episodes accumulate, so they don't go to waste.",
+    "ms": "2 semasa pengaktifan, kemudian +2 setiap suku tahun. Episod yang tidak digunakan terkumpul, jadi ia tidak terbuang.",
+    "zh": "启动时获得 2 次，之后每季增加 2 次。未使用的次数可累积，不会浪费。"
+  },
+  "hiwp.everyday.f3.v": {
+    "en": "Up to RM120 / episode",
+    "ms": "Sehingga RM120 / episod",
+    "zh": "每次最高 RM120"
+  },
+  "hiwp.everyday.f3.t": {
+    "en": "Per Episode",
+    "ms": "Setiap Episod",
+    "zh": "每次就诊"
+  },
+  "hiwp.everyday.f3.d": {
+    "en": "Each episode covers one issue across telemedicine and clinic visits — open for 7 days, with one free same-clinic follow-up.",
+    "ms": "Setiap episod merangkumi satu masalah merentas telemedicine dan lawatan klinik — terbuka selama 7 hari, dengan satu susulan percuma di klinik yang sama.",
+    "zh": "每次就诊涵盖一项病症，可用于远程问诊与诊所就医 — 有效期 7 天，并含一次同诊所免费复诊。"
+  },
+  "hiwp.everyday.f4.v": {
+    "en": "Unlimited",
+    "ms": "Tanpa had",
+    "zh": "无限次"
+  },
+  "hiwp.everyday.f4.t": {
+    "en": "Teleconsultations",
+    "ms": "Telekonsultasi",
+    "zh": "远程问诊"
+  },
+  "hiwp.everyday.f4.d": {
+    "en": "Supplementary teleconsultations, available daily from 9am to 10pm whenever you need quick advice.",
+    "ms": "Telekonsultasi tambahan, tersedia setiap hari dari 9 pagi hingga 10 malam apabila anda perlukan nasihat pantas.",
+    "zh": "补充性远程问诊，每日上午 9 时至晚上 10 时开放，随时为您提供快速咨询。"
+  },
+  "hiwp.share.title": {
+    "en": "How\n[[Community Sharing]]\nWorks",
+    "ms": "Bagaimana\n[[Perkongsian Komuniti]]\nBerfungsi",
+    "zh": "[[社群分摊]]\n如何运作"
+  },
+  "hiwp.share.desc": {
+    "en": "Approved hospital bills are shared fairly among active members. You only contribute your fair share, with a maximum monthly contribution of RM60.",
+    "ms": "Bil hospital yang diluluskan dikongsi secara adil antara ahli aktif. Anda hanya menyumbang bahagian yang adil, dengan sumbangan bulanan maksimum RM60.",
+    "zh": "获批的住院账单在活跃会员之间公平分摊。您只需承担应有的份额，每月最高 RM60。"
+  },
+  "hiwp.share.s1.t": {
+    "en": "Approved Medical Bills",
+    "ms": "Bil Perubatan Diluluskan",
+    "zh": "获批的医疗账单"
+  },
+  "hiwp.share.s1.d": {
+    "en": "Hospital bills submitted by members are reviewed and approved.",
+    "ms": "Bil hospital yang dikemukakan oleh ahli disemak dan diluluskan.",
+    "zh": "会员提交的住院账单经过审核与批准。"
+  },
+  "hiwp.share.s2.t": {
+    "en": "Shared Across Members",
+    "ms": "Dikongsi Merentas Ahli",
+    "zh": "在会员间分摊"
+  },
+  "hiwp.share.s2.d": {
+    "en": "Approved costs are distributed fairly among all active members.",
+    "ms": "Kos yang diluluskan diagihkan secara adil antara semua ahli aktif.",
+    "zh": "获批费用在所有活跃会员之间公平分配。"
+  },
+  "hiwp.share.s3.t": {
+    "en": "Your Monthly Contribution",
+    "ms": "Sumbangan Bulanan Anda",
+    "zh": "您的每月分摊"
+  },
+  "hiwp.share.s3.d": {
+    "en": "Your contribution is calculated fairly and is capped at RM60 per month.",
+    "ms": "Sumbangan anda dikira secara adil dan dihadkan pada RM60 sebulan.",
+    "zh": "您的分摊金公平计算，每月上限为 RM60。"
+  },
+  "hiwp.share.whyTitle": {
+    "en": "Why Members Like It",
+    "ms": "Mengapa Ahli Menyukainya",
+    "zh": "会员喜欢的原因"
+  },
+  "hiwp.share.w1.t": {
+    "en": "Pay Only When Needed",
+    "ms": "Bayar Hanya Bila Perlu",
+    "zh": "有需要时才付费"
+  },
+  "hiwp.share.w1.d": {
+    "en": "You only contribute when there are approved medical claims.",
+    "ms": "Anda hanya menyumbang apabila terdapat tuntutan perubatan yang diluluskan.",
+    "zh": "只有在有获批的医疗申请时，您才需要分摊。"
+  },
+  "hiwp.share.w2.t": {
+    "en": "Monthly Cap",
+    "ms": "Had Bulanan",
+    "zh": "每月上限"
+  },
+  "hiwp.share.w2.d": {
+    "en": "Your monthly contribution never exceeds RM60.",
+    "ms": "Sumbangan bulanan anda tidak pernah melebihi RM60.",
+    "zh": "您的每月分摊金绝不超过 RM60。"
+  },
+  "hiwp.share.w3.t": {
+    "en": "Transparent",
+    "ms": "Telus",
+    "zh": "透明"
+  },
+  "hiwp.share.w3.d": {
+    "en": "Monthly sharing reports are published for all members.",
+    "ms": "Laporan perkongsian bulanan diterbitkan untuk semua ahli.",
+    "zh": "每月分摊报告向所有会员公布。"
+  },
+  "hiwp.share.w4.t": {
+    "en": "Community Protection",
+    "ms": "Perlindungan Komuniti",
+    "zh": "社群保障"
+  },
+  "hiwp.share.w4.d": {
+    "en": "Everyone contributes a small amount so members facing medical emergencies receive support.",
+    "ms": "Semua orang menyumbang sedikit supaya ahli yang menghadapi kecemasan perubatan menerima sokongan.",
+    "zh": "每个人都贡献一点，让面临医疗紧急状况的会员获得支援。"
+  },
+  "hiwp.calc.title": {
+    "en": "Sharing Calculator",
+    "ms": "Kalkulator Perkongsian",
+    "zh": "分摊计算器"
+  },
+  "hiwp.calc.bills": {
+    "en": "Medical Bills This Month",
+    "ms": "Bil Perubatan Bulan Ini",
+    "zh": "本月医疗账单"
+  },
+  "hiwp.calc.members": {
+    "en": "Active Members",
+    "ms": "Ahli Aktif",
+    "zh": "活跃会员"
+  },
+  "hiwp.calc.result": {
+    "en": "Estimated Contribution Per Member",
+    "ms": "Anggaran Sumbangan Setiap Ahli",
+    "zh": "每位会员的预估分摊金"
+  },
+  "hiwp.calc.under": {
+    "en": "Below your RM60 monthly cap",
+    "ms": "Di bawah had bulanan RM60 anda",
+    "zh": "低于您 RM60 的每月上限"
+  },
+  "hiwp.calc.capped": {
+    "en": "Your calculated share exceeded RM60, so your contribution is capped.",
+    "ms": "Bahagian yang dikira melebihi RM60, jadi sumbangan anda dihadkan.",
+    "zh": "计算所得的份额超过 RM60，因此您的分摊金已封顶。"
+  }
+}

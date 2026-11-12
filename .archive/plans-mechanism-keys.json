@@ -1,0 +1,327 @@
+{
+  "mem.share.eyebrow": {
+    "en": "Your Share",
+    "ms": "Bahagian Anda",
+    "zh": "您的份额"
+  },
+  "mem.share.title": {
+    "en": "A small co-share keeps\n[[the pool fair]]",
+    "ms": "Co-share kecil memastikan\n[[kumpulan wang adil]]",
+    "zh": "小额共付让\n[[资金池保持公平]]"
+  },
+  "mem.share.desc": {
+    "en": "For each inpatient admission at a private hospital, you cover a small portion of the final approved bill yourself — this part is not shareable. It is capped, so you always know the most you'll pay.",
+    "ms": "Bagi setiap kemasukan pesakit dalam di hospital swasta, anda menanggung sebahagian kecil daripada bil akhir yang diluluskan sendiri — bahagian ini tidak boleh dikongsi. Ia dihadkan, jadi anda sentiasa tahu jumlah maksimum yang akan anda bayar.",
+    "zh": "每次在私立医院住院，您需自行承担最终获批账单的一小部分 — 这部分不参与分摊。它设有上限，因此您始终清楚最多需要支付多少。"
+  },
+  "mem.share.capNote": {
+    "en": "Capped at RM500 per admission (may rise to RM1,000 at the end of December 2026).",
+    "ms": "Dihadkan pada RM500 setiap kemasukan (mungkin meningkat kepada RM1,000 pada akhir Disember 2026).",
+    "zh": "每次入院上限为 RM500（2026 年 12 月底可能调高至 RM1,000）。"
+  },
+  "mem.share.govNote": {
+    "en": "No co-share at all for government-hospital admissions.",
+    "ms": "Tiada co-share langsung bagi kemasukan hospital kerajaan.",
+    "zh": "政府医院住院完全无需共付。"
+  },
+  "mem.share.byAge": {
+    "en": "Co-share by age",
+    "ms": "Co-share mengikut umur",
+    "zh": "按年龄划分的共付比例"
+  },
+  "mem.share.applied": {
+    "en": "Applied to the final approved bill, then capped at RM500 per admission.",
+    "ms": "Dikenakan pada bil akhir yang diluluskan, kemudian dihadkan pada RM500 setiap kemasukan.",
+    "zh": "以最终获批账单计算，每次入院上限为 RM500。"
+  },
+  "mem.phase.eyebrow": {
+    "en": "Getting Started",
+    "ms": "Bermula",
+    "zh": "开始使用"
+  },
+  "mem.phase.title": {
+    "en": "When your benefits\n[[phase in]]",
+    "ms": "Bila manfaat anda\n[[mula berkuat kuasa]]",
+    "zh": "您的福利\n[[何时生效]]"
+  },
+  "mem.phase.desc": {
+    "en": "Sharing begins gradually so the pool stays healthy and fair for everyone.",
+    "ms": "Perkongsian bermula secara berperingkat supaya kumpulan wang kekal sihat dan adil untuk semua.",
+    "zh": "分摊权益分阶段生效，让资金池对每个人都保持稳健与公平。"
+  },
+  "mem.phase.p1.when": {
+    "en": "Day 1",
+    "ms": "Hari 1",
+    "zh": "第 1 天"
+  },
+  "mem.phase.p1.t": {
+    "en": "Immediately",
+    "ms": "Serta-merta",
+    "zh": "立即生效"
+  },
+  "mem.phase.p1.d": {
+    "en": "Accidental injury (up to RM10,000) is eligible from the moment you join.",
+    "ms": "Kecederaan akibat kemalangan (sehingga RM10,000) layak sebaik sahaja anda menyertai.",
+    "zh": "意外伤害（最高 RM10,000）自您加入的那一刻起即符合资格。"
+  },
+  "mem.phase.p2.when": {
+    "en": "After 90 days",
+    "ms": "Selepas 90 hari",
+    "zh": "90 天后"
+  },
+  "mem.phase.p2.t": {
+    "en": "Common illnesses",
+    "ms": "Penyakit biasa",
+    "zh": "常见疾病"
+  },
+  "mem.phase.p2.d": {
+    "en": "Day-to-day illnesses become eligible for sharing, and outpatient (COB) activates.",
+    "ms": "Penyakit harian menjadi layak untuk perkongsian, dan pesakit luar (COB) diaktifkan.",
+    "zh": "日常疾病开始符合分摊资格，门诊福利（COB）同时启动。"
+  },
+  "mem.phase.p3.when": {
+    "en": "After 180 days",
+    "ms": "Selepas 180 hari",
+    "zh": "180 天后"
+  },
+  "mem.phase.p3.t": {
+    "en": "Specified illnesses",
+    "ms": "Penyakit tertentu",
+    "zh": "特定疾病"
+  },
+  "mem.phase.p3.d": {
+    "en": "Hypertension, diabetes, heart conditions, cancer and similar become eligible.",
+    "ms": "Darah tinggi, diabetes, penyakit jantung, kanser dan seumpamanya menjadi layak.",
+    "zh": "高血压、糖尿病、心脏疾病、癌症等开始符合资格。"
+  },
+  "mem.sa.eyebrow": {
+    "en": "Money You Own",
+    "ms": "Wang Milik Anda",
+    "zh": "属于您的资金"
+  },
+  "mem.sa.title": {
+    "en": "How the\n[[Sharing Account]] works",
+    "ms": "Bagaimana\n[[Akaun Perkongsian]] berfungsi",
+    "zh": "[[分摊账户]]\n如何运作"
+  },
+  "mem.sa.desc": {
+    "en": "Your Sharing Account is the pooled money you contribute and own. The balance is yours.",
+    "ms": "Akaun Perkongsian anda ialah wang terkumpul yang anda sumbangkan dan miliki. Bakinya adalah milik anda.",
+    "zh": "分摊账户是您投入并拥有的资金池，余额归您所有。"
+  },
+  "mem.sa.openingTitle": {
+    "en": "Opening & top-ups",
+    "ms": "Pembukaan & tambah nilai",
+    "zh": "开户与充值"
+  },
+  "mem.sa.o1": {
+    "en": "Opening balance: **RM150 to RM300**, depending on the benefit level you choose.",
+    "ms": "Baki permulaan: **RM150 hingga RM300**, bergantung pada tahap manfaat yang anda pilih.",
+    "zh": "起始余额：**RM150 至 RM300**，视您选择的福利级别而定。"
+  },
+  "mem.sa.o2": {
+    "en": "Initial top-up **60 days** after joining.",
+    "ms": "Tambah nilai awal **60 hari** selepas menyertai.",
+    "zh": "加入后 **60 天**进行首次充值。"
+  },
+  "mem.sa.o3": {
+    "en": "Sharing starts after the **90-day** waiting period.",
+    "ms": "Perkongsian bermula selepas tempoh menunggu **90 hari**.",
+    "zh": "分摊于 **90 天**等待期后开始。"
+  },
+  "mem.sa.o4": {
+    "en": "Auto top-up triggers when the balance falls to **RM75**, restoring it to your opening balance. A fixed **RM75/month** top-up can be chosen instead.",
+    "ms": "Tambah nilai automatik dicetuskan apabila baki turun kepada **RM75**, memulihkannya kepada baki permulaan anda. Tambah nilai tetap **RM75/bulan** boleh dipilih sebagai ganti.",
+    "zh": "余额降至 **RM75** 时触发自动充值，恢复至您的起始余额。也可改为选择每月固定 **RM75** 充值。"
+  },
+  "mem.sa.capTitle": {
+    "en": "Monthly sharing cap: RM75",
+    "ms": "Had perkongsian bulanan: RM75",
+    "zh": "每月分摊上限：RM75"
+  },
+  "mem.sa.c1": {
+    "en": "Up to **RM60 inpatient**, deducted on the 7th of the month.",
+    "ms": "Sehingga **RM60 pesakit dalam**, ditolak pada 7 haribulan.",
+    "zh": "住院部分最高 **RM60**，于每月 7 日扣除。"
+  },
+  "mem.sa.c2": {
+    "en": "Plus **RM15 outpatient (COB)**.",
+    "ms": "Ditambah **RM15 pesakit luar (COB)**.",
+    "zh": "另加 **RM15 门诊（COB）**。"
+  },
+  "mem.sa.c3": {
+    "en": "Months with no approved cases → **no inpatient deduction**.",
+    "ms": "Bulan tanpa kes yang diluluskan → **tiada potongan pesakit dalam**.",
+    "zh": "没有获批个案的月份 → **不扣除住院分摊金**。"
+  },
+  "mem.sa.refund": {
+    "en": "**Refundable:** your Sharing Account balance can be refunded on withdrawal or termination — request within 60 days, processed in up to 30 days.",
+    "ms": "**Boleh dikembalikan:** baki Akaun Perkongsian anda boleh dikembalikan apabila menarik diri atau penamatan — mohon dalam 60 hari, diproses sehingga 30 hari.",
+    "zh": "**可退还：**退出或终止会员资格时，分摊账户余额可退还 — 请于 60 天内申请，处理时间最长 30 天。"
+  },
+  "mem.loyalty.tag": {
+    "en": "Loyalty benefit",
+    "ms": "Manfaat kesetiaan",
+    "zh": "忠诚回馈"
+  },
+  "mem.loyalty.text": {
+    "en": "Stay a member for **3+ continuous years with no inpatient claims** and you'll receive a co-share reimbursement of up to **RM500** — one per 3-year period. A thank-you for keeping the community strong.",
+    "ms": "Kekal sebagai ahli selama **3+ tahun berterusan tanpa tuntutan pesakit dalam** dan anda akan menerima bayaran balik co-share sehingga **RM500** — satu bagi setiap tempoh 3 tahun. Terima kasih kerana mengekalkan kekuatan komuniti.",
+    "zh": "连续 **3 年以上没有住院申请**的会员，可获得最高 **RM500** 的共付金回馈 — 每 3 年一次。感谢您让这个社群更加坚强。"
+  },
+  "cob.pill": {
+    "en": "Optional add-on",
+    "ms": "Manfaat Tambahan Eksklusif",
+    "zh": "专属附加福利"
+  },
+  "cob.title": {
+    "en": "Need Everyday Medical Care Too?",
+    "ms": "Manfaat Pesakit Luar\nBersyarat [[(COB)]]",
+    "zh": "有条件门诊\n福利 [[(COB)]]"
+  },
+  "cob.poweredby": {
+    "en": "Powered by",
+    "ms": "Dikuasakan oleh",
+    "zh": "技术支持"
+  },
+  "cob.desc": {
+    "en": "With our Conditional Outpatient Benefit (COB), our members can access timely healthcare support for everyday medical needs.",
+    "ms": "Tingkatkan akses penjagaan kesihatan anda dengan COB, manfaat pesakit luar pilihan yang direka untuk menyokong penyakit harian yang layak melalui perkhidmatan teleperubatan dan lawatan klinik.",
+    "zh": "透过 COB 提升您的医疗保障。这是一项可选的门诊福利，藉由线上问诊服务与门诊就医，为符合资格的日常常见病症提供支援。"
+  },
+  "cob.link": {
+    "en": "Learn More About COB",
+    "ms": "Ketahui Lebih Lanjut Mengenai COB",
+    "zh": "进一步了解 COB"
+  },
+  "cob.badge.addon": {
+    "en": "Add-On",
+    "ms": "Tambahan",
+    "zh": "附加"
+  },
+  "cob.badge.month": {
+    "en": "/month",
+    "ms": "/bulan",
+    "zh": "/月"
+  },
+  "cob.b1.t": {
+    "en": "Telemedicine",
+    "ms": "Perkhidmatan Teleperubatan",
+    "zh": "线上问诊服务"
+  },
+  "cob.b1.d": {
+    "en": "Consult licensed doctors online from the comfort of home.",
+    "ms": "Berunding dengan doktor berlesen secara dalam talian dari keselesaan rumah anda. Terima e-preskripsi dan pilih penghantaran ubat atau pengambilan di farmasi mengikut kesesuaian.",
+    "zh": "足不出户，在家就能咨询持牌医生。您将收到电子处方，并可在适用情况下选择药品配送到府或到药房自取。"
+  },
+  "cob.b2.t": {
+    "en": "Panel Clinics",
+    "ms": "Lawatan Klinik",
+    "zh": "门诊就医"
+  },
+  "cob.b2.d": {
+    "en": "Visit nationwide panel clinics for eligible outpatient conditions.",
+    "ms": "Akses klinik panel MiCare yang terlibat di seluruh negara untuk konsultasi bersemuka, diagnosis dan rawatan bagi penyakit pesakit luar yang layak.",
+    "zh": "前往全国各地的 MiCare 合作诊所，针对符合资格的门诊病症进行面对面咨询、诊断与治疗。"
+  },
+  "cob.b3.t": {
+    "en": "Designed for You",
+    "ms": "Direka Untuk Anda",
+    "zh": "为您而设"
+  },
+  "cob.b3.d": {
+    "en": "Support for eligible everyday medical conditions.",
+    "ms": "Sokongan untuk keadaan perubatan harian yang layak.",
+    "zh": "支援符合条件的日常医疗状况。"
+  },
+  "cob.s.upto": {
+    "en": "Up to",
+    "ms": "Sehingga",
+    "zh": "最高"
+  },
+  "cob.s.upto2": {
+    "en": "Up to",
+    "ms": "Sehingga",
+    "zh": "最多"
+  },
+  "cob.s.covers": {
+    "en": "Covers",
+    "ms": "Meliputi",
+    "zh": "涵盖"
+  },
+  "cob.s1.label": {
+    "en": "Support Per Episode",
+    "ms": "Sokongan Setiap Episod",
+    "zh": "每次服务支援"
+  },
+  "cob.s2.label": {
+    "en": "Episodes Per Year",
+    "ms": "Episod Setahun",
+    "zh": "每年服务次数"
+  },
+  "cob.s3.label": {
+    "en": "Eligible Outpatient Conditions",
+    "ms": "Penyakit Pesakit Luar Yang Layak",
+    "zh": "符合资格的门诊疾病"
+  },
+  "cob.cta": {
+    "en": "Learn More About COB",
+    "ms": "Ketahui Lebih Lanjut Tentang COB",
+    "zh": "进一步了解 COB"
+  },
+  "cob.note": {
+    "en": "**COB** is an optional add-on benefit. Terms and conditions apply.",
+    "ms": "**COB** ialah manfaat tambahan pilihan. Terma dan syarat dikenakan.",
+    "zh": "**COB** 是一项可选的附加福利。条款与条件适用。"
+  },
+  "mem.plan.ws.f1": {
+    "en": "All core inpatient benefits — ICU, surgery, room and board, ambulance and post-hospital follow-up.",
+    "ms": "Semua manfaat teras pesakit dalam — ICU, pembedahan, bilik dan makan, ambulans serta susulan selepas hospital.",
+    "zh": "涵盖所有核心住院福利 — 加护病房、手术、病房与膳食、救护车及出院后复诊。"
+  },
+  "mem.plan.ws.f2": {
+    "en": "A Sharing Account you own, with a balance that can be refunded.",
+    "ms": "Akaun Perkongsian milik anda, dengan baki yang boleh dikembalikan.",
+    "zh": "属于您的分摊账户，余额可退还。"
+  },
+  "mem.plan.ws.f3": {
+    "en": "A small co-share for each admission, capped so you always know the most you'll pay.",
+    "ms": "Kongsi bayaran kecil bagi setiap kemasukan, dihadkan supaya anda sentiasa tahu jumlah maksimum yang perlu dibayar.",
+    "zh": "每次入院只需承担少量共同分摊，并设有上限，让您清楚知道最多需付多少。"
+  },
+  "mem.join.whoTitle": {
+    "en": "Who can join",
+    "ms": "Siapa yang boleh menyertai",
+    "zh": "谁可以加入"
+  },
+  "mem.join.howTitle": {
+    "en": "How to enrol",
+    "ms": "Cara mendaftar",
+    "zh": "如何注册"
+  },
+  "mem.join.w1": {
+    "en": "Open to all Malaysians, any ethnicity or religion",
+    "ms": "Terbuka kepada semua rakyat Malaysia, apa jua etnik atau agama",
+    "zh": "欢迎所有马来西亚人，不分种族与宗教"
+  },
+  "mem.join.w2": {
+    "en": "Account Owner must be 18 or older",
+    "ms": "Pemilik Akaun mesti berumur 18 tahun ke atas",
+    "zh": "账户持有人须年满 18 岁"
+  },
+  "mem.join.w3": {
+    "en": "Members can be aged 0–45 (still renewable after 45)",
+    "ms": "Ahli boleh berumur 0–45 tahun (masih boleh diperbaharui selepas 45)",
+    "zh": "会员年龄 0–45 岁（45 岁后仍可续约）"
+  },
+  "mem.join.w4": {
+    "en": "Healthy at the time of enrolment",
+    "ms": "Sihat pada masa pendaftaran",
+    "zh": "注册时身体健康"
+  },
+  "mem.join.w5": {
+    "en": "Dependents: minors under 18, or unmarried 18–26 under a member's guardianship",
+    "ms": "Tanggungan: kanak-kanak bawah 18 tahun, atau belum berkahwin berumur 18–26 di bawah jagaan ahli",
+    "zh": "受扶养人：18 岁以下未成年人，或由会员监护、年龄 18–26 岁的未婚人士"
+  }
+}

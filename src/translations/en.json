@@ -1,0 +1,2922 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "benefits": "Benefits",
+    "plans": "Plans",
+    "transparency": "Transparency",
+    "hospital": "Hospital Info",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "join": "Join Now",
+    "login": "Login",
+    "wsDesc": "Share hospital bills with the community",
+    "wcDesc": "Everyday outpatient care, on subscription",
+    "plansAll": "Compare both plans",
+    "clinic": "Clinic Info",
+    "network": "Healthcare Network",
+    "hospitalFull": "Hospital Information",
+    "hospitalDesc": "Every hospital on the e-MAS panel, by state",
+    "clinicFull": "Clinic Information",
+    "clinicDesc": "Every clinic on the MiCare GP panel, by town",
+    "stories": "Stories"
+  },
+  "hpw": {
+    "tag": "How We Kongsi Works",
+    "title": "A Simple Way Members [[Support One Another]]",
+    "desc": "When a member requires medical support, eligible medical expenses are reviewed and shared among active members according to the Program Guidelines.",
+    "cta": "Learn How It Works",
+    "badge": "Trusted Community",
+    "statlabel": "Built On",
+    "statval": "Trust & Transparency",
+    "hl1": "Transparent",
+    "hl2": "Responsible",
+    "hl3": "Community-Driven"
+  },
+  "pil": {
+    "title": "Care Built Around [[What Matters]].",
+    "subtitle": "We Kongsi is built on simple principles that make healthcare support more affordable, transparent, accessible, and community-driven.",
+    "p1": {
+      "eyebrow": "Affordability",
+      "title": "Care that stays affordable",
+      "body": "Monthly sharing is capped, so costs stay predictable and manageable for every member."
+    },
+    "p2": {
+      "eyebrow": "Transparency",
+      "title": "Everything is published",
+      "body": "A full sharing report is published each month, so members can see exactly how the community's contributions are shared."
+    },
+    "p3": {
+      "eyebrow": "Access",
+      "title": "Care within reach",
+      "body": "A wide network of hospitals and clinics is available to members nationwide."
+    },
+    "p4": {
+      "eyebrow": "Community",
+      "title": "Members support members",
+      "body": "Members come together to support one another through unexpected medical expenses."
+    },
+    "eyebrow": "Our Core Principles"
+  },
+  "hero": {
+    "headline": "Struggling to Find [[Affordable]]\n[[Medical Protection?]]",
+    "rotate0": "I don't think it's important right now.",
+    "rotate": [
+      "I don't think it's important right now.",
+      "I'm still young and healthy.",
+      "I don't understand how it works.",
+      "The terms are too complicated."
+    ],
+    "sub": "These are the everyday doubts that leave Malaysians unprotected. We Kongsi makes medical cost-sharing simple, transparent and genuinely affordable.",
+    "cta1": "Join We Kongsi Today",
+    "cta2": "Learn How It Works"
+  },
+  "reality": {
+    "tag": "The Reality",
+    "title": "78% of Malaysians are [[UNPROTECTED]]",
+    "sub": "Many delay medical protection until it's too late.",
+    "bd1": {
+      "t": "Cannot Afford It",
+      "d": "Premiums feel too costly to keep up with, month after month."
+    },
+    "bd2": {
+      "t": "Don't Need It",
+      "d": "Many underestimate their health risks until it's too late."
+    },
+    "bd3": {
+      "t": "Are Protected",
+      "d": "Only a small minority have adequate coverage."
+    },
+    "cta": "Get Protected Today",
+    "donutcap": "Unprotected",
+    "r1": {
+      "cap": "Annual medical inflation",
+      "t": "Healthcare Is Getting More Expensive",
+      "d": "Medical inflation is rising every year, outpacing average income growth."
+    },
+    "r2": {
+      "cap": "Avg. yearly private premium",
+      "t": "Private Hospitals Are Too Expensive",
+      "d": "A simple procedure can cost thousands, draining your life savings instantly."
+    },
+    "r3": {
+      "cap": "Avg. government hospital wait",
+      "t": "Government Hospitals Are Overcrowded",
+      "d": "Long waiting times can worsen conditions that need immediate attention."
+    },
+    "r4": {
+      "cap": "Malaysians lack protection",
+      "t": "Many Children Have No Protection",
+      "d": "Many families leave their kids unprotected due to high insurance premiums."
+    },
+    "transition": "That's why We Kongsi was created."
+  },
+  "intro": {
+    "eyebrow": "We Kongsi is Not an Insurance Provider but a",
+    "title": "Community-Based [[Medical Cost-Sharing]] Platform",
+    "p1": "Designed to help members manage unexpected medical expenses through transparent and responsible sharing.",
+    "p2": "When a member needs medical support, the community shares the burden — making healthcare more accessible and affordable.",
+    "c1": {
+      "tag": "Affordable Healthcare Access",
+      "t": "Within Reach for Everyone",
+      "d": "Healthcare support that stays affordable for everyday Malaysian families — without the burden of rising premiums."
+    },
+    "c2": {
+      "tag": "Sustainable Protection",
+      "t": "Protection You Can Sustain",
+      "d": "Healthcare support shouldn't be a financial burden. We Kongsi offers an affordable, sustainable way for families to access medical support."
+    },
+    "c3": {
+      "tag": "Transparent & Responsible Sharing",
+      "t": "Built On Trust",
+      "d": "Sharing activities are openly communicated to members, giving everyone clarity and confidence in how the community helps."
+    }
+  },
+  "impact": {
+    "tag": "Community Impact",
+    "title": "Trusted by Our \n[[Growing Community]]",
+    "members": "Total Members",
+    "bills": "Shared Amount",
+    "hospital": "Supported Hospitals",
+    "clinic": "Supported Clinics",
+    "sub": "Every number represents a member who received support when they needed it most."
+  },
+  "coverage": {
+    "tag": "Medical Needs We Share",
+    "title": "Support for Life's [[Unexpected Medical Needs]]",
+    "desc": "From hospitalisation to everyday healthcare, discover how WeShare brings members together to support eligible medical needs.",
+    "c1": {
+      "amt": "Annual sharing limit: RM1,000,000",
+      "t": "Inpatient Hospitalisation",
+      "d": "Support for eligible hospital stays due to illness or injury.",
+      "cat": "Hospital Care"
+    },
+    "c2": {
+      "amt": "Up to 120 days per year",
+      "t": "Room & Board",
+      "d": "Hospital room and meals during an inpatient stay.",
+      "cat": "Hospital Stay"
+    },
+    "c3": {
+      "amt": "Separate from the RM1,000,000 annual limit",
+      "t": "Outpatient Cancer Treatment",
+      "d": "Support for eligible cancer treatments outside hospital admission.",
+      "cat": "Specialised Treatment"
+    },
+    "c4": {
+      "amt": "RM10,000",
+      "t": "Bereavement Support",
+      "d": "Financial support for the designated beneficiary when a member passes away.",
+      "cat": "Family Care"
+    },
+    "c5": {
+      "amt": "Up to RM10,000",
+      "t": "Accidental Injury Treatment",
+      "d": "Support for accidental injuries and related medical treatment."
+    },
+    "c6": {
+      "amt": "RM50–100 / day",
+      "t": "Daily Cash Allowance",
+      "d": "Cash benefit during government hospital stay, up to 120 days a year."
+    },
+    "c7": {
+      "amt": "Up to RM10,000",
+      "t": "Post-Hospital Follow-Up",
+      "d": "Follow-up treatment within 60 days after discharge."
+    },
+    "c8": {
+      "amt": "Included",
+      "t": "Surgery, ICU & Ambulance",
+      "d": "Surgical fees, operating theatre, anaesthetist, ICU and ambulance."
+    },
+    "note": "Subject to Program Guidelines and eligibility requirements.",
+    "cob": {
+      "cat": "Everyday Healthcare",
+      "t": "Outpatient Care",
+      "d": "Access telemedicine and panel clinic visits for eligible everyday medical needs.",
+      "amt": "RM15 per month · up to RM120 per episode",
+      "badge": "Optional add-on"
+    }
+  },
+  "cs": {
+    "title": "How [[Cost-Sharing]] Works",
+    "desc": "Each month, the total approved medical bills of hospitalised members are shared fairly across all active members. Your contribution rises and falls with the community's actual needs — and is always capped, so you are never overcharged.",
+    "ex1": {
+      "tag": "Example 1",
+      "outcome": {
+        "t": "You pay just RM12.50 this month",
+        "d": "A RM100,000 hospital bill, split across 8,000 members, costs each person about the price of a coffee."
+      }
+    },
+    "ex2": {
+      "tag": "Example 2",
+      "outcome": {
+        "t": "You still pay only RM60 — never more",
+        "d": "Even in a heavy month where the share works out to RM100, your monthly contribution is capped at RM60. The remaining RM40 is carried forward by the community, not billed to you."
+      }
+    },
+    "ex3": {
+      "tag": "Example 3",
+      "outcome": {
+        "t": "A quiet month costs you nothing",
+        "d": "When no members are hospitalised, there is nothing to share — so your contribution for the month is RM0."
+      }
+    },
+    "lbl": {
+      "totalbill": "Total Medical Bill",
+      "activemembers": "Active Members",
+      "sharingcost": "Sharing Cost",
+      "youpayonly": "You Pay Only"
+    },
+    "sub": {
+      "approved": "approved this month",
+      "thismonth": "this month",
+      "permember": "per member",
+      "beforecap": "before cap",
+      "cappedmonth": "capped per month",
+      "noclaims": "nothing shared this month"
+    },
+    "afford": {
+      "eyebrow": "Wait... it's really this affordable?",
+      "title": "From less than [[RM2]] a day",
+      "desc": "That's cheaper than your daily **teh tarik** — yet it helps protect you and the whole community.",
+      "teh": "Teh Tarik",
+      "vs": "vs",
+      "from": "fr. RM2"
+    }
+  },
+  "choose": {
+    "tag": "Choose Your Plan",
+    "title": "Choose The Benefits\n[[That Suit You]]",
+    "desc": "Select the protection that meets your needs.",
+    "sharing": "Sharing",
+    "permonth": "/ month",
+    "opt1": {
+      "badge": "Option 1",
+      "t": "Hospitalisation Only",
+      "sub": "Hospitalisation protection only",
+      "f1": {
+        "t": "Hospitalisation Benefit",
+        "d": "Applicable when admitted to hospital"
+      },
+      "f2": {
+        "t": "No Conditional Outpatient Benefit",
+        "d": "No outpatient clinic or panel benefit"
+      }
+    },
+    "opt2": {
+      "badge": "Option 2",
+      "t": "Hospitalisation + COB",
+      "sub": "Hospitalisation + Conditional Outpatient Benefit",
+      "addon": "Add only **RM15** / month",
+      "f1": {
+        "t": "Hospitalisation Benefit",
+        "d": "Applicable when admitted to hospital"
+      },
+      "f2": {
+        "t": "Conditional Outpatient Benefit (COB)",
+        "d": "Outpatient clinic & panel benefit included"
+      }
+    }
+  },
+  "sa": {
+    "tag": "Sharing Account",
+    "title": "Your Sharing Account, [[Fully Owned by You]]",
+    "desc": "Your Sharing Account is used to participate in monthly medical cost-sharing within the community. The funds are owned solely by you and managed by a licensed Trustee.",
+    "autotopupto": "Auto Top-Up to",
+    "std": {
+      "name": "Standard Package",
+      "room": "RM150 / day",
+      "cash": "RM50 / day"
+    },
+    "dlx": {
+      "name": "Deluxe Package",
+      "room": "RM250 / day",
+      "cash": "RM100 / day",
+      "ambulance": "As charged"
+    },
+    "premium": "Premium",
+    "row": {
+      "annual": "Annual Limit",
+      "room": "Room & Board",
+      "cash": "Daily Cash Allowance in Government Hospital",
+      "cancer": "Outpatient Cancer Treatment",
+      "prehosp": "Pre-Hospital Tests & Diagnostics",
+      "ambulance": "Ambulance Fee"
+    },
+    "na": "N/A",
+    "note": "Actual monthly sharing depends on approved medical cases for the month."
+  },
+  "at": {
+    "tag": "Cost-Sharing & Auto Top-Up",
+    "title": "Set Up Once, [[Always Protected]]",
+    "desc": "Join once, complete a simple setup, and your medical cost-sharing runs on autopilot. Auto top-up quietly refills your Sharing Account so your protection never lapses.",
+    "steptitle": "How It Works, Step by Step",
+    "s1": {
+      "day": "Day 1",
+      "t": "Join We Kongsi",
+      "d": "Register as a member in just a few minutes."
+    },
+    "s2": {
+      "day": "Setup",
+      "t": "Fund Your Sharing Account",
+      "d": "Top up to RM150 (Standard) or RM300 (Deluxe) to start."
+    },
+    "s3": {
+      "day": "Day 1 – 90",
+      "t": "Waiting Period",
+      "d": "No sharing is deducted during your first 90 days."
+    },
+    "s4": {
+      "day": "Day 91 Onwards",
+      "t": "Sharing Begins",
+      "d": "Each month, only **RM0 – RM60** is shared, based on the community's approved cases."
+    },
+    "simtitle": "Auto Top-Up in Action",
+    "balance": "Sharing Account Balance",
+    "trigger": "Top-up trigger",
+    "status": {
+      "deduct": "Monthly sharing deducted…",
+      "trigger": "Balance below trigger — auto top-up activating",
+      "restore": "Auto top-up complete — balance restored"
+    },
+    "leg1": "Monthly sharing is deducted from your balance.",
+    "leg2": "When it drops below the trigger, auto top-up activates.",
+    "leg3": "Your balance is instantly restored — protection never lapses.",
+    "foot": "Standard tops up to **RM150** · Deluxe tops up to **RM300**",
+    "fixed": {
+      "tag": "Prefer a fixed amount?",
+      "t": "Or choose the [[RM75]] Fixed Monthly Option",
+      "d": "Rather not have your contribution change from month to month? You can opt for a simple **flat RM75 every month** — fully predictable budgeting with the same community protection, so there are never any surprises."
+    }
+  },
+  "co": {
+    "tag": "Co-Share",
+    "title": "How [[Co-Share]] Works",
+    "desc": "When you're admitted as an inpatient, you pay a small co-share portion of the approved bill — and the community shares the rest. Your co-share is based on your age group and is always capped.",
+    "age1": "Age 0 – 5",
+    "age2": "Age 6 – 45",
+    "age3": "Age 46 & above",
+    "ofbill": "of the approved bill",
+    "worked": "Worked Example",
+    "lbl": {
+      "approved": "Approved Bill",
+      "rate": "Co-Share (Age 6 – 45)",
+      "youpay": "You Pay Only",
+      "worksout": "Works Out To"
+    },
+    "ex1": {
+      "t": "Mei, age 28, has a RM2,000 hospital bill",
+      "cap": "within the RM500 cap",
+      "result": "Mei pays just **RM200** — the community shares the remaining **RM1,800** of the bill."
+    },
+    "ex2": {
+      "t": "Aiman, age 30, is admitted to a private hospital",
+      "cap": "capped per admission",
+      "result": "Aiman pays just **RM500** — the community shares the remaining **RM49,500** of the bill."
+    },
+    "cap": {
+      "t": "Capped at [[RM500]] per admission",
+      "d": "No matter how large the approved bill, your co-share never exceeds RM500 per inpatient admission."
+    },
+    "pt1": "Calculated on the **final approved bill**, after TPA review",
+    "pt2": "Applies **per inpatient admission**, on eligible bills only",
+    "pt3": "**No co-share** for Government Hospital admissions",
+    "pt4": "Your co-share is **not shared** with the community"
+  },
+  "pt": {
+    "tag": "Trust",
+    "title": "Officially Shariah-Compliant",
+    "subtitle": "Certified and Vetted by Afsha Shariah Advisory",
+    "text": "We Kongsi is officially certified as Shariah-compliant by Afsha Shariah Advisory, providing members with confidence that our medical cost-sharing program operates transparently, ethically, and in accordance with Islamic principles.",
+    "logostitle": "Trusted Technology & Compliance Partners",
+    "paneltitle": "250+ Panel Hospitals Nationwide"
+  },
+  "ts": {
+    "tag": "Real Member Stories",
+    "title": "Real People. [[Real Support]].",
+    "desc": "Behind every medical bill is a person, a family, and a story worth sharing.",
+    "watch": "Watch Full Video",
+    "q": {
+      "xinmin": "\"The RM15,000 surgery I needed would have been a huge burden for my family. Thanks to We Kongsi and the support of the community, I was able to focus on my recovery instead of worrying about the medical expenses.\"",
+      "faridah": "\"Joining We Kongsi was the best decision for my family. The monthly contribution is so affordable, and knowing the whole community has our back gives us real peace of mind.\"",
+      "kalai": "\"What impressed me most is the transparency. Every month I can see exactly how the sharing works and how many members were helped. It simply feels honest.\"",
+      "honey": "\"After switching from expensive medical insurance, I found We Kongsi to be much more affordable. When I underwent a RM45,000 surgery, the support I received gave me and my family real peace of mind.\"",
+      "weijie": "\"As a small business owner, I couldn't justify expensive insurance premiums. We Kongsi gives me genuine protection at a price that actually makes sense for me.\"",
+      "suriani": "\"The teleconsultation through COB saved me so many clinic trips with my kids. It's quick, easy, and the support is always there when we need it.\"",
+      "niena": "\"An unexpected accident left me with a RM39,000 medical bill. The support and smooth process gave me confidence during a difficult time, allowing me to focus on getting better.\"",
+      "daniel": "\"I referred my whole family because the process is so straightforward. When my mother was admitted, everything was handled with care and without delay.\"",
+      "hafiz": "\"Even living far from the city, getting support was simple. We Kongsi gave my family reliable protection without the heavy cost of traditional insurance.\"",
+      "syafiq": "\"I wanted a more affordable alternative, and We Kongsi gave me exactly that. When I needed ankle surgery, the support I received reassured me that I had made the right choice.\"",
+      "hizam": "\"My member was admitted for severe food poisoning, and the support was immediate. Seeing the claim handled fast proves that We Kongsi delivers real value for my community.\"",
+      "maslina": "\"My child was in a motor accident, but because our family of 8 is protected, they got comfortable, fast treatment at a private hospital. We Kongsi covered it all — we are so grateful!\"",
+      "ainul": "\"We were uncertain at first, but when our child was hospitalised, the Guarantee Letter process was smooth and timely. That experience gave us confidence and showed us the value of being part of a caring community.\"",
+      "king": "\"I was admitted to the hospital after experiencing heart pain, and it was something I never expected to happen to me. My total medical bill came to around RM60,000. I'm truly grateful to have had We Kongsi and the support of the community when I needed it most.\"",
+      "albari": "\"I have been a We Kongsi member for three years, and I never expected that one day I would need the support myself. On my way to work, I was involved in an accident that resulted in broken bones, with medical expenses reaching around RM82,000. Knowing that I had We Kongsi gave me peace of mind during my recovery.\"",
+      "family": "\"After our family trip to KL, my daughter had to be admitted to the hospital for 2–3 days because of stomach problems. The bill came to around RM2,200, which was an unexpected expense for our family. Thank goodness I had We Kongsi to help ease the burden during that time.\"",
+      "arhuzaim": "He left for work like any other day. A road accident put him in a private hospital, and the treatment came to RM133,000. A We Kongsi member for more than three years, he walks through what happened from the moment he was admitted to the day he was discharged.",
+      "rider": "For a rider, the motorcycle is how the day's income is earned — until an accident left him with a hospital bill of around RM93,000. His message to other riders is simple: \"Don't be too calculating about the monthly contribution. We never know when misfortune will come.\""
+    },
+    "m": {
+      "xinmin": "19 · Perak",
+      "faridah": "38 · Selangor",
+      "kalai": "33 · Negeri Sembilan",
+      "honey": "27 · Perak",
+      "weijie": "41 · Melaka",
+      "suriani": "30 · Kedah",
+      "niena": "26 · Johor",
+      "daniel": "36 · Kuala Lumpur",
+      "hafiz": "45 · Pahang",
+      "syafiq": "29 · Kelantan",
+      "hizam": "Referrer",
+      "maslina": "We Kongsi Member",
+      "king": "We Kongsi Member",
+      "albari": "We Kongsi Member",
+      "family": "Member's Family",
+      "ainul": "35 & 42",
+      "arhuzaim": "Member for over 3 years",
+      "rider": "Motorcycle rider"
+    },
+    "h": {
+      "king": "Support When It Mattered Most",
+      "albari": "When the Unexpected Happened",
+      "family": "A Family Trip That Took a Turn",
+      "xinmin": "Surgery Without the Burden",
+      "honey": "A More Affordable Way to Be Supported",
+      "niena": "Confidence Through a Difficult Time",
+      "syafiq": "The Right Choice, Confirmed",
+      "hizam": "Help That Arrived Immediately",
+      "maslina": "Fast Care for a Family of Eight",
+      "ainul": "Smooth and Timely When It Counted",
+      "faridah": "The Best Decision for My Family",
+      "kalai": "Every Month, Openly Published",
+      "weijie": "Real Protection at a Price That Works",
+      "suriani": "Fewer Clinic Trips With the Kids",
+      "daniel": "Handled With Care, Without Delay",
+      "hafiz": "Reliable Support, Far From the City",
+      "arhuzaim": "An Ordinary Day That Changed Everything",
+      "rider": "I Never Thought It Would Happen to Me"
+    },
+    "closeVideo": "Close video",
+    "prev": "Previous stories",
+    "next": "Next stories"
+  },
+  "faq": {
+    "tag": "FAQ",
+    "title": "Frequently Asked [[Questions]]",
+    "q1": "What is Medical Cost-Sharing?",
+    "a1": "Medical Cost-Sharing is a community-based model where members voluntarily pool resources to help cover each other's approved medical expenses. When a member has an eligible medical bill, the community shares the cost among all active members, making healthcare more accessible and affordable.",
+    "q2": "How is We Kongsi different from insurance?",
+    "a2": "We Kongsi is NOT an insurance product. Unlike insurance, We Kongsi is a community-driven program where members help members — there's no insurance company taking profit. Members contribute only when there are approved medical cases, making it more transparent and community-focused.",
+    "q3": "How much do I contribute monthly?",
+    "a3": "Your monthly sharing depends on the approved medical cases that month, divided among all active members. Inpatient sharing is capped at RM60 per member. With the COB option you may contribute an additional RM15. The membership fee is separate and fixed at RM40/month (or RM100/quarter, RM360/year).",
+    "q4": "What happens if there are no approved cases?",
+    "a4": "If there are no approved hospital cases in a month, no inpatient sharing is required. Your Sharing Account balance is carried forward and remains available for future months when the community needs support.",
+    "q5": "What is COB (Conditional Outpatient Benefit)?",
+    "a5": "COB provides support for everyday illnesses, including telemedicine via HEYDOC Health and clinic visits at MiCare panel clinics nationwide. Members receive up to RM120 support per episode, for up to 8 episodes per year, covering 17 eligible outpatient conditions.",
+    "q6": "Can I opt out of COB?",
+    "a6": "Yes, COB is optional. You can choose an Inpatient-Only package without COB, or include COB for comprehensive outpatient support. Speak to your We Kongsi agent for details on the available options.",
+    "q7": "How does sharing work in practice?",
+    "a7": "Each month, all approved medical bills are totalled and divided equally among active members. For example, if RM200,000 in bills is approved across 5,000 active members, each member shares RM40 that month. Inpatient sharing is always capped at RM60/month.",
+    "q8": "How do I join We Kongsi?",
+    "a8": "Membership is taken out through a referrer, so there is no sign-up form to fill in on your own. Chat with us and we will connect you with one — they will take you through the plans, check you are eligible and complete the registration with you."
+  },
+  "cta": {
+    "title": "Join A Community\n[[That Cares]]",
+    "desc": "Become part of a community helping one another access healthcare support when it matters most.",
+    "join": "Join We Kongsi Today",
+    "agent": "Speak To An Agent",
+    "trust1": "Community-Driven Cost-Sharing",
+    "trust2": "Shariah Compliant",
+    "trust3": "Transparent Sharing Process"
+  },
+  "footer": {
+    "about": {
+      "_": "A community-driven Medical Cost-Sharing Program making healthcare support more accessible and affordable for all Malaysians.",
+      "link": "About We Kongsi"
+    },
+    "quicklinks": "Quick Links",
+    "howitworks": "How It Works",
+    "coverage": "Medical Benefits",
+    "plans": "Membership Plans",
+    "cob": "COB Benefit",
+    "support": "Support",
+    "faq": "FAQ",
+    "website": "Visit Website",
+    "guidelines": "Program Guidelines",
+    "contactus": "Contact Us",
+    "whatsapp": "WhatsApp Us",
+    "contact": "Contact",
+    "generalline": "General Line:",
+    "email": "Email:",
+    "micare": "MiCare Hotline:",
+    "disclaimer": "**Disclaimer:** We Kongsi is a community-driven Medical Cost-Sharing Program and is not an insurance product. Medical cost-sharing is subject to Program Guidelines and eligibility requirements. Past sharing activities do not guarantee future sharing amounts.",
+    "rights": "All rights reserved."
+  },
+  "wa": {
+    "float": "Chat With Us"
+  },
+  "site": {
+    "footer": {
+      "tagline": "A membership-based medical cost-sharing community program, administered by Kita Kongsi Sdn Bhd. Anyone Can Afford Healthcare.",
+      "program": "Program",
+      "company": "Company",
+      "getInTouch": "Get in Touch",
+      "benefitsCoverage": "Medical Benefits",
+      "feesSharing": "Fees & Sharing",
+      "transparencyReports": "Transparency & Reports",
+      "aboutUs": "About Us",
+      "ourLeaders": "Our Leaders",
+      "hospitalInfo": "Hospital Info",
+      "companyName": "Kita Kongsi Sdn Bhd",
+      "address": "c/o WeWork Level 18, Equatorial Plaza, Jalan Sultan Ismail, 50250 Kuala Lumpur, Malaysia",
+      "noteLabel": "Important Note:",
+      "note": "We Kongsi is NOT an insurance company or Takaful. The program is driven by the voluntary agreement among members to share each other's medical expenses. Every member has full rights to withdraw at any time and to stop sharing. This membership does not function as a group or individual insurance policy. The risk of each member is shared by the community and does not transfer to the company. To ensure all medical needs are fully covered, members are encouraged to also consult a licensed insurance or Takaful provider.",
+      "copyright": "© {{year}} Kita Kongsi Sdn Bhd. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "clinicInfo": "Clinic Info",
+      "stories": "Stories"
+    },
+    "common": {
+      "readMore": "Read more",
+      "backToTop": "Back to top",
+      "skipToContent": "Skip to content"
+    },
+    "hero": {
+      "eyebrow": "Medical Cost Sharing",
+      "title": "An Alternative Way to\n[[Medical Protection]]",
+      "sub": "A community-based medical cost-sharing platform built on transparency, affordability, and fairness.",
+      "pill1": "Transparency",
+      "pill2": "Affordability",
+      "pill3": "Fairness",
+      "imgAlt": "Five friends outdoors, looking at a tablet together"
+    },
+    "impact": {
+      "waiting": "Within 90-day waiting period",
+      "active": "Active members (90+ days)",
+      "breakdown": "Member breakdown"
+    },
+    "cta": {
+      "eyebrow": "Ready when you are",
+      "become": "Become a Member",
+      "readFaq": "Read the FAQ"
+    },
+    "testimonial": {
+      "role": {
+        "member": "We Kongsi Member",
+        "family": "Member's Family"
+      }
+    },
+    "nav": {
+      "openMenu": "Open menu",
+      "closeMenu": "Close menu"
+    },
+    "brand": {
+      "descriptor": "Medical Cost-Sharing"
+    }
+  },
+  "meta": {
+    "home": {
+      "title": "We Kongsi — Community-Driven Medical Cost-Sharing for Malaysians",
+      "desc": "A community-driven medical cost-sharing program. Members share approved medical bills together, so healthcare support stays affordable and transparent."
+    },
+    "coverage": {
+      "title": "Medical Benefits",
+      "desc": "What the We Kongsi community shares — hospitalisation, surgery, outpatient support and more, with eligibility set out in the Program Guidelines."
+    },
+    "membership": {
+      "title": "Membership Plans",
+      "desc": "WeShare and WeCare — what each plan covers and how to join, set out plainly."
+    },
+    "transparency": {
+      "title": "Transparency & Reports",
+      "desc": "Monthly sharing reports and governance. See how each approved case was shared across the community."
+    },
+    "hospital": {
+      "title": "Hospital Info",
+      "desc": "Panel hospitals available to We Kongsi members, and what to do when you are admitted."
+    },
+    "about": {
+      "title": "About We Kongsi",
+      "desc": "Thousands of Malaysians sharing each other's hospital bills, openly and under independent oversight. How We Kongsi started, and who stands behind it."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "desc": "Answers on eligibility, contributions, case reviews, waiting periods and how community cost-sharing differs from insurance."
+    },
+    "blog": {
+      "title": "Blog & Announcements",
+      "desc": "Program updates, community stories and announcements from the We Kongsi team."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "desc": "Talk to the We Kongsi team by WhatsApp, phone or email — or reach the eMAS and MiCare carelines."
+    },
+    "plans": {
+      "title": "Plans — WeShare & WeCare",
+      "desc": "Two plans: WeShare shares the cost of hospitalisation among members, WeCare covers everyday outpatient care."
+    },
+    "weshare": {
+      "title": "WeShare — Medical Cost-Sharing",
+      "desc": "What WeShare covers, how the community shares an approved hospital bill, and what you own."
+    },
+    "wecare": {
+      "title": "WeCare — Everyday Healthcare Subscription",
+      "desc": "Unlimited video consultations with a licensed doctor, panel clinic visits and medicine for 21 everyday conditions. From RM45 a quarter."
+    },
+    "clinic": {
+      "title": "Clinic Info",
+      "desc": "Every clinic on the MiCare GP panel, searchable by state, town or name — with opening hours and phone numbers."
+    },
+    "stories": {
+      "title": "Stories",
+      "desc": "Community initiatives, partnerships, member experiences and governance updates from We Kongsi."
+    }
+  },
+  "mem": {
+    "hero": {
+      "eyebrow": "Our Plans",
+      "title": "Join a community that\n[[has your back]]",
+      "lede": "Two separate plans. WeShare brings the community together to share eligible hospitalisation costs. WeCare is a standalone outpatient plan for everyday care."
+    },
+    "plan": {
+      "eyebrow": "Choose Your Plan",
+      "title": "WeShare or [[WeCare]]",
+      "desc": "Two plans, each with its own purpose — one for the cost of hospitalisation, one for everyday care.",
+      "standard": "Standard Plan",
+      "deluxe": "Deluxe Plan",
+      "sharedPerYear": "medical cost shared per year",
+      "ws": {
+        "kind": "Medical cost-sharing",
+        "desc": "The core programme. When a member is warded, the community shares the approved bill.",
+        "cta": "Join WeShare",
+        "h1": "Hospitalisation Support",
+        "h2": "Community Cost-Sharing",
+        "h3": "A Sharing Account You Own"
+      },
+      "wc": {
+        "kind": "Outpatient plan"
+      }
+    },
+    "common": {
+      "included": "Included",
+      "na": "N/A",
+      "upTo": "Up to",
+      "perDay": "/day",
+      "perAdmission": "{{value}} per admission",
+      "perDayValue": "{{value}} / day",
+      "upToValue": "Up to {{value}}"
+    },
+    "join": {
+      "eyebrow": "Join Us",
+      "title": "Eligibility &\n[[how to enrol]]",
+      "desc": "We Kongsi is open to all Malaysians, of any ethnicity or religion, who are healthy at the time of enrolment.",
+      "h1": "**Choose your plan** — WeShare or WeCare.",
+      "h2": "**Complete the membership application** and health declaration.",
+      "h3": "**Set up auto-debit** via eMandate (Curlec).",
+      "h4": "**You're in** — your Sharing Account opens, initial top-up at 60 days, and sharing begins after the 90-day wait."
+    },
+    "cta": {
+      "become": "Become a member",
+      "seeHow": "See how it works"
+    }
+  },
+  "cov": {
+    "hero": {
+      "eyebrow": "Medical benefits",
+      "title": "What [[We Cover]]",
+      "lede": "A plain-language overview of the medical costs our community shares together — what's eligible, how outpatient care works, your own co-share portion, and what falls outside the programme. The full Program Guidelines remain the official reference."
+    },
+    "inpatient": {
+      "eyebrow": "Eligible to Share",
+      "title": "Inpatient medical costs\n[[we share]]",
+      "desc": "WeShare members share eligible inpatient medical costs up to RM1,000,000 per member, per year."
+    },
+    "limit": {
+      "label": "Annual sharing limit",
+      "note": "per member, per year"
+    },
+    "i1": {
+      "t": "Room & board",
+      "d": "Daily hospital room and meals, up to a maximum of 120 days per year.",
+      "s": "Room and meals, up to 120 days a year"
+    },
+    "i2": {
+      "t": "Intensive care (ICU)",
+      "d": "Intensive care charges, up to a maximum of 30 days per year.",
+      "s": "Up to 30 days a year"
+    },
+    "i3": {
+      "t": "Ambulance",
+      "d": "Emergency ambulance to hospital.",
+      "s": "Emergency transport to hospital"
+    },
+    "i4": {
+      "t": "Surgery & theatre",
+      "d": "Surgical fees · operating theatre charges · anaesthetist fees · second surgical or treatment opinion.",
+      "s": "Theatre, anaesthetist, second opinion"
+    },
+    "i5": {
+      "t": "In-hospital care",
+      "d": "Hospital supplies & services · in-hospital doctor visits (2/day, max 120/yr) · compulsory or Covid admission test.",
+      "s": "Supplies, doctor visits, admission test"
+    },
+    "i6": {
+      "t": "Day care & day surgery",
+      "d": "Procedures that don't require an overnight stay.",
+      "s": "No overnight stay needed"
+    },
+    "i7": {
+      "t": "Emergency accidental dental",
+      "d": "Dental treatment needed because of an accident (injury to sound natural teeth).",
+      "s": "After an accident, to sound natural teeth"
+    },
+    "i8": {
+      "t": "Daily cash, government hospital",
+      "d": "A daily allowance when you choose a government hospital, up to 120 days.",
+      "s": "A daily allowance, up to 120 days"
+    },
+    "i9": {
+      "t": "Sports injuries",
+      "d": "Sports-injury cases are eligible but capped at RM10,000 per case.",
+      "s": "Eligible, capped at RM10,000 per case"
+    },
+    "add": {
+      "title": "Beyond the [[hospital bed]]",
+      "eyebrow": "Additional Benefits",
+      "desc": "These benefits extend care before and after a hospital stay — some sit within the RM1,000,000 limit, others have their own separate limit."
+    },
+    "a1": {
+      "t": "Pre-Hospital Diagnostic Test & Consultation",
+      "d": "Up to RM5,000 for diagnostic tests and consultation in the 30 days before an admission.",
+      "badge": "Deluxe only",
+      "s": "Pre-hospital diagnostics"
+    },
+    "a2": {
+      "t": "Post-Hospital Follow-Up",
+      "d": "Up to RM10,000 within 60 days of discharge. Pay first, submit within 30 days; maximum 2 requests per year.",
+      "s": "Post-hospital follow-up"
+    },
+    "a3": {
+      "t": "Accidental Injury Surgery / Treatment",
+      "d": "Up to RM10,000 during the waiting period. After the waiting period (90 days non-sport, 180 days sport injuries), the RM1,000,000 inpatient limit applies.",
+      "s": "Accidental injury treatment"
+    },
+    "a4": {
+      "t": "Bereavement",
+      "d": "RM10,000 paid to your named beneficiary. 90-day waiting period; no pre-existing conditions.",
+      "s": "Bereavement"
+    },
+    "a5": {
+      "t": "Outpatient Cancer Treatment",
+      "d": "Up to RM100,000 — this limit is separate from the RM1,000,000 inpatient limit. 180-day waiting period applies.",
+      "s": "Outpatient cancer treatment"
+    },
+    "cob": {
+      "eyebrow": "Outpatient Care",
+      "title": "Everyday care with\n[[HEYDOC Health]]",
+      "desc": "An optional Conditional Outpatient Benefit (COB) for the everyday illnesses that don't need a hospital stay — delivered through HEYDOC Health.",
+      "priceNote": "after a 90-day waiting period",
+      "f1": {
+        "t": "8 episodes a year",
+        "d": "2 on activation, then +2 each quarter. Unused episodes accumulate."
+      },
+      "f2": {
+        "t": "What's an episode?",
+        "d": "One medical issue, open for 7 days — with one free same-clinic follow-up included."
+      },
+      "f3": {
+        "t": "Up to RM120 per episode",
+        "d": "Telemedicine and a clinic visit are each supported up to RM120 per episode. Anything above that is paid by the member."
+      },
+      "f4": {
+        "t": "Unlimited teleconsults",
+        "d": "Supplementary teleconsultation, unlimited, daily from 9am to 10pm."
+      },
+      "conditionsTitle": "Common conditions COB is designed for",
+      "conditions": [
+        "Dengue",
+        "Viral fever",
+        "Influenza",
+        "Bronchitis",
+        "Gastroenteritis",
+        "Pneumonia",
+        "Tonsillitis",
+        "Gastritis",
+        "Urinary tract infection",
+        "Mild asthma",
+        "Sinus infections",
+        "Minor cuts / stitches",
+        "Sprains",
+        "Minor fractures",
+        "Skin infections",
+        "ENT infections"
+      ]
+    },
+    "cond": {
+      "eyebrow": "Supported Conditions",
+      "title": "The kinds of conditions\n[[we support]]",
+      "desc": "Broad categories of conditions eligible for sharing. All are subject to waiting periods and pre-existing condition review.",
+      "note": "All conditions are subject to waiting periods (accidental injury immediate; common illnesses after 90 days; specified illnesses such as hypertension, diabetes, heart attack and cancer after 180 days) and pre-existing condition review.",
+      "list": [
+        "Cardiovascular conditions",
+        "Respiratory diseases",
+        "Musculoskeletal disorders",
+        "Neurological conditions",
+        "Diabetes management",
+        "Kidney disease & dialysis",
+        "Cancer treatment",
+        "Gastrointestinal disorders",
+        "Eye conditions (surgical)",
+        "Maternity complications",
+        "Infectious diseases",
+        "Chronic disease management"
+      ]
+    },
+    "excl": {
+      "eyebrow": "Not Eligible to Share",
+      "title": "[[Exclusions]]",
+      "desc": "The following are not eligible to share. Please read these carefully before joining. A few entries have stated exceptions, noted in brackets.",
+      "showAll": "Show all exclusions",
+      "list": [
+        "Abortion (unless the mother's life is endangered)",
+        "Injuries from air travel (except as a fare-paying passenger on a scheduled airline)",
+        "Alcohol & drug abuse / rehabilitation",
+        "Alternative treatments (acupuncture, chiropractic, massage, osteopathy, reflexology, hyperbaric, etc.)",
+        "Circumcision",
+        "Complications from non-eligible treatment",
+        "Congenital or hereditary diseases (e.g. clubfoot, VSD, ASD, thalassemia)",
+        "Cosmetic surgery (except reconstruction after breast cancer)",
+        "Dental (periodontics, orthodontics, TMJ, etc., except injury to sound natural teeth)",
+        "Durable medical equipment (subject to TPA approval)",
+        "Emergency-room charges for non-emergencies",
+        "Exercise programmes (except supervised cardiac rehab)",
+        "Experimental / unproven treatments",
+        "Eye care (refraction, glasses, LASIK, routine exams)",
+        "Gross-negligent acts",
+        "Hair loss",
+        "Hazardous hobbies (rock-climbing, skydiving, etc.)",
+        "Hearing aids & exams",
+        "Implants (except screws / plates for accidental injury, subject to TPA)",
+        "Impotence",
+        "Infertility",
+        "Mental-health treatments",
+        "Sleep / snoring disorders, hormone & stem-cell therapy",
+        "Expenses with no legal obligation to pay",
+        "Non-panel hospital treatment",
+        "Non-medically-necessary treatments",
+        "Non-prescribed supplies",
+        "Non-reasonable / customary charges",
+        "Organ transplant",
+        "Outpatient kidney dialysis",
+        "Outpatient treatments unrelated to inpatient care",
+        "Pandemic-related treatment",
+        "Personal comfort items",
+        "Pregnancy & maternity (except miscarriage due to accident)",
+        "Pre-existing conditions",
+        "Pre-hospital diagnostic test (except Deluxe, up to RM5,000)",
+        "Pre-hospital specialist consultation (except Deluxe)",
+        "Post-hospitalisation treatment beyond the follow-up benefit",
+        "Professional racing / competitive events",
+        "Radiation / contamination",
+        "Replacement braces",
+        "Routine & preventive care (screenings, vaccinations, health check-ups)",
+        "Self-inflicted injuries",
+        "Sex-change treatments",
+        "Special cases announced by authorities",
+        "Speech & occupational therapy",
+        "Surgical sterilisation or reversal",
+        "Non-emergency ambulance transport",
+        "Travel / accommodation",
+        "Treatment by a relative",
+        "Venereal disease / HIV / AIDS (with stated exceptions)",
+        "Waiting-period expenses",
+        "War / terrorism / nuclear"
+      ]
+    },
+    "pre": {
+      "eyebrow": "Section 5.D",
+      "title": "[[Pre-existing]] conditions",
+      "p1": "A pre-existing condition is one that was **diagnosed, treated, or showed symptoms before you joined** We Kongsi. These are disclosed through a health screening at enrolment.",
+      "p2": "Depending on the condition, it may be excluded from sharing or affect your eligibility.",
+      "p3": "Failing to disclose a pre-existing condition can lead to **termination** of membership.",
+      "p4": "A condition that arises **within the waiting period** (per the Investigation Diagnosis List) may be treated as pre-existing, at the TPA's discretion."
+    },
+    "footnote": "This page is a plain-language summary. The full We Kongsi Program Guidelines are the official reference and govern in the event of any difference."
+  },
+  "ab": {
+    "hero": {
+      "eyebrow": "About We Kongsi",
+      "title": "Thousands of Malaysians,\n[[looking out for each other]].",
+      "lede": "When one of us ends up in hospital, the rest of us help pay the bill. That is the whole idea — and it has been working since 2023.",
+      "years": "Years in operation",
+      "imgAlt": "The We Kongsi team, waving the hand from the logo"
+    },
+    "values": {
+      "title": "Four Things We\n[[Won't Bend On]].",
+      "v1": {
+        "t": "Every ringgit gets published",
+        "d": "A sharing report goes out every month: what was approved, what it cost, what each member paid. Every one since September 2023 is still on this site."
+      },
+      "v2": {
+        "t": "The pool isn't ours to touch",
+        "d": "Money set aside for sharing sits in a member-owned account held by a licensed trustee. We Kongsi has no access to it."
+      },
+      "v3": {
+        "t": "Nobody profits from the sharing",
+        "d": "Funds set aside for sharing go to members' approved medical costs. Not to shareholders, and not to us."
+      },
+      "v4": {
+        "t": "Outsiders mark our work",
+        "d": "Cases are assessed by an independent administrator, the model is reviewed by independent actuaries, and the programme is certified by an independent Shariah advisory."
+      },
+      "eyebrow": "What we promise"
+    },
+    "team": {
+      "eyebrow": "Our leaders",
+      "title": "The People [[Behind It]].",
+      "desc": "Healthcare, technology, finance and Shariah governance, in one team.",
+      "imgAlt": "The We Kongsi team",
+      "hint": "Hover or tap a portrait to see who's who."
+    },
+    "role": {
+      "ceo": "Co-Founder & Chief Executive Officer",
+      "cso": "Co-Founder & Chief Sales Officer",
+      "advisor": "Co-Founder & Sales Advisor",
+      "cto": "Co-Founder & Chief Technology Officer",
+      "cfo": "Chief Financial Officer",
+      "trainer": "Head of Product Trainer",
+      "shariah": "Shariah Advisor"
+    },
+    "partners": {
+      "eyebrow": "Our partners",
+      "title": "Meet Our [[Partners]].",
+      "desc": "Independent, licensed organisations who hold the money, assess the cases and check our work."
+    },
+    "p1": {
+      "role": "Third-Party Administrator",
+      "d": "Eximius Medical Administration Solutions reviews member cases and manages the hospitalisation process end to end."
+    },
+    "p2": {
+      "role": "Trustee",
+      "d": "Manages and holds members' funds, and provides independent financial and actuarial reporting."
+    },
+    "p3": {
+      "role": "Payment Service Provider",
+      "d": "Handles payments via Direct Debit, FPX, and Visa / Mastercard for membership contributions."
+    },
+    "p4": {
+      "role": "Shariah Advisory",
+      "d": "Provides Shariah compliance oversight for the cost-sharing model and its operations."
+    },
+    "p5": {
+      "role": "Actuarial",
+      "d": "Conducts actuarial analysis to support the long-term sustainability of the sharing programme."
+    },
+    "p6": {
+      "role": "Outpatient Care",
+      "d": "Primary and outpatient care partner supporting the Conditional Outpatient Benefit."
+    },
+    "name": {
+      "eyebrow": "Why WeKongsi",
+      "title": "It's More Than a Name.\nIt's How [[We Share]].",
+      "we": "WE",
+      "weDesc": "A community of members who come together to support one another.",
+      "kongsi": "KONGSI",
+      "kongsiDesc": "Eligible medical expenses are shared fairly among active members.",
+      "close": "Together, we make [[WeKongsi]].",
+      "lede": "WeKongsi represents a simple belief: healthcare should be a shared responsibility, not a burden carried alone.",
+      "weLabel": "All of us.",
+      "kongsiLabel": "To share.",
+      "markAlt": "The WeKongsi mark"
+    },
+    "mv": {
+      "eyebrow": "Mission & vision",
+      "title": "Our Purpose.\n[[Our Promise]].",
+      "missionLabel": "Our mission",
+      "mission": "To make hospital care more manageable by bringing people together to share eligible medical expenses — fairly, and in the open.",
+      "visionLabel": "Our vision",
+      "vision": "A Malaysia where nobody faces the financial weight of a hospital stay alone, because a community is already there to carry part of it.",
+      "lede": "Making healthcare support more accessible through a community that shares.",
+      "imgAlt": "Five friends sitting together outdoors, laughing"
+    },
+    "contrib": {
+      "eyebrow": "Our contribution",
+      "title": "What the Community\n[[Has Done Together]].",
+      "lede": "Four years of members paying for each other's hospital bills — and showing up for each other outside of them, too.",
+      "members": "Members in the community",
+      "shared": "Shared since 2023",
+      "cases": "Hospital cases supported",
+      "reports": "Monthly reports published",
+      "storiesCta": "Read our stories"
+    }
+  },
+  "faqp": {
+    "hero": {
+      "eyebrow": "Support",
+      "title": "Frequently Asked\n[[Questions]]",
+      "lede": "The general questions — what We Kongsi is, how the two plans differ, and how joining and paying work. Questions about a particular plan live on that plan's own page."
+    },
+    "still": {
+      "title": "Still Have Questions?",
+      "desc": "Our member support team is here to help you understand how the community works. Reach us by phone, WhatsApp, or email and we'll be glad to guide you."
+    },
+    "route": {
+      "eyebrow": "Plan-specific questions",
+      "title": "Asking About [[One Plan]]?",
+      "lede": "Each plan page carries its own set of questions, written for that plan alone, alongside the Program Guidelines that govern it.",
+      "ws": {
+        "t": "WeShare questions",
+        "d": "Waiting periods, co-share, the RM60 cap, what happens at the hospital, and leaving.",
+        "cta": "Go to WeShare"
+      },
+      "wc": {
+        "t": "WeCare questions",
+        "d": "Care Episodes, the RM40 cap, teleconsultation, pharmacy walk-ins, and what is not covered.",
+        "cta": "Go to WeCare"
+      }
+    }
+  },
+  "tr": {
+    "hero": {
+      "eyebrow": "Transparency",
+      "title": "Every ringgit,\n[[on the record]].",
+      "lede": "We publish a sharing report every month: what was approved, what it cost, and what each member paid. Every report since September 2023 is here.",
+      "updated": "Last updated: {{period}}"
+    },
+    "flow": {
+      "eyebrow": "Where The Money Goes",
+      "title": "How Your\n[[Contributions]] Flow",
+      "desc": "We Kongsi separates the money that runs the programme from the money that shares medical costs. The funds set aside for sharing belong to members and are held independently — We Kongsi never holds or controls them.",
+      "s1": {
+        "t": "You Contribute",
+        "d": "A separate membership fee runs the programme, while your Sharing Account contribution funds the actual sharing of eligible medical costs. Both are collected by auto-debit eMandate through our payments partner, Curlec."
+      },
+      "s2": {
+        "t": "Held In Trust",
+        "d": "Money set aside for sharing sits in a member-owned Sharing Account held and managed by a licensed Trustee, Palladium. We Kongsi has no access to it — the Sharing Account belongs to the members."
+      },
+      "s3": {
+        "t": "Shared To Members",
+        "d": "When a member has an eligible hospital or outpatient cost, the community shares it. Each verified case is published openly, and the agreed amount is shared from the pool — directly supporting the member in need."
+      },
+      "note": "We Kongsi operates on a **no-profit sharing model** — funds set aside for sharing are used only to support members' eligible medical costs, never to generate profit for the company."
+    },
+    "summary": {
+      "title": "Monthly Sharing\n[[Summary]]",
+      "period": "Reporting period: {{period}}. Published openly for every member.",
+      "total": "Total Sharing Amount",
+      "vsPrev": "{{change}} vs {{month}}",
+      "hospitalCases": "Hospital Cases Approved",
+      "hospitalValue": "Total bill value: {{value}}",
+      "clinicCases": "Clinic Cases Approved",
+      "clinicValue": "Total amount: {{value}}",
+      "avgPerMember": "Avg. Sharing Per Member",
+      "basedOn": "Based on {{count}} active members"
+    },
+    "util": {
+      "title": "Fund Utilisation",
+      "hospital": "Hospital Sharing",
+      "clinic": "Clinic Sharing",
+      "distributed": "Total Sharing Distributed"
+    },
+    "contrib": {
+      "title": "Contribution Breakdown",
+      "received": "Total Contributions Received",
+      "admin": "Admin & Operations (12%)",
+      "pool": "Added to Sharing Pool",
+      "balance": "Sharing Pool Balance (end of period)"
+    },
+    "cases": {
+      "title": "Case Summary",
+      "inpatient": "Hospital Inpatient",
+      "daySurgery": "Day Surgery",
+      "emergency": "Emergency Treatment",
+      "specialist": "Specialist Outpatient",
+      "panelClinic": "Panel Clinic",
+      "count": "{{count}} cases",
+      "total": "Total · {{count}} cases",
+      "approval": "Approval rate {{rate}} — {{approved}} of {{submitted}} submitted cases approved."
+    },
+    "gov": {
+      "eyebrow": "Independent Governance",
+      "title": "Who Keeps Us\n[[Accountable]]",
+      "desc": "We Kongsi is built on a structure of independent, licensed partners — so no single party controls the money, the rules, or the verification. Each plays a distinct, accountable role.",
+      "emas": "An independent administrator that verifies and processes cases, manages member services and the careline, and keeps day-to-day operations at arm's length from the company.",
+      "bayes": "Independent actuarial review keeps contributions and the sharing model sustainable and fairly priced, so the community can keep supporting one another over the long term.",
+      "afsha": "Afsha Shariah Advisory independently reviews and certifies the programme for Shariah compliance, assuring members that operations are ethical, fair, and transparent.",
+      "palladium": "A licensed Trustee holds and manages the member-owned Sharing Account. We Kongsi has no access to these funds — they are protected and independently held for members.",
+      "curlec": "Contributions and the sharing pool are collected securely by auto-debit eMandate through Curlec by Razorpay, giving members a predictable, automated payment experience.",
+      "heydoc": "HEYDOC Health powers the healthcare services behind WeCare, including licensed doctor consultations, telemedicine services, and outpatient healthcare coordination.",
+      "partnersTitle": "Our Independent Partners"
+    },
+    "cert": {
+      "eyebrow": "Certified & Vetted",
+      "title": "Independently\n[[Verified]]",
+      "sub": "Certified and vetted by Afsha Shariah Advisory",
+      "text": "We Kongsi's commitment to fairness and ethical operations is independently verified. The programme has been officially recognised as Shariah-compliant by the independent advisory body, Afsha Shariah Advisory. This certification assures every member that our medical cost-sharing operations are completely transparent, ethical, and align fully with the values of mutual aid and community solidarity.",
+      "cta": "Ask Us About Governance"
+    },
+    "archive": {
+      "eyebrow": "Archive",
+      "title": "Past Sharing\n[[Reports]]",
+      "desc": "Monthly and annual sharing summaries are published openly. All reports are independently reviewed by our appointed external auditor.",
+      "meta": "{{cases}} cases · {{members}} members",
+      "metaAvg": "{{cases}} cases · {{members}} avg. members",
+      "note": "All reports are independently reviewed by our appointed external auditor, KPMG Malaysia. Members can request copies of any published report through the member system or by contacting us.",
+      "cta": "Request A Report",
+      "annual": "Annual Report {{year}}"
+    },
+    "latest": {
+      "eyebrow": "Latest sharing report",
+      "title": "Sharing for\n[[{{period}}]]",
+      "lede": "These are the figures from the {{report}} sharing report — the medical costs approved in that sharing period, now divided across every active member.",
+      "sharedLabel": "Total medical cost shared",
+      "perLabel": "What each active member paid",
+      "perNote": "across {{count}} active members",
+      "first": "First published month",
+      "flat": "Unchanged vs {{month}}",
+      "capNote": "Capped at {{amount}} a month",
+      "panelLabel": "Sharing report",
+      "support": "Membership this period"
+    },
+    "metric": {
+      "active": "Active Members",
+      "activeNote": "past the 90-day waiting period",
+      "costNote": "approved and shared this period",
+      "casesNote": "hospitalisation cases",
+      "perMemberNote": "paid by each active member",
+      "members": "Total Members",
+      "membersNote": "enrolled, including those still in the waiting period"
+    },
+    "report": {
+      "select": "Choose a report",
+      "download": "Download PDF",
+      "noPdf": "PDF on request"
+    },
+    "chart": {
+      "eyebrow": "Since We Started",
+      "title": "Every Month [[We Have Published]].",
+      "m": {
+        "cost": "Medical cost shared",
+        "cases": "Cases approved"
+      },
+      "range": "Period",
+      "rangeAll": "All time",
+      "showTable": "View as table",
+      "showChart": "View as chart",
+      "month": "Month",
+      "total": "{{value}} shared across {{months}} monthly reports",
+      "lede": "Pick a measure, hover any point.",
+      "measure": "Measure"
+    },
+    "cob": {
+      "eyebrow": "Outpatient add-on",
+      "title": "COB utilisation",
+      "desc": "The Conditional Outpatient Benefit is reported separately from hospitalisation sharing. Its utilisation is published in full, the same way.",
+      "cta": "View COB utilisation"
+    }
+  },
+  "hi": {
+    "hero": {
+      "eyebrow": "Hospital Network",
+      "title": "Find a [[panel hospital]].",
+      "lede": "Every hospital on the e-MAS panel, private and government, filterable by state. Confirm a hospital's status before any planned admission."
+    },
+    "steps": {
+      "eyebrow": "Getting Treatment",
+      "title": "How To Use The\n[[eMAS Panel]]",
+      "desc": "A simple, four-step path from admission to settlement — coordinated by eMAS on your behalf."
+    },
+    "s1": {
+      "t": "Present Your Membership",
+      "d": "At the hospital admissions counter, present your We Kongsi / eMAS membership details so the hospital can verify your eligibility with eMAS."
+    },
+    "s2": {
+      "t": "eMAS Issues a Guarantee Letter",
+      "d": "For eligible admissions, eMAS issues a Guarantee Letter (GL) to the panel hospital, confirming the approved scope of medical cost-sharing support."
+    },
+    "s3": {
+      "t": "Approved Costs Settled Directly",
+      "d": "Approved costs under your benefit are settled directly between eMAS and the panel hospital — so you avoid paying the full bill upfront. Your co-share portion still applies."
+    },
+    "s4": {
+      "t": "Call the eMAS Careline",
+      "d": "For pre-admission assistance, GL queries, or to confirm a hospital's panel status, call the eMAS Careline at 03-9213 0103."
+    },
+    "dir": {
+      "eyebrow": "Panel Network",
+      "title": "Panel Hospital\n[[Directory]]",
+      "desc": "A snapshot of well-known private hospital groups commonly found in the eMAS panel network, grouped by region across Malaysia.",
+      "noteLabel": "Please note:",
+      "note": "Panel lists change. This directory reflects the e-MAS private panel of September 2026 and the government panel of June 2026 — always confirm a hospital's current status with the e-MAS careline before a planned admission.",
+      "hospital": "Hospital",
+      "location": "Location"
+    },
+    "region": {
+      "klang": "Klang Valley — Selangor & Kuala Lumpur",
+      "north": "Northern Region — Penang, Kedah & Perak",
+      "south": "Southern Region — Johor, Melaka & Negeri Sembilan",
+      "east": "East Coast — Pahang, Terengganu & Kelantan",
+      "borneo": "East Malaysia — Sabah & Sarawak"
+    },
+    "verify": {
+      "eyebrow": "Confirm Before Admission",
+      "title": "Verify a Hospital's\n[[Panel Status]]",
+      "desc": "Before any planned admission, confirm that your chosen hospital is currently on the eMAS panel and that your benefit is eligible. Our team and the eMAS Careline are here to help.",
+      "whatsapp": "Ask Us on WhatsApp",
+      "careline": "eMAS Careline: 03-9213 0103",
+      "portal": "Members can also view their network details after signing in to the We Kongsi member portal."
+    },
+    "stat": {
+      "panel": "panel hospitals nationwide",
+      "waiting": "day waiting period before sharing begins",
+      "private": "private hospitals",
+      "government": "government hospitals",
+      "states": "states and territories"
+    },
+    "find": {
+      "title": "Panel [[Directory]]."
+    },
+    "filter": {
+      "all": "All",
+      "private": "Private",
+      "government": "Government",
+      "state": "State",
+      "allStates": "All states",
+      "search": "Search",
+      "placeholder": "Hospital or town",
+      "results": "{{count}} hospitals",
+      "none": "No hospitals match those filters.",
+      "clear": "Clear filters"
+    },
+    "emas": {
+      "eyebrow": "Panel administrator",
+      "title": "The panel is run by [[e-MAS]].",
+      "body": "Every hospital in this directory is on the e-MAS panel — the independent administrator that verifies your admission and settles approved costs with the hospital directly.",
+      "logoAlt": "e-MAS, Eximius Medical Administration Solutions"
+    }
+  },
+  "ct": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Get in [[Touch]]",
+      "lede": "Whether you have a membership enquiry, a question about what the community shares, or a partnership to discuss, our team is ready to help."
+    },
+    "form": {
+      "eyebrow": "Send a Message",
+      "title": "We'd love to\n[[hear from you]]",
+      "desc": "Fill in the form below and your message will open in your email app, addressed to {{email}}.",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "type": "Enquiry Type",
+      "typePlaceholder": "Select a topic…",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Submit Enquiry",
+      "note": "We aim to respond within 1 business day. For urgent matters, please call us directly."
+    },
+    "type": {
+      "membership": "Membership Application",
+      "case": "Case Submission Assistance",
+      "coverage": "Benefits Query",
+      "payment": "Payment Issue",
+      "partnership": "Partnership Proposal",
+      "media": "Media & Press",
+      "general": "General Enquiry"
+    },
+    "details": {
+      "eyebrow": "Reach Us",
+      "title": "Contact [[Details]]",
+      "general": "General Line & WhatsApp",
+      "generalNote": "Chat with us on WhatsApp",
+      "emailNote": "General enquiries",
+      "emasNote": "Card & panel hospital support",
+      "micareNote": "Third-party administrator support",
+      "office": "Office Address",
+      "maps": "View on Google Maps",
+      "join": "Ready to join? Chat with us and we will connect you with a referrer.",
+      "emasTitle": "eMAS 24/7 Support Line:",
+      "glTitle": "Guarantee Letter Admission Requests:",
+      "glNote": "e-MAS admissions mailbox"
+    },
+    "forms": {
+      "title": "Disputes & Appeals",
+      "lede": "A formal dispute or appeal has to reach us on its own form, by email, with your documents attached. An appeal closes 14 days after the decision.",
+      "dispute": {
+        "cta": "Dispute Form"
+      },
+      "appeal": {
+        "cta": "Appeal Form"
+      }
+    }
+  },
+  "wecare": {
+    "desc": "A standalone outpatient subscription for everyday healthcare — unlimited teleconsultations, panel clinic visits and eligible medicine, without the hospital.",
+    "h1": "Telemedicine Consultations",
+    "h2": "Panel Clinic Visits",
+    "h3": "Eight Care Episodes a Year"
+  },
+  "trust": {
+    "eyebrow": "Trust & Transparency",
+    "title": "Officially [[Shariah-Certified]].",
+    "body": "Shariah-certified means our programme follows Islamic principles of mutual aid and community solidarity. **Afsha Shariah Advisory**, an independent advisory firm, reviewed how it operates and certified it.",
+    "certAlt": "Shariah Compliance Certificate for the We Kongsi Program, issued by Afsha Shariah Advisory",
+    "viewCert": "View the full certificate"
+  },
+  "partners": {
+    "title": "Trusted Partners Behind Our Programme",
+    "lede": "Supported by established technology, payment, compliance and healthcare partners.",
+    "hospitalsLede": "Access to a nationwide network of participating hospitals."
+  },
+  "cob": {
+    "pill": "Optional add-on",
+    "title": "Need Everyday Medical Care Too?",
+    "poweredby": "Powered by",
+    "desc": "With our Conditional Outpatient Benefit (COB), our members can access timely healthcare support for everyday medical needs.",
+    "link": "Learn More About COB",
+    "badge": {
+      "addon": "Add-On",
+      "month": "/month"
+    },
+    "b1": {
+      "t": "Telemedicine",
+      "d": "Consult licensed doctors online from the comfort of home."
+    },
+    "b2": {
+      "t": "Panel Clinics",
+      "d": "Visit nationwide panel clinics for eligible outpatient conditions."
+    },
+    "b3": {
+      "t": "Designed for You",
+      "d": "Support for eligible everyday medical conditions."
+    },
+    "s": {
+      "upto": "Up to",
+      "upto2": "Up to",
+      "covers": "Covers"
+    },
+    "s1": {
+      "label": "Support Per Episode"
+    },
+    "s2": {
+      "label": "Episodes Per Year"
+    },
+    "s3": {
+      "label": "Eligible Outpatient Conditions"
+    },
+    "cta": "Learn More About COB",
+    "note": "**COB** is an optional add-on benefit. Terms and conditions apply."
+  },
+  "pl": {
+    "hero": {
+      "eyebrow": "Our Plans",
+      "title": "Two plans.\n[[One community.]]",
+      "lede": "WeShare carries the cost of hospitalisation. WeCare carries everyday care. Take either on its own, or both."
+    },
+    "more": "See the plan"
+  },
+  "ws": {
+    "hero": {
+      "eyebrow": "WeShare",
+      "title": "Medical cost-sharing,\n[[done openly]].",
+      "lede": "When a member is admitted to hospital, an independent medical team reviews the bill and the community shares the approved amount. Every case is published."
+    },
+    "limit": {
+      "label": "shared per member, per year"
+    },
+    "sharing": {
+      "eyebrow": "The mechanism"
+    },
+    "cap": {
+      "eyebrow": "The monthly share",
+      "title": "Your share is [[capped at RM60]] a month.",
+      "desc": "Each month the approved bills are divided across every active member, so the figure moves with the community's actual needs. Whatever it comes to, the inpatient portion you pay is never more than **RM60** — anything above the cap is carried forward.",
+      "liveTitle": "The latest published month",
+      "liveNote": "Taken from the {{month}} sharing report. Every month is published in full.",
+      "cases": "Approved Cases",
+      "capped": "Above the cap, so each member shared RM60.",
+      "uncapped": "Below the cap, so each member shared the full amount.",
+      "reportLink": "See every month's report"
+    },
+    "covered": {
+      "eyebrow": "What's shared",
+      "title": "Cover that starts before the ward\nand carries on after it.",
+      "desc": "Eligible inpatient costs are shared up to **RM1,000,000** per member each year, alongside the diagnostics, follow-ups and outpatient cancer treatment that surround a hospital stay."
+    },
+    "alt": {
+      "sharing": "Illustration of a cupped hand holding a heart, representing members supporting one another",
+      "inpatient": "A doctor reviewing notes at the bedside of a patient in a hospital ward",
+      "additional": "A doctor showing scan results to a patient during a consultation",
+      "cob": "A member consulting a doctor by video call on a mobile phone"
+    }
+  },
+  "hp": {
+    "eyebrow": "Our Products",
+    "title": "Healthcare support for\n[[different needs]].",
+    "ws": {
+      "for": "For hospitalisation",
+      "desc": "Community-based medical cost-sharing for eligible hospitalisation expenses, with members supporting one another.",
+      "cta": "Discover WeShare"
+    },
+    "wc": {
+      "for": "For everyday care",
+      "desc": "A standalone outpatient plan for convenient access to telemedicine and participating clinic visits.",
+      "cta": "Discover WeCare"
+    }
+  },
+  "wsp": {
+    "hero": {
+      "pill": "WeShare · We Kongsi's hospitalisation cost-sharing plan",
+      "title": "Medical cost-sharing,\n[[done openly]].",
+      "lede": "Members share each other's approved hospital bills. Each month you pay your share — never more than RM60. Every case is published.",
+      "flow": {
+        "title": "How one bill becomes everyone's small share"
+      },
+      "f1": "A member is hospitalised",
+      "f2": "Independent review",
+      "f3": "Split across members",
+      "f4": "You pay max RM60",
+      "latest": "Latest published month",
+      "cases": "approved cases",
+      "bills": "total approved bills",
+      "members": "active members",
+      "capline": "Share {{raw}} — above the cap, so each member paid **{{paid}}**.",
+      "s1": "shared per member, per year",
+      "s2": "monthly cap",
+      "s3": "panel hospitals",
+      "s4": "general waiting period"
+    },
+    "marquee": {
+      "m1": "Every case published",
+      "m2": "Independent bill review",
+      "m3": "RM0 when no one is hospitalised",
+      "m4": "Co-share capped at RM500",
+      "m5": "No co-share at government hospitals",
+      "m6": "299 panel hospitals"
+    },
+    "what": {
+      "eyebrow": "What is WeShare?",
+      "title": "A community that [[shares bills]] — not a company that takes on risk.",
+      "isTitle": "WeShare is",
+      "is1": "Medical cost-sharing: approved inpatient bills are pooled and shared each month.",
+      "is2": "A contribution that rises and falls with the community's real needs, capped at RM60.",
+      "is3": "Fully transparent.",
+      "isntTitle": "WeShare is not",
+      "isnt1": "An insurance or takaful policy.",
+      "isnt2": "A fixed monthly amount — quiet months can cost RM0.",
+      "isnt3": "A black box."
+    },
+    "how": {
+      "eyebrow": "How it works",
+      "title": "One bill, [[divided by thousands]].",
+      "s1": {
+        "t": "A member is hospitalised",
+        "d": "They are admitted at a panel hospital and the bill is raised."
+      },
+      "s2": {
+        "t": "An independent team reviews it",
+        "d": "The third-party administrator checks every line before anything is shared."
+      },
+      "s3": {
+        "t": "The month's bills are divided",
+        "d": "All approved bills are added up and split across every active member."
+      },
+      "s4": {
+        "t": "You share, up to RM60",
+        "d": "Your share is whatever the division comes to, held at RM60. Anything above the cap is carried forward."
+      }
+    },
+    "calc": {
+      "eyebrow": "Try it",
+      "title": "Move the sliders. [[See what you'd share]].",
+      "lede": "The same arithmetic the programme runs each month.",
+      "bills": "Approved bills this month",
+      "members": "Active members",
+      "youpay": "You share",
+      "preset": {
+        "quiet": "Quiet month",
+        "actual": "Oct 2026 actual",
+        "heavy": "Heavy month",
+        "none": "No admissions"
+      },
+      "capMarker": "RM60 cap",
+      "explainUnder": "{{bills}} divided across {{members}} active members is {{share}} each — under the cap, so that is what you share.",
+      "explainOver": "{{bills}} divided across {{members}} active members is {{share}} each. That is above the cap, so you share RM60.",
+      "explainNone": "No approved bills this month, so there is nothing to share and you pay nothing.",
+      "carried": "Carried forward this month",
+      "historyTitle": "Monthly history"
+    },
+    "shared": {
+      "eyebrow": "What's shared",
+      "title": "Before, during and [[after the stay]].",
+      "before": {
+        "t": "Before",
+        "d": "30 days pre-admission. Diagnostic tests and consultation, up to RM5,000."
+      },
+      "during": {
+        "t": "In hospital",
+        "d": "Within the RM1,000,000 annual limit."
+      },
+      "after": {
+        "t": "After",
+        "d": "Follow-up within 60 days of discharge, up to RM10,000. Pay first, submit within 30 days, max 2 submissions a year."
+      }
+    },
+    "b1": {
+      "t": "Room & board",
+      "d": "Up to 120 days a year."
+    },
+    "b2": {
+      "t": "Intensive care",
+      "d": "Up to 30 days a year."
+    },
+    "b3": {
+      "t": "Surgery & theatre",
+      "d": "Surgical, theatre and anaesthetist fees, plus a second surgical or treatment opinion."
+    },
+    "b4": {
+      "t": "In-hospital care",
+      "d": "Supplies and services. Doctor visits 2 a day, max 120 a year."
+    },
+    "b5": {
+      "t": "Day care & day surgery",
+      "d": "Procedures with no overnight stay."
+    },
+    "b6": {
+      "t": "Emergency ambulance",
+      "d": "Emergency transport to hospital."
+    },
+    "b7": {
+      "t": "Emergency accidental dental",
+      "d": "Injury to sound natural teeth."
+    },
+    "b8": {
+      "t": "Daily cash at a government hospital",
+      "d": "Up to 120 days."
+    },
+    "b9": {
+      "t": "Compulsory admission tests",
+      "d": "Tests required on admission."
+    },
+    "sep": {
+      "title": "Shared separately",
+      "s1": {
+        "t": "Outpatient cancer treatment",
+        "v": "RM100,000",
+        "d": "Separate from the RM1,000,000 limit. 180-day waiting period."
+      },
+      "s2": {
+        "t": "Accidental injury",
+        "v": "RM10,000",
+        "d": "During the waiting period. After it, the RM1,000,000 inpatient limit applies."
+      },
+      "s3": {
+        "t": "Sports injuries",
+        "v": "RM10,000",
+        "d": "Per case. 180-day waiting period."
+      },
+      "s4": {
+        "t": "Bereavement",
+        "v": "RM10,000",
+        "d": "To your named beneficiary. 90-day waiting period; not for pre-existing conditions."
+      }
+    },
+    "cos": {
+      "eyebrow": "Co-share",
+      "title": "What you pay [[when you're admitted]].",
+      "lede": "A share of the approved bill is yours. It is capped, and it is never shared with the community.",
+      "age": "Age",
+      "bill": "Approved bill",
+      "gov": "Government hospital",
+      "youpay": "You pay",
+      "community": "Community shares",
+      "explain": "{{rate}} of {{bill}} is {{raw}}.",
+      "explainCapped": "{{rate}} of {{bill}} is {{raw}} — above the RM500 cap, so you pay RM500.",
+      "explainGov": "There is no co-share at all for a government hospital admission.",
+      "r1": "Calculated on the final approved bill, after the independent review.",
+      "r2": "Capped at RM500 per inpatient admission.",
+      "r3": "No co-share for government hospital admissions.",
+      "r4": "Your co-share is not shared with the community."
+    },
+    "join": {
+      "eyebrow": "Before you join",
+      "title": "What to know [[up front]].",
+      "elig": {
+        "t": "Eligibility",
+        "age": "Entry age",
+        "renew": "Renews until age",
+        "who": "Who can join",
+        "health": "Health declaration",
+        "pre": "Pre-existing conditions"
+      },
+      "wait": {
+        "t": "Waiting periods",
+        "w1": "Accidental injury — from day 1, up to RM10,000",
+        "w2": "General — 90 days",
+        "w3": "Bereavement — 90 days",
+        "w4": "Sports injuries — 180 days",
+        "w5": "Outpatient cancer — 180 days"
+      },
+      "excl": {
+        "t": "What's not shared",
+        "link": "Read the Program Guidelines"
+      }
+    },
+    "heydoc": {
+      "pill": "Optional add-on",
+      "title": "Everyday care with\n[[HEYDOC Health]]",
+      "lede": "A Conditional Outpatient Benefit (COB) for everyday illness, after a 90-day waiting period.",
+      "permonth": "/month",
+      "f1": {
+        "t": "8 episodes a year",
+        "d": "2 on activation, then +2 each quarter. Unused episodes accumulate."
+      },
+      "f2": {
+        "t": "One issue per episode",
+        "d": "Open for 7 days, with one free same-clinic follow-up."
+      },
+      "f3": {
+        "t": "Up to RM120 per episode",
+        "d": "Telemedicine and a clinic visit are each shared up to RM120. Any excess is paid by the member."
+      },
+      "f4": {
+        "t": "Unlimited teleconsults",
+        "d": "Supplementary teleconsultation, 9am to 10pm daily."
+      },
+      "chat1": "Hi doctor, I've had a fever since last night.",
+      "chat2": "Thanks for reaching out — how high has it gone?",
+      "chat3": "38.9°C this morning."
+    },
+    "tr": {
+      "title": "Every case is [[published]].",
+      "lede": "Name, dates, diagnosis and total cost — every month, for the whole community to see.",
+      "cta": "See every month's report"
+    },
+    "faq": {
+      "title": "Questions, [[answered]].",
+      "q1": "Is WeShare insurance?",
+      "a1": "No. WeShare is medical cost-sharing: members share each other's approved hospital bills directly, and no company takes on your risk. Your contribution rises and falls with the community's real needs.",
+      "q2": "How much will I pay each month?",
+      "a2": "Your share is the month's approved bills divided across every active member, never more than RM60. In a month with no approved bills, you pay nothing.",
+      "q3": "What happens to amounts above the cap?",
+      "a3": "Anything above RM60 per member is carried forward rather than charged to you that month.",
+      "q4": "When does sharing start?",
+      "a4": "After the 90-day general waiting period. Accidental injury is shared from day 1 up to RM10,000; sports injuries and outpatient cancer treatment have a 180-day waiting period.",
+      "q5": "Do I pay anything when I'm admitted?",
+      "a5": "Yes — a co-share of the approved bill: 25% for ages 0–5, 10% for ages 6–45 and 20% for ages 46 and above, capped at RM500 per admission. There is no co-share at a government hospital.",
+      "q6": "Who approves the bills?",
+      "a6": "An independent third-party administrator reviews every case before anything is shared by the community.",
+      "q7": "Can I add outpatient care?",
+      "a7": "Yes. The Conditional Outpatient Benefit (COB) is an optional add-on at RM15 a month, available after a 90-day waiting period."
+    },
+    "cta": {
+      "title": "Big hospital bills,\n[[shared by many]].",
+      "join": "Join WeShare",
+      "reports": "View transparency reports"
+    },
+    "ph": {
+      "label": "To confirm",
+      "roomLimit": "DAILY ROOM LIMIT RM__",
+      "govDaily": "RM__ PER DAY",
+      "sports": "CONFIRM — CURRENT SITE CONTRADICTS ITSELF",
+      "compliance": "CONFIRM WORDING WITH COMPLIANCE",
+      "history": "CONNECT TO TRANSPARENCY DATA",
+      "entryAge": "MIN–MAX",
+      "renewAge": "MAX",
+      "who": "CITIZENS / PR / RESIDENTS",
+      "health": "REQUIRED?",
+      "pre": "RULE",
+      "excl": "EXCLUSIONS FROM PROGRAM GUIDELINES",
+      "fee": "ADD ANY ADMIN / MEMBERSHIP FEE",
+      "carried": "HOW CARRIED-FORWARD IS SETTLED",
+      "guidelines": "CONFIRM PROGRAM GUIDELINES PDF URL — THE LINK WE HOLD IS THE OUTPATIENT GUIDELINE"
+    }
+  },
+  "wsx": {
+    "hero": {
+      "eyebrow": "Hospitalisation Cost-Sharing",
+      "title": "Share Hospital Costs.\n[[Support Each Other]].",
+      "lede": "WeShare is a community-based medical cost-sharing programme where members contribute monthly to share eligible hospitalisation expenses. When you need support, the community is there for you too.",
+      "cta2": "How It Works",
+      "imgAlt": "A group of Malaysians of different ages and backgrounds sitting together in a city park, laughing"
+    },
+    "how": {
+      "eyebrow": "How WeShare works",
+      "title": "Join In, Share In,\nand Be [[Supported]].",
+      "lede": "Every month, members contribute towards a shared pool. When eligible medical expenses arise, the community shares the approved costs together.",
+      "s1": {
+        "t": "Become a Member",
+        "d": "Join the WeShare community by completing your registration and meeting the programme requirements."
+      },
+      "s2": {
+        "t": "Contribute Monthly",
+        "d": "Your monthly contribution goes towards the community sharing pool. The amount is calculated from the community's approved medical expenses and its active membership."
+      },
+      "s3": {
+        "t": "Share and Receive Support",
+        "d": "When a member requires eligible hospital care, approved medical expenses are shared among active members. When it is your turn, the community is there to support you too."
+      },
+      "note": "All sharing is subject to eligibility and the Program Guidelines."
+    },
+    "ben": {
+      "eyebrow": "What the community shares",
+      "title": "Far More Than\n[[a Hospital Bed]].",
+      "lede": "From the ambulance that brings you in to the follow-up weeks after you are discharged — these are the medical costs the community carries with you.",
+      "inTitle": "Inpatient hospitalisation",
+      "inNote": "Within {{amount}} a year",
+      "addTitle": "Additional benefits",
+      "addNote": "Each carries its own waiting period, separate from the inpatient limit."
+    },
+    "cap": {
+      "eyebrow": "Monthly sharing cap",
+      "title": "Your Share Moves With Us.\n[[It Stops at RM60]].",
+      "lede": "Some months the community needs a lot. Some months almost nothing. Whatever happens, never more than RM60 leaves your Sharing Account in a month — anything above it is carried by the community, never billed to you.",
+      "bills": "Total approved medical expenses",
+      "members": "Active members",
+      "before": "Shared per member",
+      "beforeNote": "before the cap",
+      "after": "Your monthly sharing",
+      "afterNote": "after the RM60 cap",
+      "capped": "Above the cap. You share RM60, and the balance is carried forward.",
+      "under": "Under the cap. You share the full amount, and nothing is carried forward.",
+      "none": "No approved medical expenses this month, so there is nothing to share.",
+      "carried": "Carried forward across the community",
+      "note": "Figures are illustrative. Actual amounts depend on the Program Guidelines and the approved medical expenses of the month.",
+      "capMark": "{{amount}} cap",
+      "drag": "Drag either slider to try a different month.",
+      "carriedShort": "Carried by the community",
+      "yourShare": "You share"
+    },
+    "cob": {
+      "eyebrow": "Conditional Outpatient Benefit (COB)",
+      "title": "WeShare Members Can Enjoy\n[[Outpatient Care]] Too.",
+      "lede": "A cough that will not shift. A child with a fever on a Sunday night. The Conditional Outpatient Benefit is an optional add-on to your membership that puts a licensed doctor on your phone and a panel clinic within reach — without touching your hospitalisation sharing.",
+      "imgAlt": "A member consulting a doctor by video call on a smartphone",
+      "permonth": "per month, after a {{days}}-day waiting period",
+      "footnote": "COB is an add-on to WeShare membership, not a plan on its own. WeCare is our separate standalone outpatient plan.",
+      "f1": {
+        "t": "{{count}} care episodes a year",
+        "d": "Two the moment you activate, then two more each quarter."
+      },
+      "f2": {
+        "t": "Up to {{amount}} an episode",
+        "d": "Across telemedicine and a visit to a panel clinic."
+      },
+      "f3": {
+        "t": "Unlimited teleconsultations",
+        "d": "Supplementary calls with a doctor, 9am to 10pm, every day."
+      },
+      "priceLabel": "Adds to your membership",
+      "addon": "Optional add-on",
+      "guideline": "Read the COB guideline"
+    },
+    "elig": {
+      "eyebrow": "Joining",
+      "title": "Who Can Join, and When\n[[Sharing Begins]].",
+      "lede": "WeShare is open to Malaysians aged {{min}} to {{max}} who are in good health on the day they enrol. Here is exactly what that means — and when sharing starts once you are in.",
+      "note": "Eligibility and waiting periods follow the Program Guidelines.",
+      "who": {
+        "title": "Who can join",
+        "note": "Sharing runs both ways, so it needs an active membership and Sharing Account — that is what lets you support others, and be supported in turn."
+      },
+      "c1": {
+        "t": "Aged {{min}} to {{max}} when you join",
+        "d": "Entry opens at age {{min}}, and {{max}} is the oldest you can enrol — it is your age on the day you join that counts."
+      },
+      "c2": {
+        "t": "Malaysians",
+        "d": "WeShare is a Malaysian community, and membership is open to Malaysians."
+      },
+      "c3": {
+        "t": "In good health at enrolment",
+        "d": "You declare your health when you join. Existing conditions are declared then and may be left out of sharing — we would rather tell you now than at the hospital counter."
+      },
+      "tl": {
+        "eyebrow": "Waiting periods",
+        "title": "When sharing begins",
+        "lede": "Three dates, every one of them counted from the day your membership starts.",
+        "day": "Day {{n}}"
+      },
+      "t1": {
+        "t": "Accidental injury",
+        "d": "Eligible from the day you join, up to {{amount}}. Accidents do not wait, so neither does this."
+      },
+      "t2": {
+        "t": "Common illnesses",
+        "d": "The general waiting period before hospitalisation support begins — and the day the COB outpatient add-on starts."
+      },
+      "t3": {
+        "t": "Specified illnesses",
+        "d": "Hypertension, diabetes, heart conditions, cancer and sports injuries."
+      },
+      "c4": {
+        "t": "Opened by someone {{owner}} or over",
+        "d": "The account owner must be at least {{owner}}. They hold the membership and can enrol family members under it — including children from age {{min}} — and manage them all from the one account."
+      }
+    },
+    "ts": {
+      "eyebrow": "Member stories",
+      "title": "The People Behind\n[[the Numbers]].",
+      "lede": "Behind every figure in our monthly report is a person. Here are a few, in their own words."
+    },
+    "cta": {
+      "title": "Healthcare Support Is\n[[Stronger Together]].",
+      "lede": "RM40 a month to be a member. A sharing contribution capped at RM60. That is the whole arrangement — and every ringgit of it is published.",
+      "b2": "Read the FAQ"
+    },
+    "price": {
+      "eyebrow": "Membership",
+      "title": "One Membership,\n[[Three Ways to Pay]].",
+      "lede": "The membership fee runs the programme — administration, the careline, case assessment and the platform. All three options buy the same membership; paying less often costs less.",
+      "m": {
+        "name": "Monthly",
+        "per": "every month",
+        "pill": "Pay month to month"
+      },
+      "q": {
+        "name": "Quarterly",
+        "per": "every 3 months"
+      },
+      "y": {
+        "name": "Annual",
+        "per": "every 12 months"
+      },
+      "perMonth": "{{amount}} a month",
+      "save": "Save {{amount}} a year",
+      "best": "Best value",
+      "cta": "Join WeShare",
+      "incTitle": "Every membership includes",
+      "inc1": "Inpatient hospitalisation shared up to {{amount}} a year",
+      "inc2": "{{count}} panel hospitals across {{states}} states",
+      "inc3": "A full sharing report published every month",
+      "inc4": "The outpatient add-on, optional at {{amount}} a month",
+      "note": "Membership fees are paid in advance and go towards running the programme, not towards medical cost-sharing.",
+      "yearLabel": "Across a year",
+      "saveFree": "Save {{amount}} — {{months}} months free",
+      "viewLabel": "Show prices as",
+      "view": {
+        "pay": "Per payment",
+        "month": "Per month"
+      },
+      "perUnit": "a month",
+      "billed": "Billed {{amount}} {{cadence}}"
+    }
+  },
+  "ph": {
+    "label": "Photography to come",
+    "caption": "{{what}}"
+  },
+  "wcx": {
+    "hero": {
+      "logoAlt": "WeCare",
+      "eyebrow": "Outpatient healthcare subscription",
+      "title": "Everyday Healthcare,\n[[Made Simple]].",
+      "lede": "Access doctors online, visit panel clinics and get medication support — all through one simple healthcare subscription.",
+      "cta1": "Join WeCare",
+      "cta2": "See how it works",
+      "h1": "Unlimited video consults",
+      "h2": "{{count}} Care Episodes a year",
+      "h3": "Up to {{amount}} each",
+      "h4": "No waiting period",
+      "not": "A healthcare subscription — not insurance, Takaful or a medical card.",
+      "imgAlt": "A WeCare member at home, speaking to a doctor on her phone"
+    },
+    "what": {
+      "eyebrow": "What's included",
+      "title": "Everything in\n[[One Subscription]].",
+      "lede": "No claim forms. No reimbursement. Nothing to pay back.",
+      "b1": {
+        "t": "Unlimited video consults",
+        "d": "A licensed doctor on video whenever you need one. Free every time, with no cap on how often.",
+        "hoursNote": "every day, weekends and public holidays included"
+      },
+      "b2": {
+        "t": "Panel clinic visits",
+        "d": "Walk in and be seen in person. No referral needed."
+      },
+      "b3": {
+        "t": "Medicine covered",
+        "d": "Delivered to your door, or collected at a pharmacy."
+      },
+      "b4": {
+        "t": "Nationwide access",
+        "d": "Panel clinics and partner pharmacies across Malaysia.",
+        "stat": "panel clinics nationwide",
+        "cta": "See the clinic directory"
+      }
+    },
+    "how": {
+      "eyebrow": "How it works",
+      "title": "Three Steps.\n[[That's It]].",
+      "s1": {
+        "t": "Open the app",
+        "d": "Tell a licensed doctor what's wrong. No appointment, no queue.",
+        "chip": "{{hours}}, every day"
+      },
+      "s2": {
+        "t": "Get treated",
+        "d": "Medicine to your door, or walk into a panel clinic.",
+        "chip": "{{count}} panel clinics"
+      },
+      "s3": {
+        "t": "You're covered",
+        "d": "No claim forms and nothing to pay back — it is settled with the clinic for you.",
+        "chip": "Up to {{amount}} an episode"
+      },
+      "lede": "No appointment to make, no queue to sit in, and no form to fill in afterwards.",
+      "imgAlt": "A member on her sofa consulting a doctor by video call"
+    },
+    "ep": {
+      "eyebrow": "Care Episodes",
+      "title": "Every Quarter,\n[[You Get 1 + 1]].",
+      "lede": "One for medicine. One for a clinic visit. That's your quarter.",
+      "m": {
+        "t": "Medicine Episode",
+        "d": "Medicine after a video consult, or straight from a pharmacy.",
+        "alt": "A member at home with medicine delivered in a WeCare box"
+      },
+      "c": {
+        "t": "Clinic Visit Episode",
+        "d": "A visit to a panel GP clinic, with medicine included.",
+        "alt": "A member being seen at the reception counter of a panel clinic"
+      },
+      "sum": "2 Care Episodes every quarter",
+      "year": "{{count}} a year",
+      "free": {
+        "t": "Talking to a doctor is always free",
+        "d": "An episode is only used when you actually get treated — medicine dispensed, or a clinic visit."
+      },
+      "cap": {
+        "t": "Each episode covers up to {{amount}}",
+        "d": "Over that, you pay the difference — and you're told before anything is charged."
+      }
+    },
+    "cond": {
+      "eyebrow": "What it treats",
+      "title": "Built for the\n[[Everyday Stuff]].",
+      "lede": "The everyday ones that actually send you to a clinic — not the rare, and not the serious.",
+      "list": [
+        "Cough, Cold or Flu",
+        "GERD or Gastritis",
+        "Infectious Gastroenteritis or Diarrhoea",
+        "Eczema or Dermatitis",
+        "Joint Sprain",
+        "Mouth Ulcer",
+        "Ringworm or Fungal Skin Infection",
+        "Sore Throat",
+        "Stomach Ache or Bloating",
+        "Headache or Migraine",
+        "Gout",
+        "Urinary Tract Infection (uncomplicated, female)",
+        "Bacterial Conjunctivitis",
+        "Insect Bites",
+        "Fever or Muscle Aches",
+        "Nausea or Vomiting",
+        "Dizziness or Giddiness",
+        "Joint Pain (Osteoarthritis)",
+        "Dysmenorrhea",
+        "Hordeolum (Eyelid Infection)",
+        "Head Lice"
+      ],
+      "note": "All treatment is subject to the attending doctor's assessment. Some things need to be seen in person.",
+      "count": "conditions covered",
+      "listLabel": "What's covered"
+    },
+    "price": {
+      "eyebrow": "Pricing",
+      "title": "Two Ways to Pay.\n[[Same Everything]].",
+      "lede": "Same cover, same episodes. Pick how often you want to pay.",
+      "q": {
+        "name": "Quarterly",
+        "per": "every 3 months",
+        "note": "Pay as you go, three months at a time."
+      },
+      "y": {
+        "name": "Annual",
+        "per": "every 12 months",
+        "note": "About {{monthly}} a month, paid once a year.",
+        "badge": "Save {{save}}"
+      },
+      "f1": "No registration fee",
+      "f2": "No admin fee",
+      "f3": "No waiting period",
+      "f4": "Starts the day you pay",
+      "cta": "Join WeCare",
+      "note": "Paid in advance and non-refundable. Cancel any time — no notice, no charge — and you stay covered for the period you've paid for. Restart later for {{amount}} plus the new subscription.",
+      "viewLabel": "Show prices as",
+      "view": {
+        "pay": "Per payment",
+        "month": "Per month"
+      },
+      "perUnit": "a month",
+      "billed": "Billed {{amount}} {{cadence}}",
+      "incTitle": "What's included"
+    },
+    "out": {
+      "eyebrow": "The honest bit",
+      "title": "What WeCare\n[[Doesn't Cover]].",
+      "lede": "It's built for everyday illness, not for hospitals. Here is exactly where it stops.",
+      "list": [
+        "Hospital stays and day-care treatment",
+        "Emergencies",
+        "Specialist care",
+        "Chronic conditions and long-term medication",
+        "Scans — CT, MRI, PET, DEXA",
+        "Health screening, vaccinations and check-ups",
+        "Vitamins, supplements, cosmetic treatments",
+        "Conditions outside the 21 listed",
+        "Anything past your episode entitlement"
+      ],
+      "disclaimer": "WeCare is a paid outpatient healthcare subscription — not insurance, Takaful or a medical card. Nothing is underwritten and no sum is insured. We Kongsi distributes and administers the plan; the care itself is delivered by HEYDOC Health's network of licensed practitioners, clinics and pharmacies, through the MiCare MyMed app.",
+      "link": "Read the Programme Guidelines",
+      "ws": {
+        "t": "Need hospital cover?",
+        "d": "WeShare is the community programme for the day you are warded — a separate plan, and you can hold it on its own.",
+        "cta": "About WeShare"
+      }
+    },
+    "cta": {
+      "title": "Everyday Healthcare,\n[[Made Easy]].",
+      "lede": "Join WeCare, and see a doctor the next time something small goes wrong.",
+      "b1": "Join WeCare",
+      "b2": "Read the FAQ"
+    }
+  },
+  "gl": {
+    "eyebrow": "The full terms",
+    "title": "Everything Here Is a Summary.\n[[This Is the Document]].",
+    "lede": "The Program Guidelines govern the programme — what is shared, what is not, what is expected of every member, and what happens if something goes wrong. We would rather you read it than take our word for it.",
+    "meta": "PDF · {{pages}} pages · {{size}}",
+    "cta": "Open the PDF",
+    "note": "Where this page and the Guidelines differ, the Guidelines prevail.",
+    "docWeshare": "We Kongsi Program Guidelines",
+    "docWecare": "WeCare Program Guidelines",
+    "dated": "November 2026",
+    "inside": "Inside the document",
+    "ws": {
+      "contents": [
+        "How We Kongsi works",
+        "Account ownership",
+        "Membership & eligibility",
+        "The sharing process",
+        "Sharing conditions",
+        "Fees & payments",
+        "Decision making",
+        "Appendix & definitions"
+      ]
+    },
+    "wc": {
+      "contents": [
+        "About WeCare",
+        "Account ownership",
+        "Membership & status",
+        "Fees & payments",
+        "Using your benefit",
+        "The 21 conditions covered",
+        "What is not covered",
+        "Who to contact"
+      ]
+    }
+  },
+  "wsq": {
+    "eyebrow": "Questions",
+    "title": "WeShare, [[Answered]].",
+    "lede": "The short answers. The Program Guidelines above carry the full detail.",
+    "join": {
+      "label": "Joining",
+      "q1": "Who can join?",
+      "a1": "Members are Malaysians living in the country, aged 5 to 45 and healthy on the day they enrol, with no restriction by ethnicity or religion. The account itself is opened by someone 18 or over.",
+      "q2": "Can I enrol my family?",
+      "a2": "Yes. One account can hold several members, each enrolled individually and each meeting the same entry age and health requirement. The account owner manages them all — details, payments and support run through the one account.",
+      "q3": "What do I need to join?",
+      "a3": "You need to be 18 or over to open the account. Have your NRIC, a mobile number, an email address and a few minutes for the health screening questionnaire ready — a referrer completes the registration with you."
+    },
+    "pay": {
+      "label": "What you pay",
+      "q1": "What exactly am I paying for?",
+      "a1": "Two things. A membership fee that runs the programme, and a contribution to your own Sharing Account that goes towards members' approved medical costs.",
+      "q2": "How much is the membership fee?",
+      "a2": "RM40 a month, RM100 a quarter or RM360 a year. Paying quarterly or annually costs less over a year.",
+      "q3": "How much is deducted for sharing?",
+      "a3": "Never more than RM60 a month, deducted on the 7th. In a month with no approved cases, nothing is deducted at all."
+    },
+    "wait": {
+      "label": "Waiting periods",
+      "q1": "When does sharing start?",
+      "a1": "Accidental injury is covered from day one, up to RM10,000. Common illnesses become eligible after 90 days, and specified illnesses such as diabetes, heart conditions and cancer after 180 days.",
+      "q2": "What about conditions I already have?",
+      "a2": "Anything that existed before you joined is not eligible to share. Conditions are disclosed through the health screening when you enrol."
+    },
+    "share": {
+      "label": "Sharing & co-share",
+      "q1": "How much can be shared?",
+      "a1": "Up to RM1,000,000 of eligible inpatient costs a year, and the limit renews every 12 months.",
+      "q2": "Do I pay part of the bill myself?",
+      "a2": "Yes, a co-share — 10% for ages 6 to 45, 25% under 6 and 20% from 46 upwards, capped at RM500 per admission.",
+      "q3": "How do I know bills are fair?",
+      "a3": "Every approved bill is reviewed against the MMA 13th Schedule of Fees, the recognised benchmark for medical charges in Malaysia."
+    },
+    "care": {
+      "label": "When you need care",
+      "q1": "What do I do when I need treatment?",
+      "a1": "Start with a teleconsultation through HEYDOC. If you need more, a clinic visit is arranged, and the doctor refers you to a panel hospital when hospital care is required.",
+      "q2": "What about an emergency?",
+      "a2": "Get treated first. You never need approval before emergency care — just tell us as soon as you reasonably can afterwards."
+    },
+    "stop": {
+      "label": "Pausing & leaving",
+      "q1": "What if I miss a payment?",
+      "a1": "Your membership is suspended and benefits pause. You have 26 days to settle before it is terminated.",
+      "q2": "Can I get my money back if I leave?",
+      "a2": "The balance in your Sharing Account is yours and is refunded when you leave. Membership fees already paid are not refunded."
+    }
+  },
+  "wcq": {
+    "eyebrow": "Questions",
+    "title": "WeCare, [[Answered]].",
+    "lede": "The short answers. The Program Guidelines above carry the full detail.",
+    "basics": {
+      "label": "The basics",
+      "q1": "What is WeCare?",
+      "a1": "A subscription for everyday outpatient care — a doctor on the phone whenever you need one, plus an allowance for medicine and clinic visits. It is not insurance, Takaful or a medical card.",
+      "q2": "Who can subscribe?",
+      "a2": "Any Malaysian living in the country. There is no age limit, no health declaration and no health screening.",
+      "q3": "Is there a waiting period?",
+      "a3": "No. Cover starts the moment payment is confirmed."
+    },
+    "episodes": {
+      "label": "Care Episodes",
+      "q1": "What is a Care Episode?",
+      "a1": "The unit WeCare is counted in. Every quarter you get one Medicine Episode and one Clinic Visit Episode — one of each, not two of either.",
+      "q2": "When is one used?",
+      "a2": "Only when treatment is actually given: medicine dispensed, or a visit to a panel clinic. Speaking to a doctor is free and uses none.",
+      "q3": "What if I do not use them?",
+      "a3": "They stay available for the rest of the subscription year, up to a balance of eight. They do not carry into the next year."
+    },
+    "using": {
+      "label": "Using it",
+      "q1": "How do I see a doctor?",
+      "a1": "Open the MiCare MyMed app and describe the problem. Teleconsultation runs daily from 9am to 10pm, including weekends and public holidays — unlimited and free.",
+      "q2": "Can I just go to a clinic?",
+      "a2": "Yes. Walk into a participating panel GP clinic, cashless, with no referral and no phone call first.",
+      "q3": "How does medicine reach me?",
+      "a3": "Collected from a participating pharmacy or delivered to you, nationwide."
+    },
+    "covered": {
+      "label": "What's covered",
+      "q1": "What does the RM40 cap mean?",
+      "a1": "Each Care Episode is supported up to RM40, covering the consultation, the medicine and its delivery. Anything above that is yours to pay, and you are always told before it happens.",
+      "q2": "What is not covered?",
+      "a2": "Hospitalisation, specialist care, chronic conditions and repeat prescriptions, scans, screening, vaccinations, and non-medical items such as vitamins.",
+      "q3": "What if I have an emergency?",
+      "a3": "Go straight to the nearest clinic or hospital. WeCare is for everyday outpatient care, not emergencies."
+    },
+    "pay": {
+      "label": "Paying & stopping",
+      "q1": "What does it cost?",
+      "a1": "RM45 a quarter or RM160 a year, paid in advance. There is no registration fee and no administration fee.",
+      "q2": "What if a payment is late?",
+      "a2": "Cover pauses and you have 26 days to settle. Paying inside that window restores everything immediately.",
+      "q3": "Can I stop and come back?",
+      "a3": "Yes, at any time, with no waiting period and no health declaration. A RM30 reactivation fee applies."
+    }
+  },
+  "gq": {
+    "about": {
+      "label": "About We Kongsi",
+      "q1": "What is We Kongsi?",
+      "a1": "A community medical cost-sharing programme. Members contribute to their own Sharing Account, and when someone has an approved medical need, the cost is shared across the community rather than carried alone.",
+      "q2": "Is it insurance or Takaful?",
+      "a2": "No. Nothing is underwritten and no risk is transferred to a company. For protection beyond what the community shares, speak to a licensed insurer or Takaful operator.",
+      "q3": "Can anyone join?",
+      "a3": "The programme is open to all Malaysians living in the country, of any ethnicity or religion, and is developed with Afsha Shariah Advisory."
+    },
+    "plans": {
+      "label": "The two plans",
+      "q1": "What is the difference between WeShare and WeCare?",
+      "a1": "WeShare shares the cost of hospitalisation — the big, rare bill. WeCare covers everyday outpatient care — the doctor, the medicine and the clinic visit.",
+      "q2": "Which one do I need?",
+      "a2": "They answer different problems, and many members take both. Each plan page sets out exactly what it does and does not do.",
+      "q3": "Can I have both?",
+      "a3": "Yes. They are separate plans, with separate payments and separate rules."
+    },
+    "join": {
+      "label": "Joining",
+      "q1": "Who can join?",
+      "a1": "WeShare members are aged 5 to 45 and healthy on the day they enrol. WeCare has no age limit and no health screening. Both are open to Malaysians living in the country, and the account is opened by someone 18 or over, who can enrol family members under it.",
+      "q2": "How do I join?",
+      "a2": "Through a referrer. Chat with us and we will put you in touch with one, who will go through the plans with you and complete your registration.",
+      "q3": "When does cover begin?",
+      "a3": "WeCare starts the moment payment is confirmed. WeShare phases in, with accidental injury covered from day one."
+    },
+    "money": {
+      "label": "Money",
+      "q1": "What does each plan cost?",
+      "a1": "WeShare is RM40 a month, RM100 a quarter or RM360 a year, plus a sharing contribution capped at RM60 a month. WeCare is RM45 a quarter or RM160 a year.",
+      "q2": "How do I pay?",
+      "a2": "By auto-debit, set up with our payment partner Curlec when you join.",
+      "q3": "Can I get a refund?",
+      "a3": "Your WeShare Sharing Account balance is yours and is refunded when you leave. Fees already paid are not refunded."
+    },
+    "trust": {
+      "label": "Trust & transparency",
+      "q1": "Who holds my money?",
+      "a1": "Your Sharing Account is held by Palladium Trustee, a licensed trustee company. We Kongsi has no access to it.",
+      "q2": "How do I know what I am sharing?",
+      "a2": "Every shareable case is published on the 7th of each month, before anything is deducted. The monthly report is on this site.",
+      "q3": "Do I have to take part in every case?",
+      "a3": "No. Taking part is voluntary, and you may leave during the publishing period rather than share in a case you object to."
+    },
+    "help": {
+      "label": "Getting help",
+      "q1": "Who do I call about a hospital admission?",
+      "a1": "e-MAS, on 03-9213 0103. They handle everything inpatient — the hospital panel, admissions, guarantee letters and anything at the hospital counter.",
+      "q2": "Who do I call about everyday care?",
+      "a2": "MiCare, on 1800 88 7940. They handle everything outpatient — the MyMed app, teleconsultation, panel clinic visits and medicine — for WeCare and for the WeShare outpatient add-on.",
+      "q3": "Who do I contact about my account?",
+      "a3": "We Kongsi customer service, for registration, payment, membership status and anything about the membership itself."
+    },
+    "eyebrow": "General questions",
+    "title": "Start [[Here]].",
+    "lede": "Pick the part you are wondering about."
+  },
+  "ci": {
+    "hero": {
+      "eyebrow": "Clinic Network",
+      "title": "Find a [[panel clinic]].",
+      "lede": "Every clinic on the MiCare GP panel, searchable by state, town or name. These are the clinics you visit for outpatient care under WeCare and the WeShare add-on."
+    },
+    "stat": {
+      "clinics": "panel clinics nationwide",
+      "towns": "towns and cities",
+      "states": "states and territories"
+    },
+    "micare": {
+      "eyebrow": "Panel administrator",
+      "title": "The clinic panel is run by [[MiCare]].",
+      "body": "Every clinic listed here is on the MiCare GP panel — the administrator for WeCare and the WeShare outpatient add-on, and the careline to call about anything at a clinic counter.",
+      "logoAlt": "MiCare"
+    },
+    "find": {
+      "title": "Clinic [[Directory]]."
+    },
+    "filter": {
+      "state": "State",
+      "allStates": "All states",
+      "search": "Search",
+      "placeholder": "Clinic, town or street",
+      "results": "{{count}} clinics",
+      "showing": "Showing {{shown}} of {{count}}",
+      "none": "No clinics match those filters.",
+      "clear": "Clear filters",
+      "more": "Show more clinics"
+    },
+    "state": {
+      "loading": "Loading the clinic panel…",
+      "error": "The clinic list could not be loaded. Refresh the page, or call the MiCare careline and we will check a clinic for you."
+    },
+    "card": {
+      "hours": "Opening hours"
+    },
+    "noteLabel": "Please note:",
+    "note": "Panel lists change. This directory reflects the MiCare GP panel of September 2026 — always confirm a clinic is still on the panel before you go, and check its opening hours for public holidays.",
+    "verify": {
+      "title": "Check a clinic before you go",
+      "desc": "Opening hours change and clinics join and leave the panel. The MiCare careline can confirm a clinic's status and what your visit covers.",
+      "careline": "MiCare Careline: 1800 88 7940",
+      "whatsapp": "Ask Us on WhatsApp"
+    }
+  },
+  "st": {
+    "hero": {
+      "eyebrow": "News & Updates",
+      "title": "Our Latest [[Stories]]",
+      "lede": "Discover our community, partnerships, member experiences and the latest developments shaping We Kongsi."
+    },
+    "filter": {
+      "all": "All stories",
+      "community": "Community",
+      "partnerships": "Partnerships",
+      "member": "Member stories",
+      "milestones": "Milestones",
+      "governance": "Governance",
+      "health": "Health insights",
+      "programme": "Programme updates",
+      "agents": "Agents",
+      "label": "Filter stories by category"
+    },
+    "featured": {
+      "label": "Featured story"
+    },
+    "latest": {
+      "title": "Most recent"
+    },
+    "read": "Read story",
+    "more": "Load more stories",
+    "count": "Showing {{shown}} of {{count}}",
+    "none": "No stories in this category yet.",
+    "back": "Back to Stories",
+    "related": "More stories",
+    "watch": "Watch on YouTube",
+    "videoNote": "A member's own words, on the We Kongsi channel.",
+    "home": {
+      "eyebrow": "From the community",
+      "title": "Stories & Updates\n[[from We Kongsi]].",
+      "lede": "Discover our community initiatives, latest partnerships and the stories behind the people who make We Kongsi possible.",
+      "cta": "Explore all stories"
+    },
+    "kongsisihat": {
+      "t": "Kongsi Sihat 2025: Bringing Healthcare Closer to the Community",
+      "d": "A community health day at NU Sentral — free health screenings, healthcare awareness activities and volunteers from across the community, open to everyone.",
+      "alt": "Volunteers, partners and the We Kongsi team at Kongsi Sihat, NU Sentral",
+      "alt2": "The HEAL Carnival stage — Health, Empowerment, Awareness, Lifestyle",
+      "body": [
+        "In October 2025, We Kongsi organised Kongsi Sihat at the NU Sentral Centre Court, bringing free health screenings and healthcare awareness activities into a place where people were already passing through. The event ran from 10:00am to 6:00pm and was open to the public.",
+        "Kongsi Sihat was supported by e-MAS, JCI Kuala Lumpur, the Blockchain for Good Alliance and MASVERSE, alongside volunteers from across the community. Membership was not required to take part.",
+        "## Meeting People Where They Already Are",
+        "Most people do not skip a health check because they have decided against it. They skip it because it means taking time off work, finding a clinic, waiting to be seen and paying for the visit.",
+        "Removing those barriers changes the outcome. A screening table in a shopping centre is not a clinical breakthrough, but it addresses the practical obstacles that keep many people from having a basic check at all.",
+        "## Why Prevention Matters to a Cost-Sharing Community",
+        "Every approved case in the monthly sharing report represents a medical cost the community carries together. A morning of screening and health advice costs considerably less than the hospital admission it may help to avoid — for the individual, and for everyone who shares with them.",
+        "A community medical cost-sharing programme therefore has a genuine interest in its members staying well. Health awareness is not a secondary activity alongside the programme; it supports the sustainability of the programme itself.",
+        "## Open to Members and Non-Members Alike",
+        "It would have been simpler to hold a members-only event. Kongsi Sihat was opened to anyone who walked past instead.",
+        "A health screening is valuable to the person receiving it regardless of whether they ever join a programme, and healthcare awareness is most useful when it reaches people who have not yet thought about it. The event was built around that principle.",
+        "## Bringing the Community Together",
+        "There is a second outcome from an event like this that is harder to record in a report.",
+        "A medical cost-sharing programme is, in structure, several thousand people who have agreed to help one another with hospital bills. That agreement works because people take it seriously, and it is easier to take seriously once members, staff, partners and volunteers have spent a day together doing something useful.",
+        "Kongsi Sihat gave the community a place to meet, and gave the public a reason to come and find out what it does.",
+        "> Because the most affordable hospital bill is the one that never has to be shared."
+      ]
+    },
+    "heydoc": {
+      "t": "We Kongsi x HEYDOC Health: Bringing Outpatient Care Closer to Our Members",
+      "d": "A partnership that extends healthcare support beyond hospitalisation, giving WeShare members access to outpatient healthcare services through the Conditional Outpatient Benefit.",
+      "alt": "The We Kongsi and HEYDOC Health partnership signing ceremony, 18 May 2026",
+      "body": [
+        "On 18 May 2026, We Kongsi partnered with HEYDOC Health to strengthen the healthcare support available to its members. The partnership agreement between Kita Kongsi Sdn Bhd and HEYDOC Health Sdn Bhd was signed at a ceremony marking a strategic healthcare collaboration between the two organisations.",
+        "The agreement was signed by **Tan Chun Sian**, Chief Executive Officer of We Kongsi, and **Dr Raymond Choy**, Chief Executive Officer of HEYDOC Health.",
+        "The collaboration marked an important step in the development of We Kongsi's healthcare ecosystem, extending its services beyond hospitalisation cost-sharing and into everyday outpatient care. Through this partnership, HEYDOC Health became the healthcare service provider powering the **Conditional Outpatient Benefit (COB)**, an optional add-on available to WeShare members.",
+        "## Addressing the Healthcare Needs Beyond Hospitalisation",
+        "Hospitalisation is often associated with significant medical expenses, and it is what a community cost-sharing programme is built for. But healthcare needs do not begin and end in a hospital ward.",
+        "A persistent cough, a fever, a sore throat or stomach discomfort may not require hospital admission, yet these conditions still deserve timely medical attention. Members need convenient ways to consult a doctor, receive medical advice and access appropriate treatment without unnecessary delays.",
+        "This is where the partnership with HEYDOC Health plays an important role. By introducing the Conditional Outpatient Benefit, We Kongsi provides eligible WeShare members with an additional way to access outpatient healthcare services, complementing the programme's existing focus on hospitalisation cost-sharing.",
+        "## How HEYDOC Health Powers the Conditional Outpatient Benefit",
+        "HEYDOC Health supports the delivery of the COB by providing access to outpatient healthcare services through its healthcare network and digital healthcare capabilities.",
+        "Depending on the member's eligibility and the applicable benefit conditions, the services include:",
+        "- **Online doctor consultations:** Members can consult licensed doctors through teleconsultation, without having to travel to a clinic for every medical concern.",
+        "- **Access to outpatient care:** Eligible members can visit participating healthcare providers on the MiCare GP panel, which covers 4,709 clinics across 663 towns and cities.",
+        "- **Medication support:** Where clinically appropriate and subject to the applicable arrangements, members can receive medication through the available pharmacy services.",
+        "Teleconsultation is available daily from 9:00am to 10:00pm. Medication delivery arrangements are subject to the daily cut-off time and availability.",
+        "The benefit supports up to RM120 per episode, across eight episodes a year, for 17 eligible outpatient conditions. It is available from RM15 a month and begins after the 90-day waiting period.",
+        "## Two Organisations, Complementary Roles",
+        "The partnership brings together two organisations with different but complementary responsibilities.",
+        "**We Kongsi** administers the medical cost-sharing programme and makes the Conditional Outpatient Benefit available as an optional add-on to eligible WeShare members. **HEYDOC Health** provides the healthcare service infrastructure and supports the delivery of outpatient services under the COB.",
+        "This arrangement reflects how the wider programme is organised. The administrators who assess a hospitalisation, the licensed trustee who holds the Sharing Account, the actuaries who review the model and the Shariah advisory who certify it are each independent organisations with a single responsibility. Each focuses on its own role while working towards a shared objective: making healthcare support more accessible to the community.",
+        "## What This Means for WeShare Members",
+        "For WeShare members who choose to participate in the COB, the partnership offers an additional avenue for outpatient healthcare support. It means members can access healthcare services for eligible outpatient conditions, rather than relying solely on hospital-based support when medical needs arise.",
+        "Two points are worth stating clearly. The COB is an **optional add-on**, not a benefit included automatically in every WeShare membership, and it cannot be taken up without a WeShare membership. And using it does not affect the hospitalisation cost-sharing: an outpatient episode has no effect on a member's monthly sharing contribution or on the Sharing Account.",
+        "## Building a More Connected Healthcare Ecosystem",
+        "The collaboration with HEYDOC Health represents more than a service partnership. It reflects We Kongsi's continued effort to build a healthcare ecosystem that responds to different stages of a member's healthcare journey.",
+        "Most of a member's healthcare year is made up of small, ordinary needs, with the occasional serious one. By combining community-based hospitalisation cost-sharing with access to outpatient services through the COB, We Kongsi continues to explore ways to make healthcare support more accessible, practical and connected.",
+        "> Because supporting one another in healthcare should go beyond the hospital doors."
+      ]
+    },
+    "shariah": {
+      "t": "We Kongsi Receives Shariah Compliance Certification",
+      "d": "An independent review by Afsha Shariah Advisory of how the programme operates — published in full, so it can be read rather than taken on trust.",
+      "alt": "The Shariah Compliance Certificate issued by Afsha Shariah Advisory",
+      "body": [
+        "Afsha Shariah Advisory Sdn. Bhd., acting as Shariah Advisor to Kita Kongsi Sdn. Bhd., reviewed the We Kongsi Program and certified it as Shariah-compliant.",
+        "## Why an Independent Review Matters",
+        "This is not a claim We Kongsi makes about itself, and that distinction is where the value of the certificate lies.",
+        "Afsha is an external advisory firm. The review is theirs, the assessment is theirs, and the certification is theirs to grant or to withhold. An organisation declaring its own product compliant is making a marketing statement. An organisation submitting it for independent assessment is doing something different.",
+        "## What Was Reviewed",
+        "The review examined how the programme actually operates, rather than how it is described:",
+        "- **How members contribute** — the membership fee, the monthly sharing contribution, and the relationship between the two.",
+        "- **Where the funds are held** — a member-owned Sharing Account, held and managed by a licensed trustee, which We Kongsi has no access to.",
+        "- **How a case is settled** — assessment by an independent third-party administrator against the published Program Guidelines, before anything is shared.",
+        "That is the appropriate scope for a review of this kind. The principles of mutual aid are not demonstrated by a mission statement. They are demonstrated by where the funds are held and who decides how they are used.",
+        "## What Shariah Compliance Means Here",
+        "In practice, it describes a structure built on mutual aid and community solidarity: members contributing to help one another with medical costs, rather than purchasing an undertaking from a company.",
+        "This is why the structural elements above are the ones under review. Funds held separately from the operator, decisions made by parties with no interest in the outcome, and an arithmetic published in full each month are not incidental features of the programme. They are what the compliance consists of.",
+        "## The Certificate Itself",
+        "The certificate carries number **CF/003/2026/03**, is dated **8 January 2026** and is valid until **7 January 2027**, subject to review by the relevant authorities and by Afsha Shariah Advisory.",
+        "It is published in full on the We Kongsi home page — not as a badge or a summary, but as the document itself, with its number and dates legible, so that members can confirm the position for themselves.",
+        "## The Limits of a Certificate",
+        "Two points are worth stating plainly.",
+        "A certificate applies to the programme, not to any individual medical decision. Whether a particular case is approved is determined by the Program Guidelines and the independent administrator who applies them.",
+        "A certificate also has a period. One valid to a stated date must be renewed to carry weight beyond it, which is why the dates are printed on the certificate and the certificate is published rather than described.",
+        "## Shariah-Compliant, and Open to Everyone",
+        "One point is worth repeating, because it is the most common misunderstanding.",
+        "Shariah compliance describes **how the programme is built**. It is not a condition of membership. We Kongsi is open to Malaysians of any religion or background, and always has been.",
+        "> Because an assurance is only meaningful when someone independent gives it, and anyone can read the document."
+      ]
+    },
+    "mantap": {
+      "t": "\"We Kongsi Mantap!\" — A Member Family's Experience",
+      "d": "A member family on what being part of the community has meant to them — in their own words, on their own video.",
+      "alt": "A We Kongsi member family",
+      "body": [
+        "The clearest account of what this programme does comes from the members it has supported. This one is theirs rather than ours.",
+        "## Recorded by Members, Not by Us",
+        "Members record these videos themselves and publish them on the We Kongsi channel. There is no script, and the ones that appear on this site are the ones members have chosen to make public.",
+        "They tend to cover the same three things, in the same order: the bill that arrived, the support the community provided, and what it meant not to face it alone.",
+        "## Why a Video Rather Than a Written Quote",
+        "A written testimonial can always be improved — edited for clarity, shortened, adjusted to sound a little more polished. Each of those improvements also makes it slightly less a member's own account.",
+        "A video is harder to adjust in that way. A viewer can judge for themselves whether a member means what they are saying, and that matters for a programme whose case rests on being verifiable.",
+        "## Consent Comes First",
+        "A medical experience is a private matter. It involves a diagnosis, a hospital stay and a household's finances, and none of that becomes public simply because the household is a member.",
+        "Nothing is published here without the member deciding to publish it. That is why this page carries fewer stories than there are cases in the sharing reports. The difference between those two numbers is members who would prefer not to share their experience publicly, which is entirely their decision.",
+        "## One Account Among Many",
+        "Every figure in a monthly sharing report represents a difficult period for a real household. Since September 2023 the community has supported hundreds of approved cases, each one a line in a published document and a serious event for the family behind it.",
+        "This family's video is one of those lines, told by the people who lived through it.",
+        "> Because the people best placed to explain what this community does are the ones it has supported."
+      ]
+    },
+    "anniversary": {
+      "t": "Three Years of We Kongsi: Celebrating the People Behind the Mission",
+      "d": "The third anniversary dinner, marking three years of members, agents, partners and team building the community together.",
+      "alt": "The We Kongsi third anniversary dinner",
+      "alt2": "The We Kongsi team",
+      "body": [
+        "On 18 April 2026, members, agents, partners and the We Kongsi team gathered for the programme's third anniversary dinner — an evening to mark three years of a community that has grown steadily since it began.",
+        "## Measuring Three Years Properly",
+        "A community programme can mark an anniversary in two ways. It can count how long it has existed, or it can count how many times it has done the thing it exists to do.",
+        "We Kongsi has shared medical costs every month since September 2023. Each of those months has been published in full: the number of approved cases, the total medical cost approved, the number of active members who shared it, the amount each of them contributed, and the balance carried forward to the next period.",
+        "That unbroken record of monthly reports is what the evening was really marking.",
+        "## The People in the Room",
+        "The anniversary dinner is one of the few occasions when every part of the programme is together in one place.",
+        "- **Members**, including those the community has supported through a hospital admission, and those who have contributed for years without ever needing to call on it.",
+        "- **Agents**, who introduce and explain the programme within their own communities and are usually the first person a member contacts.",
+        "- **Partners**, the independent organisations that assess cases, hold the member-owned funds and review the model.",
+        "- **The team**, who spend most of the year supporting members by phone, message and email.",
+        "Those four groups rarely meet, and there is value in them doing so. A member who has only seen a monthly figure can meet the people behind it, and an agent who has answered the same question many times can hear how the answer has landed.",
+        "## What Three Years Demonstrates",
+        "The question the programme is asked most often is some version of: does it hold together over time?",
+        "A community medical cost-sharing programme works only if people continue to support one another — through quiet months when little is asked of them, and through heavy months when the sharing cap applies and the balance carries forward. That cannot be demonstrated in advance. It can only be built up, month by month.",
+        "Three years of published sharing reports is what that record looks like.",
+        "## And What It Does Not",
+        "A track record is evidence rather than a guarantee. Three years of published months shows that the model has held under the conditions it has met so far.",
+        "The appropriate response is to continue publishing every month, keep cases independently assessed and keep the actuarial review rigorous, rather than to treat an anniversary as the argument in itself. The next three years have to be built the same way as the first three.",
+        "> Because a community is not measured by how long it has existed, but by how often it has shown up."
+      ]
+    },
+    "agentcommunity": {
+      "t": "Growing Together: Inside the We Kongsi Agent Community",
+      "d": "Agent bonding sessions, relationship-building and the people who explain the programme to their own communities."
+    },
+    "awareness": {
+      "t": "Beyond Membership: Building a Culture of Healthcare Awareness",
+      "d": "Community engagement, health education and the ways people can take part without being members."
+    },
+    "network": {
+      "t": "Building a Stronger Healthcare Network Through Partnerships",
+      "d": "We Kongsi does not run hospitals or clinics. It works with the organisations that do — and the reach of those panels is the practical measure of a membership.",
+      "alt": "A member being seen at the reception counter of a panel clinic",
+      "body": [
+        "A medical cost-sharing programme is only as useful as the places where its members can be seen. Financial support that arrives after the fact is a reimbursement; what a member needs at an admissions counter is a hospital that already recognises them.",
+        "That is the purpose of a healthcare panel, and it is why two of We Kongsi's most important partnerships are not with individual hospitals or clinics, but with the administrators who manage the networks of them.",
+        "## For Hospitalisation: The e-MAS Panel",
+        "Inpatient care is supported through the e-MAS panel, which covers **299 private and government hospitals across 16 states and territories**. e-MAS is an independent administrator, separate from We Kongsi, and it manages everything that happens between a member arriving at a hospital and the approved costs being settled.",
+        "- **At the admissions counter:** the member presents their We Kongsi and e-MAS membership details, and the hospital verifies eligibility directly with e-MAS.",
+        "- **For eligible admissions:** e-MAS issues a Guarantee Letter to the hospital, confirming the approved scope of medical cost-sharing support.",
+        "- **On settlement:** approved costs are settled between e-MAS and the hospital directly, so the member does not need to pay the full bill upfront. Any applicable co-share portion still applies.",
+        "- **Before a planned admission:** the e-MAS careline on 03-9213 0103 can confirm a hospital's panel status and answer Guarantee Letter enquiries.",
+        "The Guarantee Letter is the most practical part of this arrangement. It is what allows a family to focus on treatment rather than on finding a large sum at short notice.",
+        "## For Everyday Care: The MiCare GP Panel",
+        "Outpatient care is supported through the MiCare GP panel, which covers **4,709 clinics across 663 towns and cities**. This is the network behind WeCare and behind the WeShare outpatient add-on, and MiCare is the careline to contact for anything relating to a clinic visit, on 1800 88 7940.",
+        "The spread of the panel matters as much as its size. A large network concentrated in a few major cities would serve members less well than one that reaches the towns where they actually live, which is why the clinic directory on this site is organised by state and town rather than presented as a single list.",
+        "## Why the Programme Is Structured This Way",
+        "We Kongsi could have contracted hospitals and clinics directly. It does not, for the same reason it does not hold members' funds or assess its own cases: the organisation administering a programme should not also be the one verifying it.",
+        "e-MAS verifies admissions and settles approved costs. MiCare manages the clinic network. A licensed trustee holds the member-owned Sharing Account. Independent actuaries review the model. Each organisation is accountable for its own part, and that separation is what makes the programme verifiable rather than simply promised.",
+        "## Panel Lists Change, and That Matters",
+        "Hospitals and clinics join and leave panels over time. The directories on this site state the month they reflect — the e-MAS private panel of September 2026, the government panel of June 2026, and the MiCare GP panel of September 2026 — and they are a starting point rather than a guarantee.",
+        "Before any planned admission or clinic visit, members should confirm the current status with the relevant careline. It takes a few minutes, and it avoids an avoidable complication on a difficult day.",
+        "> Because a healthcare network is measured by whether a member can be seen, close to home, on the day they need it."
+      ]
+    },
+    "hackathon": {
+      "t": "We Kongsi Recognised at the Blockchain for Good Alliance x Masverse Hackathon",
+      "d": "Recognition for the programme's approach to community-funded healthcare at the Joint Fund Hackathon."
+    },
+    "copenhagen": {
+      "t": "Taking We Kongsi to Copenhagen: Financial Inclusion on an International Stage",
+      "d": "An invitation from the Blockchain for Good Alliance to share the programme's financial-inclusion model internationally."
+    },
+    "billNote": "The figure above is the total hospital bill. What the community shared is the portion approved under the Program Guidelines after the member's own co-share — the two are not the same, and every month's approved total is published in the sharing report.",
+    "family": {
+      "t": "A Family Trip That Took a Turn",
+      "d": "A daughter admitted for two to three days after a trip to Kuala Lumpur, and a bill of around RM2,200 the family had not planned for.",
+      "alt": "A We Kongsi member family",
+      "body": [
+        "A family trip to Kuala Lumpur ended at a hospital admissions counter when the member's daughter developed stomach problems serious enough to require admission. She was in hospital for two to three days.",
+        "The total bill came to around RM2,200 — an amount the family had not budgeted for, and had no way of anticipating.",
+        "## In the Member's Own Words",
+        "\" \"After our family trip to KL, my daughter had to be admitted to the hospital for 2–3 days because of stomach problems. The bill came to around RM2,200, which was an unexpected expense for our family. Thank goodness I had We Kongsi to help ease the burden during that time.\"",
+        "## The Bills That Rarely Make the Headlines",
+        "RM2,200 is not a catastrophic figure, and it is not the kind of amount that forces a family to sell anything. It belongs to a different category: the unexpected expense that quietly reorganises a household's month.",
+        "Most families could find RM2,200 if they had to, but usually at the cost of something else — a repair postponed, school expenses rearranged, savings set aside for another purpose. These are the medical costs that affect the greatest number of households, and they are a large part of what the community shares each month.",
+        "Larger admissions do occur, and they are why the annual medical cost-sharing limit is RM1,000,000. But each monthly sharing report publishes the number of approved cases alongside the total approved cost, so members can see for themselves what a typical case looks like.",
+        "## How the Support Worked",
+        "The process is the same regardless of the size of the bill.",
+        "- **At the admissions counter**, the hospital verified the member's eligibility with e-MAS.",
+        "- **For the eligible admission**, e-MAS issued a Guarantee Letter to the hospital.",
+        "- **Approved costs** were settled between e-MAS and the hospital directly, so the family did not need to pay the full amount upfront and claim it back afterwards.",
+        "The approved portion then entered that period's sharing report, divided across every active member and capped at RM60 per member.",
+        "## Being Seen Away From Home",
+        "One detail is worth drawing out, because it is rarely considered until it matters. A membership is not tied to the town it was taken out in.",
+        "The e-MAS panel covers 299 hospitals across 16 states and territories, and the MiCare GP panel covers 4,709 clinics in 663 towns and cities. That coverage is most valuable precisely when something goes wrong somewhere unfamiliar — on a trip, at work away from home, or while visiting family.",
+        "> Because a medical bill does not have to be large to be the most difficult thing a family faces that month."
+      ]
+    },
+    "king": {
+      "t": "When Heart Pain Led to an Unexpected Admission",
+      "d": "King Khairul was admitted after experiencing heart pain, with a total medical bill of around RM60,000.",
+      "alt": "King Khairul, a We Kongsi member",
+      "body": [
+        "King Khairul was admitted to hospital after experiencing heart pain. It was not something he had any reason to anticipate, and the total medical bill came to around RM60,000.",
+        "## In His Own Words",
+        "\" \"I was admitted to the hospital after experiencing heart pain, and it was something I never expected to happen to me. My total medical bill came to around RM60,000. I'm truly grateful to have had We Kongsi and the support of the community when I needed it most.\"",
+        "## Why a Figure Like This Matters",
+        "Two characteristics make a medical bill genuinely difficult to manage, and a cardiac admission has both.",
+        "- **The size.** RM60,000 is beyond what most Malaysian households hold in reserve. It is not a matter of adjusting a monthly budget.",
+        "- **The timing.** It arrives without notice. There is no opportunity to prepare, no instalment plan agreed in advance, and no option to postpone treatment to a more convenient time.",
+        "Together, these turn a health problem into a financial one — and the financial consequences often continue long after the medical treatment has ended.",
+        "## How the Community Responds",
+        "This is the central purpose of the model. The approved portion of an admission is divided across every active member for that sharing period, and no member contributes more than RM60 in a month, however heavy the month has been. Any amount above the cap is carried forward across the community rather than charged to anyone.",
+        "Several thousand members each contribute an amount they can comfortably manage. One member avoids losing many years of savings. That is the whole arrangement, and it is why the programme exists.",
+        "## Why the Annual Limit Is Set Where It Is",
+        "WeShare's medical cost-sharing limit is RM1,000,000 a year. In an ordinary month that figure can look like a marketing number.",
+        "It is not. It is there for admissions that do not stop at RM60,000 — those involving complications, a second procedure, or a stay of several weeks. A limit only matters on the day it is tested, and the members it is written for are usually those who never expected to test it.",
+        "## Support, and What It Means at the Time",
+        "The closing line of King's own account is worth re-reading: grateful for the support of the community **when I needed it most**.",
+        "A Guarantee Letter at an admissions counter is a practical, financial arrangement. On the day itself, it is also what allows a member to concentrate on their treatment rather than on how the bill will be met.",
+        "> Because nobody should have to face a bill of that size alone, or find it within a week."
+      ]
+    },
+    "albari": {
+      "t": "An Unexpected Accident on the Way to Work",
+      "d": "Three years a member before he needed the community himself. An accident on the way to work left Muhammad Al-Bari with broken bones and bills of around RM82,000.",
+      "alt": "Muhammad Al-Bari, a We Kongsi member",
+      "body": [
+        "Muhammad Al-Bari joined We Kongsi three years before he ever needed it. For three years he contributed each month towards other members' medical costs, without once calling on the community himself.",
+        "Then, on an ordinary morning on the way to work, he was involved in an accident that resulted in broken bones, with medical expenses reaching around RM82,000.",
+        "## In His Own Words",
+        "\" \"I have been a We Kongsi member for three years, and I never expected that one day I would need the support myself. On my way to work, I was involved in an accident that resulted in broken bones, with medical expenses reaching around RM82,000. Knowing that I had We Kongsi gave me peace of mind during my recovery.\"",
+        "## What a Figure Like RM82,000 Represents",
+        "Orthopaedic admissions tend to be costly in a particular way. They rarely involve a single procedure and a single night. More often it is surgery, implants, imaging and an extended stay, followed by a recovery that continues to carry costs after discharge.",
+        "A household facing RM82,000 does not usually lose everything. What it loses is the next several years of plans — a deposit saved for, a course of study, a business about to begin. The bill is met in the end, but it is met out of a future that was intended for something else.",
+        "## Accidental Injury Does Not Wait",
+        "Most support under WeShare begins after a waiting period: 90 days for common illness and 180 days for specified illnesses. The reason is the same one that applies to any mutual arrangement. Without a waiting period, people would join on the way to hospital, and the community would be asked to carry costs it had no opportunity to prepare for.",
+        "Accidental injury is the exception. **It is eligible from the day a membership begins, up to RM10,000**, because an accident is not something anyone can plan around. The remainder of an admission such as this follows the ordinary sharing rules.",
+        "## Three Years of Contributing, and One Morning",
+        "This is the pattern behind most member stories, and it is easy to overlook.",
+        "A member contributes month after month towards people they have never met. There is no event and no claim — only a regular payment that may seem, for a long time, to do nothing. Then one day, without warning, the position is reversed, and several thousand members quietly share a cost that no single household could have absorbed.",
+        "Those three uneventful years were not Al-Bari waiting for his turn. They were Al-Bari being part of somebody else's.",
+        "> Because for three years he was the support, and then one morning he was the one who needed it."
+      ]
+    },
+    "honey": {
+      "t": "A RM45,000 Surgery and the Support of the Community",
+      "d": "Honey, 27, from Perak, on moving away from expensive medical insurance — and what happened when she needed a RM45,000 surgery.",
+      "alt": "Honey, a We Kongsi member from Perak",
+      "body": [
+        "Honey is 27 and from Perak. Before joining We Kongsi she had been paying for medical insurance, and the cost of the premiums was what led her to look for an alternative.",
+        "It is a decision many people in their twenties are weighing up, often without much information to go on. Some time after making it, she needed surgery costing RM45,000.",
+        "## In Her Own Words",
+        "\" \"After switching from expensive medical insurance, I found We Kongsi to be much more affordable. When I underwent a RM45,000 surgery, the support I received gave me and my family real peace of mind.\"",
+        "## What She Moved To",
+        "It is important to be precise here, because an accurate description is more useful to a reader than a flattering one.",
+        "We Kongsi is **not insurance and not Takaful**. Nothing is underwritten, there is no sum insured, and no company undertakes to pay. It is a community of members who agree to share one another's approved medical costs, month by month, under published guidelines.",
+        "What supports that agreement is structural rather than contractual:",
+        "- **The funds are not held by We Kongsi.** They sit in a member-owned Sharing Account held and managed by a licensed trustee.",
+        "- **The decisions are not made by We Kongsi.** Every case is assessed against the published Program Guidelines by an independent third-party administrator.",
+        "- **The arithmetic is not private.** Each month's approved total, active member count and per-member share is published in full.",
+        "## An Honest Comparison",
+        "A reader weighing the same decision deserves both sides of it.",
+        "What a member gives up is a contract of indemnity — a regulated insurer's undertaking, backed by capital, that a defined sum will be paid. What a member gains is a lower monthly cost, a monthly sharing contribution capped at RM60, and a mechanism that can be read and checked end to end.",
+        "Neither is automatically the better choice for everybody. They are different arrangements, and anyone moving between them should understand clearly which one they hold.",
+        "## Her Own Account",
+        "Honey recorded her own testimonial, and it is published on the We Kongsi channel. It is a few minutes long and worth watching for anyone currently reviewing a renewal notice and considering the alternatives.",
+        "These stories are published in members' own words rather than written on their behalf, because a member's own account of their experience is the most reliable one available.",
+        "> Because peace of mind is only ever tested on the day it is needed."
+      ]
+    },
+    "xinmin": {
+      "t": "A RM15,000 Surgery: Support When It Matters Most",
+      "d": "Xin Min, 19, from Perak, on the surgery she needed and what the cost would have meant for her family.",
+      "alt": "Xin Min, a We Kongsi member from Perak",
+      "body": [
+        "Xin Min is 19 and from Perak. At that age most people have not given much thought to hospital bills, which is understandable and also part of what makes an unexpected one difficult.",
+        "She required surgery costing RM15,000.",
+        "## In Her Own Words",
+        "\" \"The RM15,000 surgery I needed would have been a huge burden for my family. Thanks to We Kongsi and the support of the community, I was able to focus on my recovery instead of worrying about the medical expenses.\"",
+        "## What the Support Actually Provided",
+        "It is worth noticing where that account ends. Not on the figure, but on what the figure allowed her to stop thinking about.",
+        "The financial support matters. What it provides during the week it is needed is the ability to concentrate on recovery rather than on how the cost will be met. A nineteen-year-old recovering from surgery has one responsibility, and calculating her family's finances is not it.",
+        "## Why Younger Members Are Part of the Community",
+        "A cost-sharing community depends on members who are statistically less likely to need it. That is not a cynical observation; it is simply how the arithmetic works, and it is the same arithmetic that means a nineteen-year-old pays the same membership fee as everyone else.",
+        "The arrangement is reciprocal, and it is open about being reciprocal. In most months Xin Min's contribution supports a member much older than she is. In one month, several thousand members' contributions supported her.",
+        "## Why the Waiting Period Exists",
+        "Membership is open from age 5 to 45, and support begins after a waiting period: 90 days for common illness, 180 days for specified illnesses, and accidental injury from the first day.",
+        "Those periods are not an obstacle placed in a new member's way. They are what prevents the community from being joined on the way to hospital, and they are the reason a member who joins young, and contributes through years of needing nothing, is what makes the programme work for the member who does.",
+        "> Because the best time to join a community like this is long before you need it."
+      ]
+    },
+    "money": {
+      "t": "Where Does the Community's Money Go?",
+      "d": "How eligible medical costs are reviewed, how each month's sharing amount is calculated, and why it is capped at RM60.",
+      "alt": "An illustration of how community sharing works",
+      "body": [
+        "The question members ask most frequently is also the most important one: where does my money actually go?",
+        "The answer has three parts, and what they have in common is that none of them involves We Kongsi holding the funds.",
+        "## First: There Are Two Separate Payments",
+        "This is the point that causes the most confusion, so it is worth separating before anything else.",
+        "- **The membership fee** — RM40 a month, RM100 a quarter or RM360 a year — funds the running of the programme: administration, the careline, case assessment and the platform. It is paid in advance and does not go towards medical cost-sharing.",
+        "- **The monthly sharing contribution** is separate. It varies from month to month, it is capped, and it is the amount that goes towards other members' approved medical costs.",
+        "One pays for the programme to operate. The other is the medical cost-sharing itself.",
+        "## Second: The Funds Are Held by a Licensed Trustee",
+        "Money set aside for sharing is held in a member-owned **Sharing Account**, managed by Palladium, a licensed trustee. We Kongsi has no access to it.",
+        "This is a structural safeguard rather than a courtesy. The organisation administering the programme cannot reach the funds, which means members' money does not depend on the continued good conduct of the administrator.",
+        "## Third: Cases Are Assessed Independently",
+        "When a member is admitted to hospital, an **independent third-party administrator** reviews the case against the published Program Guidelines before anything is shared. We Kongsi does not determine what the community supports.",
+        "Approved costs for the period are then divided across every active member — those who have completed the 90-day waiting period — which produces that month's per-member figure.",
+        "## Why the Sharing Cap Is Central",
+        "Whatever a month's approved total comes to, **no more than RM60 is shared from a member's Sharing Account**. Any amount above the cap is carried forward across the community rather than charged to anyone.",
+        "The cap is what makes the arrangement workable in practice. Without it, a heavy month for the community would become a heavy month for every member's household budget, and a model that asks families to absorb an unpredictable cost has recreated the problem it set out to solve.",
+        "With the cap in place, a member knows the maximum in advance. That is the difference between sharing a risk and simply passing it around.",
+        "## And All of It Is Published",
+        "Each month's approved total, active member count and per-member amount appears in the sharing report, and the full document is available to download on the Transparency page — every month since September 2023.",
+        "> Because members should not have to trust the arithmetic. They should be able to check it."
+      ]
+    },
+    "reports": {
+      "t": "Monthly Sharing Reports: Keeping Our Community Informed",
+      "d": "Every month since September 2023, published in full — what was approved, how many members shared it, and what was carried forward.",
+      "alt": "An illustration of the monthly sharing report",
+      "body": [
+        "We Kongsi has published a sharing report every month since September 2023.",
+        "Not a summary and not a selected highlight, but the document itself, available to download, with the case listing behind the totals.",
+        "## What Each Report Contains",
+        "Every report sets out the same information, in the same order, so that one month can be compared with another directly:",
+        "- **Total members** and **active members** — those who have completed the 90-day waiting period and therefore take part in that month's sharing.",
+        "- **Approved hospitalisation cases** for the period, and the **total medical cost approved**.",
+        "- **Cost per active member before the cap** — the division as it falls, whatever the figure.",
+        "- **The sharing cap**, and the **total actually shared** by members.",
+        "- **The balance carried forward** to the next period.",
+        "## The Sharing Period and How Reports Are Named",
+        "A sharing period runs from the 7th of one month to the 6th of the next, and each report is named for the month in which the period ends. The November 2026 report therefore covers 7 October to 6 November 2026.",
+        "This appears to be a technical detail until a member tries to match a report against a bank statement, at which point it becomes the most important one.",
+        "## How to Read a Report Quickly",
+        "For members who want the essentials, two figures tell most of the story: the **cost per active member before the cap**, and the **cap** itself.",
+        "Where the first is below the second, it was an ordinary month and members shared the amount the arithmetic produced. Where it is above, the month was heavy, the cap applied, and the difference was carried forward across the community rather than charged to households. That single comparison says more about a month than the headline total does.",
+        "## Designed to Be Verified",
+        "The arithmetic in a sharing report is published so that it can be checked:",
+        "- Active members multiplied by the per-member share equals the total shared.",
+        "- The difference between that figure and the approved cost is the amount carried forward.",
+        "Both calculations can be carried out by any member with the document in front of them.",
+        "## An Ongoing Record",
+        "Every report is available on the Transparency page, with a selector for each month published. The most recent month leads, and the full archive remains available — including the quiet months and the heavy ones in which the cap applied.",
+        "The heavy months are the most informative. Any programme can publish a favourable one.",
+        "> Because transparency that cannot be checked is only a claim."
+      ]
+    },
+    "wecare": {
+      "t": "Introducing WeCare: Everyday Outpatient Healthcare Made Simple",
+      "d": "A standalone outpatient subscription — unlimited teleconsultations, panel clinic visits and medication support, with no waiting period. Launched 1 November 2026.",
+      "alt": "Introducing WeCare — a standalone outpatient plan from We Kongsi",
+      "body": [
+        "WeCare launched on 1 November 2026. It is a standalone outpatient healthcare subscription: a plan in its own right rather than part of WeShare, and available without membership of the hospitalisation cost-sharing community.",
+        "## What a Subscription Includes",
+        "- **Unlimited video consultations** with a licensed doctor, daily from 9:00am to 10:00pm including weekends and public holidays, at no additional cost.",
+        "- **Care Episodes** — two released each quarter, eight across a subscription year. One covers medication; one covers a visit to a panel GP clinic.",
+        "- **A panel of 4,709 clinics** across 663 towns and cities, on the MiCare GP network.",
+        "Care is delivered through the MiCare MyMed app by HEYDOC Health's network of licensed practitioners, clinics and pharmacies.",
+        "## How a Care Episode Works",
+        "Each Care Episode is supported up to **RM40**. Where the cost exceeds that, the member pays the difference and is told the amount before anything is charged.",
+        "One rule is particularly important: **a consultation never uses an episode.** Talking to a doctor is unlimited and free. An episode is only used when a member is actually treated — when medication is dispensed, or a clinic visit takes place.",
+        "That design is deliberate. A plan that charged for the consultation would encourage members to wait until they were certain something was wrong, and waiting is often how a minor condition becomes a hospital admission.",
+        "## No Waiting Period and No Health Declaration",
+        "WeCare begins on the day it is paid for. There is no waiting period, no health declaration, and no registration or administration fee.",
+        "The subscription costs RM45 a quarter or RM160 a year. It is paid in advance and is non-refundable. A member may cancel at any time, with no notice and no charge, and remains covered for the period already paid for. Restarting later costs RM30 in addition to the new subscription.",
+        "## What WeCare Is Not",
+        "Being precise about this is more useful to a prospective member than describing it favourably.",
+        "WeCare is a **paid outpatient healthcare subscription — not insurance, not Takaful and not a medical card**. Nothing is underwritten and no sum is insured. We Kongsi distributes and administers the plan; the care itself is delivered by licensed practitioners through the panel network.",
+        "WeCare also does not cover hospitalisation. A member who wants hospital costs shared by the community needs WeShare. WeCare is designed for the far more frequent, everyday healthcare needs that do not involve a hospital.",
+        "The full terms, including the 21 common acute conditions the plan supports, are set out in the WeCare Program Guidelines.",
+        "> Because most of a healthcare year is made up of small, ordinary needs — and those deserve support too."
+      ]
+    },
+    "cob": {
+      "t": "Understanding WeShare's Conditional Outpatient Benefit (COB)",
+      "d": "The optional outpatient add-on for WeShare members — what it supports, what it costs, when it begins, and how it differs from WeCare.",
+      "alt": "A member consulting a doctor by video call",
+      "body": [
+        "The Conditional Outpatient Benefit is an optional add-on to a WeShare membership, available from **RM15 a month** and beginning after a 90-day waiting period.",
+        "It is not a standalone plan. It cannot be taken up without a WeShare membership, and it is not included automatically in one.",
+        "## What the Benefit Provides",
+        "- **Eight care episodes a year** — two on activation, followed by two more each quarter.",
+        "- **Up to RM120 of support per episode**, across telemedicine and a visit to a panel clinic.",
+        "- **Unlimited supplementary teleconsultations** with a licensed doctor, daily from 9:00am to 10:00pm.",
+        "- **17 eligible outpatient conditions**, listed in the Program Guidelines.",
+        "Telemedicine is delivered by HEYDOC Health, and clinic visits take place at MiCare panel clinics nationwide.",
+        "## How a Member Uses It",
+        "A member begins with a teleconsultation, describing the problem to a licensed doctor. For many everyday conditions, that is sufficient.",
+        "Where more is required, a visit to a panel clinic is arranged. And where hospital care is needed, the doctor refers the member to a panel hospital, at which point the hospitalisation side of WeShare applies. In that sense the outpatient benefit is doing its most valuable work: getting a member in front of a clinician early enough for a referral rather than an emergency.",
+        "## COB and WeCare: The Difference",
+        "COB and WeCare provide similar services and are frequently confused with one another. The distinction is straightforward:",
+        "- **COB is an add-on to WeShare.** The member already shares hospitalisation costs with the community and is adding everyday outpatient care to that membership.",
+        "- **WeCare is a standalone subscription.** The subscriber wants outpatient care without being part of the hospitalisation cost-sharing community.",
+        "A WeShare member adds COB. Someone who wants outpatient support without hospitalisation cost-sharing subscribes to WeCare. There is no need for both.",
+        "## It Does Not Affect the Hospitalisation Sharing",
+        "This is the question asked most often about the COB, and the answer is clear: **using the outpatient benefit has no effect on the hospitalisation cost-sharing.**",
+        "An outpatient episode does not change a member's monthly sharing contribution, is not drawn from the Sharing Account, and does not count towards the RM1,000,000 annual medical cost-sharing limit. The two operate alongside one another.",
+        "## Why the Benefit Begins on Day 90",
+        "COB begins after the same 90-day waiting period that applies to common illness under WeShare. This is not an arbitrary delay. A benefit with no waiting period would be taken up on the way to a clinic, and that cost would fall on the rest of the community.",
+        "The full terms are set out in the We Kongsi Program Guidelines.",
+        "> Because one membership should answer both kinds of day: the hospital admission, and everything that comes before it."
+      ]
+    },
+    "onboarding": {
+      "t": "Making Healthcare More Accessible Through Digital Onboarding",
+      "d": "The onboarding system that went live in October 2026, and what changed for a new member."
+    },
+    "whatsnew": {
+      "t": "What's New in We Kongsi — November 2026",
+      "d": "The current entry age for new members, who can open an account, when support begins, and the latest programme updates.",
+      "body": [
+        "This is a regular update on changes to the We Kongsi Program Guidelines, membership procedures, eligibility and healthcare services. It sets out where things stand as of November 2026.",
+        "## Entry Age for New Members: 5 to 45",
+        "The entry age for new members is **5 to 45 years**, counted on the day of enrolment.",
+        "This applies to each individual enrolled as a member, including family members enrolled under an account. A member who joins within that range remains a member as they grow older; the limit applies at the point of enrolment, not afterwards.",
+        "## Who Can Open an Account, and Who Can Be Enrolled",
+        "These are two different things, and the distinction matters when a family joins together.",
+        "- **The account owner must be 18 or over.** The owner holds the membership account, enrols the members under it and manages them.",
+        "- **Members may be aged 5 to 45** at enrolment. A five-year-old can be a member, but cannot be an account owner.",
+        "- **Families can be enrolled together** under a single account, with the owner managing each member's membership.",
+        "## When Support Begins",
+        "Waiting periods are unchanged, and they are worth restating whenever eligibility is discussed:",
+        "- **Accidental injury** is eligible from the first day of membership, up to RM10,000.",
+        "- **Common illness** is eligible after 90 days.",
+        "- **Specified illnesses** are eligible after 180 days.",
+        "Waiting periods are what prevent the community from being joined at the point of needing it, and they are the reason members who contribute through years of needing nothing are able to rely on it when they do.",
+        "## WeCare Is Now Available",
+        "WeCare launched on 1 November 2026 as a standalone outpatient healthcare subscription — unlimited teleconsultations daily from 9:00am to 10:00pm, Care Episodes for medication and panel clinic visits, no waiting period and no health declaration.",
+        "It is separate from WeShare and from the Conditional Outpatient Benefit. A WeShare member who wants everyday outpatient care adds the COB; someone who wants outpatient care without hospitalisation cost-sharing subscribes to WeCare.",
+        "## The Latest Sharing Report",
+        "The November 2026 sharing report covers the period from 7 October to 6 November 2026. In that period, 53 hospitalisation cases were approved at a total medical cost of RM367,215.07.",
+        "With 6,078 active members, the sharing cap applied: each member shared RM60.00, for a total of RM364,680.00, and the balance of RM2,535.07 was carried forward to the next period. The full report is available to download on the Transparency page.",
+        "## Where to Confirm Anything Here",
+        "The Program Guidelines remain the authoritative source for eligibility, waiting periods, limits and procedures, and both documents are available on this site. For anything specific to an individual membership, the team can be reached on WhatsApp.",
+        "> Because members should hear about changes to their own programme from the programme itself."
+      ],
+      "alt": "A Malaysian family of several generations"
+    },
+    "agenttraining": {
+      "t": "Empowering Our Agents to Serve the Community Better",
+      "d": "Training, product knowledge and the work of making sure the programme is explained accurately."
+    },
+    "agentbts": {
+      "t": "Behind the Scenes: Our We Kongsi Agent Community",
+      "d": "The people who bring the programme to their own communities, and what the work looks like day to day."
+    },
+    "agentsurvey": {
+      "t": "Listening to Our Agents: Agent Voice Survey 2026",
+      "d": "A survey run from 16 September to 15 October 2026, to hear what the people closest to members have to say."
+    },
+    "agentbriefing": {
+      "t": "Preparing Our Network for a New Chapter: WeCare Agent Briefing",
+      "d": "An online briefing introducing WeCare, so agents can explain the new outpatient subscription accurately."
+    },
+    "ins": {
+      "bills": {
+        "t": "Why Hospital Bills Can Be a Financial Challenge for Malaysian Families",
+        "d": "What a private admission actually costs, and why it lands hardest on households with no buffer."
+      },
+      "howsharing": {
+        "t": "Understanding Medical Cost-Sharing: How Does It Work?",
+        "d": "The mechanism behind a cost-sharing community, and how it differs from insurance and Takaful."
+      },
+      "admitted": {
+        "t": "What Happens When a WeShare Member Is Admitted to Hospital?",
+        "d": "Step by step, from the admissions counter to the Guarantee Letter to settlement."
+      },
+      "referral": {
+        "t": "Why Is a Referral Letter Important Before Non-Emergency Admission?",
+        "d": "What a referral letter is for, and when you need one."
+      },
+      "beforejoining": {
+        "t": "What Should You Know Before Joining a Medical Cost-Sharing Community?",
+        "d": "The questions worth asking of any cost-sharing programme, including this one."
+      },
+      "inVsOut": {
+        "t": "Hospitalisation vs Outpatient Care: Understanding the Difference",
+        "d": "Two different kinds of care, two different kinds of cover, and why the distinction matters."
+      },
+      "clinicOrHospital": {
+        "t": "When Should You Visit a Clinic, and When Should You Go to Hospital?",
+        "d": "A practical guide to choosing where to be seen."
+      },
+      "tele": {
+        "t": "Teleconsultation: When Is an Online Doctor Consultation Useful?",
+        "d": "What a video consultation can and cannot do for you."
+      },
+      "prepare": {
+        "t": "How to Prepare for a Hospital Admission",
+        "d": "What to bring, what to confirm beforehand, and what to expect at the counter."
+      },
+      "waiting": {
+        "t": "Understanding Waiting Periods and Programme Guidelines",
+        "d": "Why waiting periods exist, how long each one is, and what is eligible from day one."
+      }
+    },
+    "sec": {
+      "member": {
+        "t": "Member stories",
+        "d": "Real experiences, in members' own words."
+      },
+      "community": {
+        "t": "Community & partnerships",
+        "d": "Events, collaborations and the organisations we work with."
+      },
+      "governance": {
+        "t": "Trust & transparency",
+        "d": "How the programme is governed, and what gets published."
+      },
+      "programme": {
+        "t": "Programme launches & updates",
+        "d": "What is new, and what changed."
+      },
+      "health": {
+        "t": "Healthcare insights",
+        "d": "Useful information about healthcare and medical cost-sharing."
+      },
+      "all": "View all"
+    },
+    "share": {
+      "copy": "Copy link",
+      "copied": "Link copied"
+    },
+    "author": "The We Kongsi team",
+    "cta": {
+      "title": "Stay close to\n[[the community]].",
+      "lede": "New stories, monthly sharing reports and programme updates. Follow us, or send us a message — we answer.",
+      "follow": "Follow on Facebook",
+      "chat": "Chat with us"
+    },
+    "readMins": "{{count}} min read",
+    "watchFb": "Watch on Facebook",
+    "arhuzaim": {
+      "t": "An Ordinary Day at Work, and a RM133,000 Hospital Bill",
+      "d": "More than three years a member before he ever needed it. A road accident put Mohd Arhuzaim bin Samijan in a private hospital, with treatment reaching RM133,000.",
+      "alt": "Mohd Arhuzaim bin Samijan at home with his wife, after the accident",
+      "body": [
+        "Mohd Arhuzaim bin Samijan left for work the way he had left for work a thousand times before. There was nothing about that morning to mark it out as the one he would still be talking about afterwards.",
+        "A road accident sent him to a private hospital, where the treatment came to RM133,000. By then he had been a We Kongsi member for more than three years, contributing every month towards costs that had always belonged to somebody else.",
+        "## What a Figure Like RM133,000 Represents",
+        "Major trauma is expensive in a way that is difficult to picture until the itemised bill arrives. It is rarely one procedure. It is the emergency admission, the imaging, the surgery and whatever the surgery requires, the days in a ward that are charged by the day, and the follow-up that carries on after discharge.",
+        "At that size the question stops being whether a household can afford the treatment and becomes what it will have to give up to pay for it. Savings meant for something else, a vehicle, a property, help asked for from family — most people find the money somehow. What they do not get back is the years it took to put it together.",
+        "## From Admission to Discharge",
+        "The valuable part of his account is the ordinary part: what actually happens between arriving at a hospital and being allowed to leave it.",
+        "- **Getting in.** A member admitted to a panel hospital is assessed by e-MAS, the third-party administrator, which handles the Guarantee Letter. The member is not left to negotiate at a counter.",
+        "- **During the stay.** The administrator deals with the hospital directly. That is what a panel is for — the paperwork runs between two organisations that handle it every day, rather than across a hospital bed.",
+        "- **Afterwards.** The eligible amount enters that month's sharing, and the ordinary sharing rules decide the rest.",
+        "He walks through his own version of all of this in the video below, which is a better account of it than any summary.",
+        "## No Single Member Pays for an Admission",
+        "RM133,000 is what the treatment cost. What the community shares is the eligible portion of it, and whatever a month's admissions come to, no member is asked for more than the monthly cap.",
+        "That is the whole mechanism, and it is worth stating plainly: a cost far beyond one household is divided until it is small for everybody.",
+        "## Three Years of Paying for People He Never Met",
+        "For more than three years his contribution went towards admissions he never saw, for members he has never met. Nothing came back, because nothing was meant to. That is what the contribution is.",
+        "Then one morning the direction reversed, and several thousand strangers shared a cost he could not have carried on his own.",
+        "> Because the day you need the community is never the day you planned for."
+      ]
+    },
+    "rider": {
+      "t": "The Rider Who Thought It Would Never Happen to Him",
+      "d": "For a rider, the road is where the day's income is earned. One accident left him with a hospital bill of around RM93,000 — and a message for everyone still riding.",
+      "alt": "A We Kongsi member who rides for a living, at home during his recovery",
+      "body": [
+        "He is a rider. The motorcycle is not a weekend thing — it is how the day's income is earned, every day, on the same roads as everybody else.",
+        "Like most people who spend their working life on the road, he had filed the possibility of an accident somewhere at the back of his mind. Then it happened, and the hospital bill came to around RM93,000.",
+        "## In His Own Words",
+        "\" \"Don't be too calculating about the monthly contribution. We never know when misfortune will come.\"",
+        "That is the whole of his advice to other riders, and it is worth sitting with, because it is not really advice about money.",
+        "## The Risk Was Always There",
+        "Nobody who rides for a living needs to be told the road is dangerous. They know. The knowledge simply stops being useful after a while, because you cannot do the job and also treat every trip as a near miss.",
+        "So the risk does not change. What changes is whether anything has been put in place for the day it lands.",
+        "## What a Bill Like That Does to a Household",
+        "RM93,000 is not absorbed. It is converted into something else — a loan, a sold vehicle, money asked for from family, years of saving pointed somewhere new. For a household whose income depends on somebody being physically able to ride, it also arrives at the worst possible moment.",
+        "That is what his message is aimed at. A monthly contribution is small enough to feel like something you could skip. A bill of that size is not small enough to be skipped by anyone.",
+        "## Why the Contribution Is Supposed to Feel Like Nothing",
+        "Most months a member pays and nothing happens. No admission, no event, nothing comes back. After long enough it can start to look like paying for something you are not using.",
+        "It is being used. It is being used by whoever was admitted that month — and the arithmetic only works because everyone who was not admitted kept paying anyway. Then a month comes when those two groups change places.",
+        "> Because nobody plans for the accident. They plan for the possibility of one."
+      ]
+    }
+  }
+}

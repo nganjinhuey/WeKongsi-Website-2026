@@ -1,0 +1,1479 @@
+{
+  "pil": {
+    "title": "Penjagaan Dibina Sekitar [[Apa Yang Penting]].",
+    "subtitle": "We Kongsi dibina atas prinsip mudah yang menjadikan sokongan kesihatan lebih mampu milik, telus, mudah diakses dan dipacu komuniti.",
+    "p1": {
+      "eyebrow": "Keberpatutan",
+      "title": "Penjagaan yang kekal berpatutan",
+      "body": "Kongsian bulanan dihadkan, jadi kos kekal boleh dijangka dan terurus untuk setiap ahli."
+    },
+    "p2": {
+      "eyebrow": "Ketelusan",
+      "title": "Segalanya diterbitkan",
+      "body": "Laporan perkongsian penuh diterbitkan setiap bulan, supaya ahli dapat melihat dengan tepat bagaimana sumbangan komuniti dikongsi."
+    },
+    "p3": {
+      "eyebrow": "Akses",
+      "title": "Penjagaan dalam capaian",
+      "body": "Rangkaian luas hospital dan klinik tersedia untuk ahli di seluruh negara."
+    },
+    "p4": {
+      "eyebrow": "Komuniti",
+      "title": "Ahli menyokong ahli",
+      "body": "Ahli bersatu untuk menyokong satu sama lain ketika menghadapi perbelanjaan perubatan yang tidak dijangka."
+    },
+    "eyebrow": "Prinsip Teras Kami"
+  },
+  "nav": {
+    "home": "Laman Utama",
+    "about": "Tentang Kami",
+    "benefits": "Manfaat",
+    "plans": "Pelan",
+    "transparency": "Ketelusan",
+    "hospital": "Maklumat Hospital",
+    "blog": "Blog",
+    "faq": "Soalan Lazim",
+    "contact": "Hubungi",
+    "join": "Sertai Sekarang",
+    "login": "Log Masuk"
+  },
+  "hero": {
+    "headline": "Sukar Mencari [[Perlindungan Perubatan]]\n[[Yang Mampu Milik?]]",
+    "rotate0": "Rasanya tak penting sangat sekarang ni.",
+    "rotate": [
+      "Rasanya tak penting sangat sekarang ni.",
+      "Aku muda dan sihat lagi.",
+      "Aku tak faham macam mana ia berfungsi.",
+      "Terma-termanya terlalu rumit."
+    ],
+    "sub": "Inilah keraguan harian yang membuatkan ramai rakyat Malaysia hidup tanpa perlindungan. We Kongsi menjadikan perkongsian kos perubatan mudah, telus dan benar-benar mampu milik.",
+    "cta1": "Sertai We Kongsi Hari Ini",
+    "cta2": "Ketahui Cara Ia Berfungsi"
+  },
+  "reality": {
+    "tag": "Realitinya",
+    "title": "78% Rakyat Malaysia [[TIADA PERLINDUNGAN]]",
+    "sub": "Ramai yang menangguhkan perlindungan perubatan sehingga terlambat.",
+    "bd1": {
+      "t": "Tidak Mampu Bayar",
+      "d": "Premium dirasakan terlalu mahal untuk ditanggung, bulan demi bulan."
+    },
+    "bd2": {
+      "t": "Rasa Tak Perlu",
+      "d": "Ramai memandang remeh risiko kesihatan mereka sehingga terlambat."
+    },
+    "bd3": {
+      "t": "Ada Perlindungan",
+      "d": "Hanya segelintir kecil yang mempunyai perlindungan yang mencukupi."
+    },
+    "cta": "Dapatkan Perlindungan Hari Ini",
+    "donutcap": "Tiada Perlindungan",
+    "r1": {
+      "cap": "Inflasi perubatan tahunan",
+      "t": "Kos Penjagaan Kesihatan Semakin Mahal",
+      "d": "Inflasi perubatan meningkat setiap tahun, mengatasi pertumbuhan pendapatan purata."
+    },
+    "r2": {
+      "cap": "Purata premium swasta tahunan",
+      "t": "Hospital Swasta Terlalu Mahal",
+      "d": "Satu prosedur ringkas boleh mencecah ribuan ringgit, menguras simpanan hidup anda dalam sekelip mata."
+    },
+    "r3": {
+      "cap": "Purata masa menunggu hospital kerajaan",
+      "t": "Hospital Kerajaan Terlalu Sesak",
+      "d": "Masa menunggu yang lama boleh memburukkan keadaan yang memerlukan rawatan segera."
+    },
+    "r4": {
+      "cap": "Rakyat Malaysia tanpa perlindungan",
+      "t": "Ramai Anak-Anak Tiada Perlindungan",
+      "d": "Ramai keluarga membiarkan anak-anak tanpa perlindungan akibat premium insurans yang tinggi."
+    },
+    "transition": "Itulah sebabnya We Kongsi diwujudkan."
+  },
+  "intro": {
+    "eyebrow": "We Kongsi Bukan Penyedia Insurans, Tetapi Sebuah",
+    "title": "Platform [[Perkongsian Kos Perubatan]] Berasaskan Komuniti",
+    "p1": "We Kongsi ialah Program Perkongsian Kos Perubatan yang dipacu komuniti, direka untuk membantu ahli menguruskan perbelanjaan perubatan yang tidak dijangka melalui perkongsian yang telus dan bertanggungjawab.",
+    "p2": "Apabila seorang ahli memerlukan bantuan perubatan, komuniti bersatu untuk berkongsi beban — menjadikan bantuan penjagaan kesihatan lebih mudah diakses dan mampu milik.",
+    "c1": {
+      "tag": "Sokongan Komuniti",
+      "t": "Ahli Membantu Ahli",
+      "d": "Cabaran kesihatan boleh menimpa sesiapa sahaja. Melalui Perkongsian Kos Perubatan, ahli bersatu untuk menyokong satu sama lain di saat memerlukan."
+    },
+    "c2": {
+      "tag": "Akses Penjagaan Kesihatan Mampu Milik",
+      "t": "Perlindungan Yang Mampu Anda Kekalkan",
+      "d": "Bantuan penjagaan kesihatan tidak sepatutnya menjadi beban kewangan. We Kongsi menawarkan cara yang mampu milik dan mampan untuk keluarga mendapatkan bantuan perubatan."
+    },
+    "c3": {
+      "tag": "Perkongsian Telus & Bertanggungjawab",
+      "t": "Dibina Atas Kepercayaan",
+      "d": "Aktiviti perkongsian dikongsikan secara terbuka kepada ahli, memberi semua orang kejelasan dan keyakinan tentang cara komuniti membantu."
+    }
+  },
+  "impact": {
+    "tag": "Impak Komuniti",
+    "title": "Dipercayai Oleh \n[[Komuniti Kami Yang Semakin Berkembang]]",
+    "members": "Jumlah Ahli",
+    "bills": "Jumlah Bil Perubatan Dikongsi",
+    "hospital": "Kes Hospital Diluluskan",
+    "clinic": "Kes Klinik Diluluskan",
+    "sub": "Setiap angka mewakili seorang ahli yang menerima bantuan ketika paling memerlukan."
+  },
+  "coverage": {
+    "tag": "Keperluan Perubatan Yang Kami Kongsi",
+    "title": "Sokongan untuk [[Keperluan Perubatan Tidak Dijangka]]",
+    "desc": "Daripada kemasukan hospital hingga penjagaan kesihatan harian, ketahui bagaimana WeShare menyatukan ahli untuk menyokong keperluan perubatan yang layak.",
+    "c1": {
+      "amt": "Had perkongsian tahunan: RM1,000,000",
+      "t": "Hospitalisasi Pesakit Dalam",
+      "d": "Sokongan untuk kemasukan hospital yang layak akibat penyakit atau kecederaan.",
+      "cat": "Penjagaan Hospital"
+    },
+    "c2": {
+      "amt": "Sehingga 120 hari setahun",
+      "t": "Bilik & Makan",
+      "d": "Bilik hospital dan makanan sepanjang tempoh kemasukan sebagai pesakit dalam.",
+      "cat": "Penginapan Hospital"
+    },
+    "c3": {
+      "amt": "Berasingan daripada had tahunan RM1,000,000",
+      "t": "Rawatan Kanser Pesakit Luar",
+      "d": "Sokongan untuk rawatan kanser yang layak di luar kemasukan hospital.",
+      "cat": "Rawatan Khusus"
+    },
+    "c4": {
+      "amt": "RM10,000",
+      "t": "Bantuan Takziah",
+      "d": "Sokongan kewangan kepada benefisiari yang dinamakan apabila seorang ahli meninggal dunia.",
+      "cat": "Penjagaan Keluarga"
+    },
+    "c5": {
+      "amt": "Sehingga RM10,000",
+      "t": "Rawatan Kecederaan Akibat Kemalangan",
+      "d": "Sokongan untuk kecederaan akibat kemalangan dan rawatan perubatan berkaitan."
+    },
+    "c6": {
+      "amt": "RM50–100 / hari",
+      "t": "Elaun Tunai Harian",
+      "d": "Manfaat tunai sepanjang tempoh kemasukan di hospital kerajaan, sehingga 120 hari setahun."
+    },
+    "c7": {
+      "amt": "Sehingga RM10,000",
+      "t": "Rawatan Susulan Selepas Hospital",
+      "d": "Rawatan susulan dalam tempoh 60 hari selepas keluar dari hospital."
+    },
+    "c8": {
+      "amt": "Termasuk",
+      "t": "Pembedahan, ICU & Ambulans",
+      "d": "Caj pembedahan, dewan bedah, pakar bius, ICU dan ambulans."
+    },
+    "note": "Tertakluk kepada Garis Panduan Program dan syarat kelayakan.",
+    "cob": {
+      "cat": "Penjagaan Kesihatan Harian",
+      "t": "Penjagaan Pesakit Luar",
+      "d": "Akses telekonsultasi dan lawatan klinik panel untuk keperluan perubatan harian yang layak.",
+      "amt": "RM15 sebulan · sehingga RM120 setiap episod",
+      "badge": "Tambahan Pilihan"
+    }
+  },
+  "cs": {
+    "title": "Bagaimana [[Perkongsian Kos]] Berfungsi",
+    "desc": "Setiap bulan, jumlah bil perubatan yang diluluskan bagi ahli yang dimasukkan ke hospital dikongsi secara adil dalam kalangan semua ahli aktif. Sumbangan anda naik dan turun mengikut keperluan sebenar komuniti — dan sentiasa terhad, jadi anda tidak akan terlebih bayar.",
+    "ex1": {
+      "tag": "Contoh 1",
+      "outcome": {
+        "t": "Anda hanya bayar RM12.50 bulan ini",
+        "d": "Bil hospital RM100,000, dikongsi antara 8,000 ahli, menjadikan kos setiap orang sekadar harga secawan kopi."
+      }
+    },
+    "ex2": {
+      "tag": "Contoh 2",
+      "outcome": {
+        "t": "Anda tetap hanya bayar RM60 — tidak lebih",
+        "d": "Walaupun pada bulan dengan tuntutan tinggi yang menjadikan bahagian perkongsian RM100, sumbangan bulanan anda terhad pada RM60. Baki RM40 dibawa ke hadapan, jadi kos anda kekal mudah diramal."
+      }
+    },
+    "ex3": {
+      "tag": "Contoh 3",
+      "outcome": {
+        "t": "Tiada tuntutan bermakna anda tak bayar apa-apa",
+        "d": "Apabila tiada ahli yang dimasukkan ke hospital, tiada apa yang perlu dikongsi — jadi sumbangan anda bagi bulan itu ialah RM0."
+      }
+    },
+    "lbl": {
+      "totalbill": "Jumlah Bil Perubatan",
+      "activemembers": "Ahli Aktif",
+      "sharingcost": "Kos Perkongsian",
+      "youpayonly": "Anda Hanya Bayar"
+    },
+    "sub": {
+      "approved": "diluluskan bulan ini",
+      "thismonth": "bulan ini",
+      "permember": "setiap ahli",
+      "beforecap": "sebelum had",
+      "cappedmonth": "had sebulan",
+      "noclaims": "tiada tuntutan bulan ini"
+    },
+    "afford": {
+      "eyebrow": "Nanti dulu... betul ke semurah ni?",
+      "title": "Bermula serendah [[RM2]] sehari",
+      "desc": "Itu lebih murah daripada **teh tarik** harian anda — namun ia membantu melindungi anda dan seluruh komuniti.",
+      "teh": "Teh Tarik",
+      "vs": "vs",
+      "from": "dr. RM2"
+    }
+  },
+  "choose": {
+    "tag": "Pilih Perlindungan Anda",
+    "title": "Pilih Manfaat\n[[Yang Sesuai Untuk Anda]]",
+    "desc": "Pilih perlindungan yang menepati keperluan anda.",
+    "sharing": "Perkongsian",
+    "permonth": "/ bulan",
+    "opt1": {
+      "badge": "Pilihan 1",
+      "t": "Hospitalisasi Sahaja",
+      "sub": "Perlindungan hospitalisasi sahaja",
+      "f1": {
+        "t": "Manfaat Hospitalisasi",
+        "d": "Terpakai apabila dimasukkan ke hospital"
+      },
+      "f2": {
+        "t": "Tanpa Manfaat Pesakit Luar Bersyarat",
+        "d": "Tiada manfaat klinik pesakit luar atau panel"
+      }
+    },
+    "opt2": {
+      "badge": "Pilihan 2",
+      "t": "Hospitalisasi + COB",
+      "sub": "Hospitalisasi + Manfaat Pesakit Luar Bersyarat",
+      "addon": "Tambah hanya **RM15** / bulan",
+      "f1": {
+        "t": "Manfaat Hospitalisasi",
+        "d": "Terpakai apabila dimasukkan ke hospital"
+      },
+      "f2": {
+        "t": "Manfaat Pesakit Luar Bersyarat (COB)",
+        "d": "Manfaat klinik pesakit luar & panel disertakan"
+      }
+    }
+  },
+  "sa": {
+    "tag": "Akaun Perkongsian",
+    "title": "Akaun Perkongsian Anda, [[Dimiliki Sepenuhnya Oleh Anda]]",
+    "desc": "Akaun Perkongsian anda digunakan untuk menyertai perkongsian kos perubatan bulanan dalam komuniti. Dana ini dimiliki sepenuhnya oleh anda dan diuruskan oleh Pemegang Amanah berlesen.",
+    "autotopupto": "Tambah Nilai Automatik ke",
+    "std": {
+      "name": "Pakej Standard",
+      "room": "RM150 / hari",
+      "cash": "RM50 / hari"
+    },
+    "dlx": {
+      "name": "Pakej Deluxe",
+      "room": "RM250 / hari",
+      "cash": "RM100 / hari",
+      "ambulance": "Mengikut caj"
+    },
+    "premium": "Premium",
+    "row": {
+      "annual": "Had Tahunan",
+      "room": "Bilik & Makan",
+      "cash": "Elaun Tunai Harian di Hospital Kerajaan",
+      "cancer": "Rawatan Kanser Pesakit Luar",
+      "prehosp": "Ujian Pra-Kemasukan & Diagnostik",
+      "ambulance": "Caj Ambulans"
+    },
+    "na": "Tiada",
+    "note": "Jumlah perkongsian bulanan sebenar bergantung kepada kes perubatan yang diluluskan bagi bulan tersebut."
+  },
+  "at": {
+    "tag": "Perkongsian & Tambah Nilai Automatik",
+    "title": "Sediakan Sekali, [[Perlindungan Berterusan]]",
+    "desc": "Sertai sekali, lengkapkan persediaan mudah, dan perkongsian kos perubatan anda berjalan secara automatik. Tambah nilai automatik mengisi semula Akaun Perkongsian anda secara senyap supaya perlindungan anda tidak pernah terputus.",
+    "steptitle": "Cara Ia Berfungsi, Langkah Demi Langkah",
+    "s1": {
+      "day": "Hari 1",
+      "t": "Sertai We Kongsi",
+      "d": "Daftar sebagai ahli dalam beberapa minit sahaja."
+    },
+    "s2": {
+      "day": "Persediaan",
+      "t": "Dana Akaun Perkongsian Anda",
+      "d": "Tambah nilai sehingga RM150 (Standard) atau RM300 (Deluxe) untuk bermula."
+    },
+    "s3": {
+      "day": "Hari 1 – 90",
+      "t": "Tempoh Menunggu",
+      "d": "Tiada perkongsian dipotong sepanjang 90 hari pertama anda."
+    },
+    "s4": {
+      "day": "Hari 91 Dan Seterusnya",
+      "t": "Perkongsian Bermula",
+      "d": "Setiap bulan, hanya **RM0 – RM60** dikongsi, berdasarkan kes yang diluluskan oleh komuniti."
+    },
+    "simtitle": "Tambah Nilai Automatik Dalam Tindakan",
+    "balance": "Baki Akaun Perkongsian",
+    "trigger": "Pencetus tambah nilai",
+    "status": {
+      "deduct": "Perkongsian bulanan dipotong…",
+      "trigger": "Baki di bawah pencetus — tambah nilai automatik diaktifkan",
+      "restore": "Tambah nilai automatik selesai — baki dipulihkan"
+    },
+    "leg1": "Perkongsian bulanan dipotong daripada baki anda.",
+    "leg2": "Apabila ia menurun di bawah pencetus, tambah nilai automatik diaktifkan.",
+    "leg3": "Baki anda dipulihkan serta-merta — perlindungan tidak pernah terputus.",
+    "foot": "Standard tambah nilai sehingga **RM150** · Deluxe tambah nilai sehingga **RM300**",
+    "fixed": {
+      "tag": "Lebih suka jumlah tetap?",
+      "t": "Atau pilih Pilihan Bulanan Tetap [[RM75]]",
+      "d": "Tak mahu sumbangan anda berubah dari bulan ke bulan? Anda boleh memilih kadar tetap **RM75 setiap bulan** — perancangan bajet yang benar-benar mudah diramal dengan perlindungan komuniti yang sama, jadi tiada lagi kejutan."
+    }
+  },
+  "co": {
+    "tag": "Bayaran Bersama (Co-Share)",
+    "title": "Bagaimana [[Co-Share]] Berfungsi",
+    "desc": "Apabila anda dimasukkan sebagai pesakit dalam, anda membayar sebahagian kecil bayaran bersama daripada bil yang diluluskan — dan komuniti berkongsi bakinya. Co-Share anda berdasarkan kumpulan umur anda dan sentiasa terhad.",
+    "age1": "Umur 0 – 5",
+    "age2": "Umur 6 – 45",
+    "age3": "Umur 46 & ke atas",
+    "ofbill": "daripada bil yang diluluskan",
+    "worked": "Contoh Pengiraan",
+    "lbl": {
+      "approved": "Bil Diluluskan",
+      "rate": "Co-Share (Umur 6 – 45)",
+      "youpay": "Anda Hanya Bayar",
+      "worksout": "Menjadi"
+    },
+    "ex1": {
+      "t": "Mei, berumur 28, mempunyai bil hospital RM2,000",
+      "cap": "dalam had RM500",
+      "result": "Mei hanya bayar **RM200** — komuniti berkongsi baki **RM1,800** daripada bil tersebut."
+    },
+    "ex2": {
+      "t": "Aiman, berumur 30, dimasukkan ke hospital swasta",
+      "cap": "terhad setiap kemasukan",
+      "result": "Aiman hanya bayar **RM500** — komuniti berkongsi baki **RM49,500** daripada bil tersebut."
+    },
+    "cap": {
+      "t": "Terhad pada [[RM500]] setiap kemasukan",
+      "d": "Tidak kira sebesar mana bil yang diluluskan, Co-Share anda tidak pernah melebihi RM500 setiap kemasukan pesakit dalam."
+    },
+    "pt1": "Dikira berdasarkan **bil akhir yang diluluskan**, selepas semakan TPA",
+    "pt2": "Terpakai **setiap kemasukan pesakit dalam**, pada bil yang layak sahaja",
+    "pt3": "**Tiada co-share** bagi kemasukan ke Hospital Kerajaan",
+    "pt4": "Co-Share anda **tidak dikongsi** dengan komuniti"
+  },
+  "pt": {
+    "tag": "Kepercayaan & Keselamatan",
+    "title": "Rasmi Patuh Syariah",
+    "subtitle": "Diperakui dan Disahkan oleh Afsha Shariah Advisory",
+    "text": "Komitmen We Kongsi terhadap keadilan dan operasi beretika disahkan secara bebas. Keseluruhan program We Kongsi telah diiktiraf secara rasmi sebagai patuh Syariah oleh badan penasihat bebas, Afsha Shariah Advisory. Pengesahan ini memberi jaminan kepada setiap ahli bahawa operasi perkongsian kos perubatan kami benar-benar telus, beretika, dan selari sepenuhnya dengan prinsip Islam.",
+    "logostitle": "Rakan Kerjasama Teknologi & Pematuhan Dipercayai",
+    "paneltitle": "250+ Hospital Panel Di Seluruh Negara"
+  },
+  "ts": {
+    "tag": "Kisah Sebenar Ahli",
+    "title": "Insan Sebenar. [[Sokongan Sebenar]].",
+    "desc": "Di sebalik setiap bil perubatan ada seorang insan, sebuah keluarga, dan kisah yang berharga untuk dikongsi.",
+    "watch": "Tonton Video Penuh",
+    "q": {
+      "xinmin": "\"Pembedahan RM15,000 yang saya perlukan pasti menjadi beban besar buat keluarga saya. Berkat We Kongsi dan sokongan komuniti, saya dapat menumpukan perhatian pada pemulihan tanpa risau tentang kos perubatan.\"",
+      "faridah": "\"Menyertai We Kongsi ialah keputusan terbaik untuk keluarga saya. Sumbangan bulanannya begitu mampu milik, dan mengetahui seluruh komuniti menyokong kami memberi ketenangan fikiran yang sebenar.\"",
+      "kalai": "\"Apa yang paling mengagumkan saya ialah ketelusannya. Setiap bulan saya boleh lihat dengan jelas bagaimana perkongsian berfungsi dan berapa ramai ahli yang dibantu. Ia benar-benar terasa jujur.\"",
+      "honey": "\"Selepas beralih daripada insurans perubatan yang mahal, saya dapati We Kongsi jauh lebih mampu milik. Ketika saya menjalani pembedahan RM45,000, sokongan yang saya terima memberi saya dan keluarga ketenangan fikiran yang sebenar.\"",
+      "weijie": "\"Sebagai peniaga kecil, saya tidak mampu menanggung premium insurans yang mahal. We Kongsi memberi saya perlindungan sebenar pada harga yang benar-benar berbaloi untuk saya.\"",
+      "suriani": "\"Telekonsultasi melalui COB menjimatkan begitu banyak lawatan ke klinik bersama anak-anak saya. Ia pantas, mudah, dan sokongan sentiasa ada bila kami memerlukannya.\"",
+      "niena": "\"Kemalangan yang tidak dijangka meninggalkan saya dengan bil perubatan RM39,000. Sokongan dan proses yang lancar memberi saya keyakinan di saat yang sukar, membolehkan saya menumpukan perhatian untuk pulih.\"",
+      "daniel": "\"Saya merujuk seluruh keluarga saya kerana prosesnya begitu mudah. Apabila ibu saya dimasukkan ke hospital, segalanya diuruskan dengan penuh prihatin dan tanpa berlengah.\"",
+      "hafiz": "\"Walaupun tinggal jauh dari bandar, mendapatkan sokongan amatlah mudah. We Kongsi memberi keluarga saya perlindungan yang boleh diharap tanpa kos berat insurans tradisional.\"",
+      "syafiq": "\"Saya mahukan alternatif yang lebih mampu milik, dan We Kongsi memberi saya tepat seperti itu. Ketika saya memerlukan pembedahan buku lali, sokongan yang saya terima meyakinkan saya bahawa saya telah membuat pilihan yang betul.\"",
+      "hizam": "\"Ahli saya dimasukkan ke hospital akibat keracunan makanan yang teruk, dan sokongan diberikan dengan serta-merta. Melihat tuntutan diuruskan dengan pantas membuktikan bahawa We Kongsi memberi nilai sebenar untuk komuniti saya.\"",
+      "maslina": "\"Anak saya terlibat dalam kemalangan motor, tetapi kerana keluarga kami yang berjumlah 8 orang dilindungi, mereka mendapat rawatan yang selesa dan pantas di hospital swasta. We Kongsi menanggung semuanya — kami amat bersyukur!\"",
+      "ainul": "\"Pada mulanya kami ragu-ragu, tetapi apabila anak kami dimasukkan ke hospital, proses Surat Jaminan berjalan lancar dan tepat pada masanya. Pengalaman itu memberi kami keyakinan dan menunjukkan nilai menjadi sebahagian daripada komuniti yang prihatin.\"",
+      "king": "\"Saya dimasukkan ke hospital selepas mengalami sakit jantung, sesuatu yang tidak pernah saya jangka akan berlaku kepada saya. Jumlah bil perubatan saya mencecah kira-kira RM60,000. Saya amat bersyukur kerana mempunyai We Kongsi dan sokongan komuniti ketika saya paling memerlukannya.\"",
+      "albari": "\"Saya telah menjadi ahli We Kongsi selama tiga tahun, dan saya tidak pernah menyangka suatu hari saya sendiri akan memerlukan bantuan itu. Dalam perjalanan ke tempat kerja, saya terlibat dalam kemalangan yang mengakibatkan patah tulang, dengan perbelanjaan perubatan mencecah kira-kira RM82,000. Mengetahui bahawa saya mempunyai We Kongsi memberi saya ketenangan sepanjang pemulihan.\"",
+      "family": "\"Selepas percutian keluarga kami ke KL, anak perempuan saya terpaksa dimasukkan ke hospital selama 2–3 hari kerana masalah perut. Bilnya mencecah kira-kira RM2,200, satu perbelanjaan yang tidak dijangka bagi keluarga kami. Syukurlah saya mempunyai We Kongsi untuk meringankan beban ketika itu.\""
+    },
+    "m": {
+      "xinmin": "19 · Perak",
+      "faridah": "38 · Selangor",
+      "kalai": "33 · Negeri Sembilan",
+      "honey": "27 · Perak",
+      "weijie": "41 · Melaka",
+      "suriani": "30 · Kedah",
+      "niena": "26 · Johor",
+      "daniel": "36 · Kuala Lumpur",
+      "hafiz": "45 · Pahang",
+      "syafiq": "29 · Kelantan",
+      "hizam": "Perujuk",
+      "maslina": "Ahli We Kongsi",
+      "king": "Ahli We Kongsi",
+      "albari": "Ahli We Kongsi",
+      "family": "Keluarga Ahli",
+      "ainul": "35 & 42"
+    },
+    "h": {
+      "king": "Sokongan Ketika Paling Diperlukan",
+      "albari": "Apabila Yang Tidak Dijangka Berlaku",
+      "family": "Percutian Keluarga Yang Berubah Arah",
+      "xinmin": "Pembedahan Tanpa Beban",
+      "honey": "Cara Lebih Mampu Milik Untuk Dilindungi",
+      "niena": "Keyakinan Ketika Waktu Sukar",
+      "syafiq": "Pilihan Yang Tepat, Terbukti",
+      "hizam": "Bantuan Yang Tiba Dengan Segera",
+      "maslina": "Rawatan Pantas Untuk Keluarga Lapan Orang",
+      "ainul": "Lancar dan Tepat Pada Masanya",
+      "faridah": "Keputusan Terbaik Untuk Keluarga Saya",
+      "kalai": "Setiap Bulan, Diterbitkan Secara Terbuka",
+      "weijie": "Perlindungan Sebenar Pada Harga Yang Berpatutan",
+      "suriani": "Kurang Ulang-Alik ke Klinik Bersama Anak",
+      "daniel": "Diuruskan Dengan Teliti, Tanpa Lengah",
+      "hafiz": "Sokongan Boleh Harap, Jauh Dari Bandar"
+    },
+    "closeVideo": "Tutup video",
+    "prev": "Kisah sebelumnya",
+    "next": "Kisah seterusnya"
+  },
+  "faq": {
+    "tag": "Soalan Lazim",
+    "title": "Soalan [[Lazim]]",
+    "q1": "Apakah itu Perkongsian Kos Perubatan?",
+    "a1": "Perkongsian Kos Perubatan ialah model berasaskan komuniti di mana ahli secara sukarela mengumpulkan sumber untuk membantu menanggung perbelanjaan perubatan yang diluluskan antara satu sama lain. Apabila seorang ahli mempunyai bil perubatan yang layak, komuniti berkongsi kosnya dalam kalangan semua ahli aktif, menjadikan penjagaan kesihatan lebih mudah diakses dan mampu milik.",
+    "q2": "Apa bezanya We Kongsi dengan insurans?",
+    "a2": "We Kongsi BUKAN produk insurans. Tidak seperti insurans, We Kongsi ialah program yang dipacu komuniti di mana ahli membantu ahli — tiada syarikat insurans yang mengambil keuntungan. Ahli hanya menyumbang apabila terdapat kes perubatan yang diluluskan, menjadikannya lebih telus dan berfokuskan komuniti.",
+    "q3": "Berapa banyak yang perlu saya sumbang setiap bulan?",
+    "a3": "Perkongsian bulanan anda bergantung kepada kes perubatan yang diluluskan pada bulan itu, dibahagikan dalam kalangan semua ahli aktif. Perkongsian pesakit dalam terhad pada RM60 setiap ahli. Dengan pilihan COB anda mungkin menyumbang tambahan RM15. Yuran keahlian adalah berasingan dan ditetapkan pada RM40/bulan (atau RM100/suku tahun, RM360/tahun).",
+    "q4": "Apa akan jadi jika tiada kes yang diluluskan?",
+    "a4": "Jika tiada kes hospital yang diluluskan dalam sebulan, tiada perkongsian pesakit dalam diperlukan. Baki Akaun Perkongsian anda dibawa ke hadapan dan kekal tersedia untuk bulan-bulan akan datang apabila komuniti memerlukan sokongan.",
+    "q5": "Apakah itu COB (Manfaat Pesakit Luar Bersyarat)?",
+    "a5": "COB menyediakan sokongan untuk penyakit harian, termasuk teleperubatan melalui HEYDOC Health dan lawatan klinik di klinik panel MiCare di seluruh negara. Ahli menerima sokongan sehingga RM120 setiap episod, sehingga 8 episod setahun, meliputi 17 penyakit pesakit luar yang layak.",
+    "q6": "Bolehkah saya memilih untuk tidak menyertai COB?",
+    "a6": "Ya, COB adalah pilihan. Anda boleh memilih pakej Pesakit Dalam Sahaja tanpa COB, atau menyertakan COB untuk sokongan pesakit luar yang menyeluruh. Bercakap dengan ejen We Kongsi anda untuk maklumat lanjut tentang pilihan yang tersedia.",
+    "q7": "Bagaimana perkongsian berfungsi secara praktiknya?",
+    "a7": "Setiap bulan, semua bil perubatan yang diluluskan dijumlahkan dan dibahagikan sama rata dalam kalangan ahli aktif. Sebagai contoh, jika bil bernilai RM200,000 diluluskan merentasi 5,000 ahli aktif, setiap ahli berkongsi RM40 pada bulan itu. Perkongsian pesakit dalam sentiasa terhad pada RM60/bulan.",
+    "q8": "Bagaimana saya boleh menyertai We Kongsi?",
+    "a8": "Sertai We Kongsi dengan bercakap dengan ejen berdaftar yang akan membimbing anda melalui proses keahlian, membantu anda memilih pelan yang sesuai, dan melengkapkan pendaftaran anda. Klik \"Sertai We Kongsi Hari Ini\" atau \"Bercakap Dengan Ejen\" untuk bermula."
+  },
+  "cta": {
+    "title": "Sertai Komuniti\n[[Yang Prihatin]]",
+    "desc": "Jadilah sebahagian daripada komuniti yang saling membantu mendapatkan sokongan penjagaan kesihatan ketika ia paling penting.",
+    "join": "Sertai We Kongsi Hari Ini",
+    "agent": "Bercakap Dengan Ejen",
+    "trust1": "Perkongsian Kos Dipacu Komuniti",
+    "trust2": "Patuh Syariah",
+    "trust3": "Proses Perkongsian Telus"
+  },
+  "footer": {
+    "about": {
+      "_": "Program Perkongsian Kos Perubatan yang dipacu komuniti, menjadikan sokongan penjagaan kesihatan lebih mudah diakses dan mampu milik untuk semua rakyat Malaysia.",
+      "link": "Tentang We Kongsi"
+    },
+    "quicklinks": "Pautan Pantas",
+    "howitworks": "Cara Ia Berfungsi",
+    "coverage": "Perlindungan",
+    "plans": "Pelan Keahlian",
+    "cob": "Manfaat COB",
+    "support": "Sokongan",
+    "faq": "Soalan Lazim",
+    "website": "Lawati Laman Web",
+    "guidelines": "Garis Panduan Program",
+    "contactus": "Hubungi Kami",
+    "whatsapp": "WhatsApp Kami",
+    "contact": "Hubungi",
+    "generalline": "Talian Am:",
+    "email": "E-mel:",
+    "emas": "Careline eMAS:",
+    "micare": "Talian MiCare:",
+    "disclaimer": "**Penafian:** We Kongsi ialah Program Perkongsian Kos Perubatan yang dipacu komuniti dan bukan produk insurans. Perkongsian kos perubatan tertakluk kepada Garis Panduan Program dan syarat kelayakan. Aktiviti perkongsian lepas tidak menjamin jumlah perkongsian masa hadapan.",
+    "rights": "Hak cipta terpelihara."
+  },
+  "wa": {
+    "float": "Berbual Dengan Kami"
+  },
+  "hpw": {
+    "tag": "Cara We Kongsi Berfungsi",
+    "title": "Cara Mudah Ahli [[Saling Membantu]]",
+    "desc": "Apabila seorang ahli memerlukan sokongan perubatan, perbelanjaan perubatan yang layak disemak dan dikongsi antara ahli aktif mengikut Garis Panduan Program.",
+    "cta": "Ketahui Cara Ia Berfungsi",
+    "badge": "Komuniti Dipercayai",
+    "statlabel": "Dibina Atas",
+    "statval": "Kepercayaan & Ketelusan",
+    "hl1": "Telus",
+    "hl2": "Bertanggungjawab",
+    "hl3": "Didorong Komuniti",
+    "s1": {
+      "t": "Bil Perubatan Disemak",
+      "d": "Perbelanjaan perubatan yang layak disemak secara bebas dan disatukan mengikut Garis Panduan Program."
+    },
+    "s2": {
+      "t": "Kos Dikongsi Bersama",
+      "d": "Jumlah yang diluluskan dikongsi antara ahli aktif, jadi tiada ahli menanggung beban penuh seorang diri."
+    },
+    "s3": {
+      "t": "Ahli Menerima Bantuan",
+      "d": "Bersama-sama, komuniti membantu menampung perbelanjaan perubatan yang diluluskan, membolehkan ahli fokus pada pemulihan."
+    }
+  },
+  "site": {
+    "footer": {
+      "tagline": "Program komuniti perkongsian kos perubatan berasaskan keahlian, diuruskan oleh Kita Kongsi Sdn Bhd. Semua Orang Mampu Menjaga Kesihatan.",
+      "program": "Program",
+      "company": "Syarikat",
+      "getInTouch": "Hubungi Kami",
+      "benefitsCoverage": "Manfaat & Perlindungan",
+      "feesSharing": "Yuran & Perkongsian",
+      "transparencyReports": "Ketelusan & Laporan",
+      "aboutUs": "Tentang Kami",
+      "ourLeaders": "Barisan Kepimpinan",
+      "hospitalInfo": "Maklumat Hospital",
+      "companyName": "Kita Kongsi Sdn Bhd",
+      "address": "d/a WeWork Aras 18, Equatorial Plaza, Jalan Sultan Ismail, 50250 Kuala Lumpur, Malaysia",
+      "noteLabel": "Nota Penting:",
+      "note": "We Kongsi BUKAN syarikat insurans atau Takaful. Program ini digerakkan oleh persetujuan sukarela antara ahli untuk berkongsi perbelanjaan perubatan satu sama lain. Setiap ahli mempunyai hak penuh untuk menarik diri pada bila-bila masa dan berhenti berkongsi. Keahlian ini tidak berfungsi sebagai polisi insurans kumpulan atau individu. Risiko setiap ahli dikongsi oleh komuniti dan tidak dipindahkan kepada syarikat. Bagi memastikan semua keperluan perubatan dilindungi sepenuhnya, ahli digalakkan untuk turut berunding dengan penyedia insurans atau Takaful berlesen.",
+      "copyright": "© {{year}} Kita Kongsi Sdn Bhd. Hak cipta terpelihara.",
+      "privacy": "Dasar Privasi",
+      "terms": "Terma & Syarat"
+    },
+    "common": {
+      "readMore": "Baca lagi",
+      "backToTop": "Kembali ke atas",
+      "skipToContent": "Langkau ke kandungan"
+    },
+    "hero": {
+      "eyebrow": "Perkongsian Kos Perubatan",
+      "title": "Cara Alternatif untuk\n[[Perlindungan Perubatan]]",
+      "sub": "Platform perkongsian kos perubatan berasaskan komuniti yang dibina atas ketelusan, kemampuan dan keadilan.",
+      "pill1": "Ketelusan",
+      "pill2": "Kemampuan",
+      "pill3": "Keadilan"
+    },
+    "impact": {
+      "waiting": "Dalam tempoh menunggu 90 hari",
+      "active": "Ahli aktif (90+ hari)",
+      "breakdown": "Pecahan ahli"
+    },
+    "cta": {
+      "eyebrow": "Kami sedia bila anda sedia",
+      "become": "Jadi Ahli",
+      "readFaq": "Baca Soalan Lazim"
+    },
+    "testimonial": {
+      "role": {
+        "member": "Ahli We Kongsi",
+        "family": "Keluarga Ahli"
+      }
+    },
+    "nav": {
+      "openMenu": "Buka menu",
+      "closeMenu": "Tutup menu"
+    },
+    "brand": {
+      "descriptor": "Perkongsian Kos Perubatan"
+    }
+  },
+  "meta": {
+    "home": {
+      "title": "We Kongsi — Perkongsian Kos Perubatan Dipacu Komuniti untuk Rakyat Malaysia",
+      "desc": "Program perkongsian kos perubatan dipacu komuniti. Ahli berkongsi bil perubatan yang diluluskan bersama-sama, supaya sokongan kesihatan kekal mampu milik dan telus."
+    },
+    "coverage": {
+      "title": "Manfaat & Perlindungan",
+      "desc": "Apa yang dikongsi oleh komuniti We Kongsi — kemasukan hospital, pembedahan, sokongan pesakit luar dan banyak lagi, dengan kelayakan dinyatakan dalam Garis Panduan Program."
+    },
+    "membership": {
+      "title": "Pelan Keahlian",
+      "desc": "WeShare dan WeCare — apa yang dilindungi setiap pelan dan cara menyertai, dinyatakan dengan jelas."
+    },
+    "transparency": {
+      "title": "Ketelusan & Laporan",
+      "desc": "Laporan perkongsian bulanan dan tadbir urus. Lihat bagaimana setiap kes yang diluluskan dikongsi merentas komuniti."
+    },
+    "hospital": {
+      "title": "Maklumat Hospital",
+      "desc": "Hospital dan klinik panel yang tersedia untuk ahli We Kongsi, dan apa yang perlu dilakukan apabila anda dimasukkan ke wad."
+    },
+    "about": {
+      "title": "Tentang Kami",
+      "desc": "Mengapa We Kongsi diwujudkan, siapa yang menguruskannya, dan rakan kongsi di sebalik program ini."
+    },
+    "faq": {
+      "title": "Soalan Lazim",
+      "desc": "Jawapan mengenai kelayakan, sumbangan, tuntutan, tempoh menunggu dan perbezaan perkongsian kos dengan insurans."
+    },
+    "blog": {
+      "title": "Blog & Pengumuman",
+      "desc": "Kemas kini program, kisah komuniti dan pengumuman daripada pasukan We Kongsi."
+    },
+    "contact": {
+      "title": "Hubungi Kami",
+      "desc": "Hubungi pasukan We Kongsi melalui WhatsApp, telefon atau e-mel — atau hubungi careline eMAS dan MiCare."
+    },
+    "plans": {
+      "title": "Pelan — WeShare & WeCare",
+      "desc": "Dua pelan: WeShare berkongsi kos kemasukan hospital dalam kalangan ahli, WeCare merangkumi penjagaan pesakit luar harian."
+    },
+    "weshare": {
+      "title": "WeShare — Perkongsian Kos Perubatan",
+      "desc": "Apa yang dilindungi WeShare, cara komuniti berkongsi bil hospital yang diluluskan, dan apa yang anda miliki."
+    },
+    "wecare": {
+      "title": "WeCare — Pelan Pesakit Luar",
+      "desc": "Pelan pesakit luar tersendiri untuk penjagaan harian — telekonsultasi dan lawatan klinik panel."
+    }
+  },
+  "mem": {
+    "hero": {
+      "eyebrow": "Pelan Kami",
+      "title": "Sertai komuniti yang\n[[sentiasa menyokong anda]]",
+      "lede": "Dua pelan berasingan. WeShare menyatukan komuniti untuk berkongsi kos kemasukan hospital yang layak. WeCare pula pelan pesakit luar tersendiri untuk penjagaan harian."
+    },
+    "plan": {
+      "eyebrow": "Pilih Pelan Anda",
+      "title": "WeShare atau [[WeCare]]",
+      "desc": "Dua pelan, setiap satu dengan tujuannya sendiri — satu untuk kos kemasukan hospital, satu untuk penjagaan harian.",
+      "standard": "Pelan Standard",
+      "deluxe": "Pelan Deluxe",
+      "sharedPerYear": "kos perubatan dikongsi setiap tahun",
+      "ws": {
+        "kind": "Perkongsian kos perubatan",
+        "desc": "Program teras. Apabila seorang ahli dimasukkan ke wad, komuniti berkongsi bil yang diluluskan.",
+        "cta": "Sertai WeShare",
+        "h1": "Sokongan Kemasukan Hospital",
+        "h2": "Perkongsian Kos Komuniti",
+        "h3": "Akaun Perkongsian Milik Anda"
+      },
+      "wc": {
+        "kind": "Pelan pesakit luar"
+      }
+    },
+    "common": {
+      "included": "Disertakan",
+      "na": "Tiada",
+      "upTo": "Sehingga",
+      "perDay": "/hari",
+      "perAdmission": "{{value}} setiap kemasukan",
+      "perDayValue": "{{value}} / hari",
+      "upToValue": "Sehingga {{value}}"
+    },
+    "join": {
+      "eyebrow": "Sertai Kami",
+      "title": "Kelayakan &\n[[cara mendaftar]]",
+      "desc": "We Kongsi terbuka kepada semua rakyat Malaysia, tanpa mengira etnik atau agama, yang sihat pada masa pendaftaran.",
+      "h1": "**Pilih pelan anda** — WeShare atau WeCare.",
+      "h2": "**Lengkapkan permohonan keahlian** dan perisytiharan kesihatan.",
+      "h3": "**Sediakan debit automatik** melalui eMandate (Curlec).",
+      "h4": "**Anda diterima** — Akaun Perkongsian anda dibuka, tambah nilai awal pada hari ke-60, dan perkongsian bermula selepas tempoh menunggu 90 hari."
+    },
+    "cta": {
+      "become": "Jadi ahli",
+      "seeHow": "Lihat cara ia berfungsi"
+    }
+  },
+  "cov": {
+    "hero": {
+      "eyebrow": "Perlindungan",
+      "title": "Apa Yang [[Kami Lindungi]]",
+      "lede": "Gambaran keseluruhan dalam bahasa mudah tentang kos perubatan yang dikongsi bersama oleh komuniti kami — apa yang layak, bagaimana penjagaan pesakit luar berfungsi, bahagian co-share anda sendiri, dan apa yang berada di luar program. Garis Panduan Program penuh kekal sebagai rujukan rasmi."
+    },
+    "inpatient": {
+      "eyebrow": "Layak Dikongsi",
+      "title": "Kos perubatan pesakit dalam\n[[yang kami kongsi]]",
+      "desc": "Ahli WeShare berkongsi kos perubatan pesakit dalam yang layak sehingga RM1,000,000 setiap ahli, setiap tahun."
+    },
+    "limit": {
+      "label": "Had perkongsian tahunan",
+      "note": "setiap ahli, setiap tahun"
+    },
+    "i1": {
+      "t": "Bilik & Makan",
+      "d": "Bilik hospital dan makanan harian, sehingga maksimum 120 hari setahun."
+    },
+    "i2": {
+      "t": "Rawatan Rapi (ICU)",
+      "d": "Caj rawatan rapi, sehingga maksimum 30 hari setahun."
+    },
+    "i3": {
+      "t": "Ambulans",
+      "d": "Ambulans kecemasan ke hospital."
+    },
+    "i4": {
+      "t": "Pembedahan & Dewan Bedah",
+      "d": "Yuran pembedahan · caj dewan bedah · yuran pakar bius · pendapat kedua pembedahan atau rawatan."
+    },
+    "i5": {
+      "t": "Penjagaan Dalam Hospital",
+      "d": "Bekalan & perkhidmatan hospital · lawatan doktor di hospital (2/hari, maksimum 120/tahun) · ujian wajib atau Covid untuk kemasukan."
+    },
+    "i6": {
+      "t": "Rawatan Harian & Pembedahan Harian",
+      "d": "Prosedur yang tidak memerlukan penginapan semalaman."
+    },
+    "i7": {
+      "t": "Pergigian Kecemasan Akibat Kemalangan",
+      "d": "Rawatan pergigian yang diperlukan akibat kemalangan (kecederaan pada gigi asli yang sihat)."
+    },
+    "i8": {
+      "t": "Tunai Harian di Hospital Kerajaan",
+      "d": "Elaun harian apabila anda memilih hospital kerajaan, sehingga 120 hari."
+    },
+    "i9": {
+      "t": "Kecederaan Sukan",
+      "d": "Kes kecederaan sukan adalah layak tetapi dihadkan pada RM10,000 setiap kes."
+    },
+    "add": {
+      "title": "Melangkaui [[katil hospital]]",
+      "eyebrow": "Manfaat Tambahan",
+      "desc": "Manfaat ini melanjutkan penjagaan sebelum dan selepas penginapan hospital — sebahagiannya berada dalam had RM1,000,000, yang lain mempunyai had berasingan."
+    },
+    "a1": {
+      "t": "Ujian Diagnostik & Konsultasi Pra-Hospital",
+      "d": "Sehingga RM5,000 untuk ujian diagnostik dan konsultasi dalam 30 hari sebelum kemasukan.",
+      "badge": "Deluxe sahaja"
+    },
+    "a2": {
+      "t": "Susulan Selepas Hospital",
+      "d": "Sehingga RM10,000 dalam tempoh 60 hari selepas discaj. Bayar dahulu, kemukakan dalam 30 hari; maksimum 2 tuntutan setahun."
+    },
+    "a3": {
+      "t": "Pembedahan / Rawatan Kecederaan Kemalangan",
+      "d": "Sehingga RM10,000 dalam tempoh menunggu. Selepas tempoh menunggu (90 hari bukan sukan, 180 hari kecederaan sukan), had pesakit dalam RM1,000,000 terpakai."
+    },
+    "a4": {
+      "t": "Kematian",
+      "d": "RM10,000 dibayar kepada benefisiari yang dinamakan. Tempoh menunggu 90 hari; tiada keadaan sedia ada."
+    },
+    "a5": {
+      "t": "Rawatan Kanser Pesakit Luar",
+      "d": "Sehingga RM100,000 — had ini berasingan daripada had pesakit dalam RM1,000,000. Tempoh menunggu 180 hari terpakai."
+    },
+    "cob": {
+      "eyebrow": "Penjagaan Pesakit Luar",
+      "title": "Penjagaan harian bersama\n[[HEYDOC Health]]",
+      "desc": "Manfaat Pesakit Luar Bersyarat (COB) pilihan untuk penyakit harian yang tidak memerlukan penginapan hospital — disampaikan melalui HEYDOC Health.",
+      "priceNote": "selepas tempoh menunggu 90 hari",
+      "f1": {
+        "t": "8 episod setahun",
+        "d": "2 semasa pengaktifan, kemudian +2 setiap suku tahun. Episod yang tidak digunakan terkumpul."
+      },
+      "f2": {
+        "t": "Apa itu episod?",
+        "d": "Satu masalah perubatan, terbuka selama 7 hari — termasuk satu susulan percuma di klinik yang sama."
+      },
+      "f3": {
+        "t": "Sehingga RM120 setiap episod",
+        "d": "Telemedicine dan lawatan klinik masing-masing dilindungi sehingga RM120 setiap episod. Sebarang lebihan dibayar oleh ahli."
+      },
+      "f4": {
+        "t": "Telekonsultasi tanpa had",
+        "d": "Telekonsultasi tambahan, tanpa had, setiap hari dari 9 pagi hingga 10 malam."
+      },
+      "conditionsTitle": "Keadaan biasa yang direka untuk COB",
+      "conditions": [
+        "Denggi",
+        "Demam virus",
+        "Influenza",
+        "Bronkitis",
+        "Gastroenteritis",
+        "Radang paru-paru",
+        "Tonsilitis",
+        "Gastritis",
+        "Jangkitan saluran kencing",
+        "Asma ringan",
+        "Jangkitan sinus",
+        "Luka kecil / jahitan",
+        "Terseliuh",
+        "Patah tulang kecil",
+        "Jangkitan kulit",
+        "Jangkitan THT"
+      ]
+    },
+    "cond": {
+      "eyebrow": "Keadaan Yang Disokong",
+      "title": "Jenis keadaan yang\n[[kami sokong]]",
+      "desc": "Kategori luas keadaan yang layak untuk perkongsian. Semuanya tertakluk kepada tempoh menunggu dan semakan keadaan sedia ada.",
+      "note": "Semua keadaan tertakluk kepada tempoh menunggu (kecederaan kemalangan serta-merta; penyakit biasa selepas 90 hari; penyakit tertentu seperti darah tinggi, diabetes, serangan jantung dan kanser selepas 180 hari) dan semakan keadaan sedia ada.",
+      "list": [
+        "Penyakit kardiovaskular",
+        "Penyakit pernafasan",
+        "Gangguan muskuloskeletal",
+        "Keadaan neurologi",
+        "Pengurusan diabetes",
+        "Penyakit buah pinggang & dialisis",
+        "Rawatan kanser",
+        "Gangguan gastrousus",
+        "Keadaan mata (pembedahan)",
+        "Komplikasi bersalin",
+        "Penyakit berjangkit",
+        "Pengurusan penyakit kronik"
+      ]
+    },
+    "excl": {
+      "eyebrow": "Tidak Layak Dikongsi",
+      "title": "[[Pengecualian]]",
+      "desc": "Yang berikut tidak layak untuk dikongsi. Sila baca dengan teliti sebelum menyertai. Beberapa entri mempunyai pengecualian yang dinyatakan dalam kurungan.",
+      "showAll": "Tunjuk semua pengecualian",
+      "list": [
+        "Pengguguran (melainkan nyawa ibu terancam)",
+        "Kecederaan akibat perjalanan udara (kecuali sebagai penumpang berbayar pada penerbangan berjadual)",
+        "Penyalahgunaan alkohol & dadah / pemulihan",
+        "Rawatan alternatif (akupunktur, kiropraktik, urutan, osteopati, refleksologi, hiperbarik, dsb.)",
+        "Berkhatan",
+        "Komplikasi daripada rawatan yang tidak layak",
+        "Penyakit kongenital atau keturunan (cth. kaki bengkok, VSD, ASD, talasemia)",
+        "Pembedahan kosmetik (kecuali pembinaan semula selepas kanser payudara)",
+        "Pergigian (periodontik, ortodontik, TMJ, dsb., kecuali kecederaan pada gigi asli yang sihat)",
+        "Peralatan perubatan tahan lama (tertakluk kepada kelulusan TPA)",
+        "Caj bilik kecemasan untuk kes bukan kecemasan",
+        "Program senaman (kecuali pemulihan jantung yang diselia)",
+        "Rawatan eksperimen / belum terbukti",
+        "Penjagaan mata (refraksi, cermin mata, LASIK, pemeriksaan rutin)",
+        "Perbuatan cuai yang keterlaluan",
+        "Keguguran rambut",
+        "Hobi berbahaya (memanjat batu, terjun udara, dsb.)",
+        "Alat bantu pendengaran & pemeriksaan",
+        "Implan (kecuali skru / plat untuk kecederaan kemalangan, tertakluk kepada TPA)",
+        "Mati pucuk",
+        "Ketidaksuburan",
+        "Rawatan kesihatan mental",
+        "Gangguan tidur / berdengkur, terapi hormon & sel stem",
+        "Perbelanjaan tanpa kewajipan undang-undang untuk membayar",
+        "Rawatan di hospital bukan panel",
+        "Rawatan yang tidak perlu dari segi perubatan",
+        "Bekalan tanpa preskripsi",
+        "Caj yang tidak munasabah / lazim",
+        "Pemindahan organ",
+        "Dialisis buah pinggang pesakit luar",
+        "Rawatan pesakit luar yang tidak berkaitan dengan penjagaan pesakit dalam",
+        "Rawatan berkaitan pandemik",
+        "Barangan keselesaan peribadi",
+        "Kehamilan & bersalin (kecuali keguguran akibat kemalangan)",
+        "Keadaan sedia ada",
+        "Ujian diagnostik pra-hospital (kecuali Deluxe, sehingga RM5,000)",
+        "Konsultasi pakar pra-hospital (kecuali Deluxe)",
+        "Rawatan selepas kemasukan hospital melebihi manfaat susulan",
+        "Perlumbaan profesional / acara pertandingan",
+        "Radiasi / pencemaran",
+        "Pendakap gantian",
+        "Penjagaan rutin & pencegahan (saringan, vaksinasi, pemeriksaan kesihatan)",
+        "Kecederaan yang disengajakan sendiri",
+        "Rawatan penukaran jantina",
+        "Kes khas yang diumumkan oleh pihak berkuasa",
+        "Terapi pertuturan & carakerja",
+        "Pensterilan pembedahan atau pembalikannya",
+        "Pengangkutan ambulans bukan kecemasan",
+        "Perjalanan / penginapan",
+        "Rawatan oleh saudara-mara",
+        "Penyakit kelamin / HIV / AIDS (dengan pengecualian yang dinyatakan)",
+        "Perbelanjaan dalam tempoh menunggu",
+        "Perang / keganasan / nuklear"
+      ]
+    },
+    "pre": {
+      "eyebrow": "Seksyen 5.D",
+      "title": "Keadaan [[sedia ada]]",
+      "p1": "Keadaan sedia ada ialah keadaan yang **didiagnos, dirawat, atau menunjukkan gejala sebelum anda menyertai** We Kongsi. Ia didedahkan melalui saringan kesihatan semasa pendaftaran.",
+      "p2": "Bergantung pada keadaan tersebut, ia mungkin dikecualikan daripada perkongsian atau menjejaskan kelayakan anda.",
+      "p3": "Kegagalan mendedahkan keadaan sedia ada boleh menyebabkan **penamatan** keahlian.",
+      "p4": "Keadaan yang timbul **dalam tempoh menunggu** (mengikut Senarai Diagnosis Siasatan) mungkin dianggap sebagai sedia ada, mengikut budi bicara TPA."
+    },
+    "footnote": "Halaman ini ialah ringkasan dalam bahasa mudah. Garis Panduan Program We Kongsi yang penuh adalah rujukan rasmi dan terpakai sekiranya terdapat sebarang perbezaan."
+  },
+  "ab": {
+    "hero": {
+      "eyebrow": "Tentang We Kongsi",
+      "title": "Penjagaan kesihatan lebih mudah\n[[apabila dikongsi]].",
+      "lede": "We Kongsi ialah komuniti rakyat Malaysia yang berkongsi kos bil hospital sesama mereka — secara terbuka, di bawah pengawasan bebas.",
+      "years": "Tahun beroperasi"
+    },
+    "mv": {
+      "eyebrow": "Misi & Visi Kami",
+      "title": "Dipandu oleh misi kami.\n[[Digerakkan oleh visi kami.]]",
+      "missionLabel": "Misi Kami",
+      "mission": "Menjadikan penjagaan kesihatan mampu dicapai dari segi kewangan melalui komuniti perkongsian kos perubatan yang dipercayai, telus dan patuh Syariah yang memperkasakan orang ramai untuk saling menyokong.",
+      "visionLabel": "Visi Kami",
+      "vision": "Menjadi organisasi perkongsian kos penjagaan kesihatan berasaskan komuniti yang terulung di Malaysia, memastikan tiada sesiapa menghadapi kesukaran kewangan seorang diri semasa kecemasan perubatan."
+    },
+    "values": {
+      "title": "Nilai Teras Kami",
+      "v1": {
+        "t": "Bantuan Bersama",
+        "d": "Kami saling mengangkat melalui sumbangan kolektif dan tanggungjawab bersama."
+      },
+      "v2": {
+        "t": "Ketelusan",
+        "d": "Setiap transaksi, keputusan dan laporan diterbitkan secara terbuka untuk semakan semua ahli."
+      },
+      "v3": {
+        "t": "Integriti",
+        "d": "Kami beroperasi dengan standard etika yang ketat dan tadbir urus patuh Syariah di semua peringkat."
+      },
+      "v4": {
+        "t": "Ahli Diutamakan",
+        "d": "Setiap keputusan yang kami buat dipandu oleh kebajikan dan kepentingan terbaik ahli kami."
+      }
+    },
+    "journey": {
+      "eyebrow": "Perjalanan Kami",
+      "title": "Membesar Bersama,\n[[Satu Pencapaian pada Satu Masa]]",
+      "desc": "Di We Kongsi, perjalanan kami sentiasa mengenai menyatukan orang ramai untuk saling menyokong apabila penjagaan kesihatan paling diperlukan."
+    },
+    "j1": {
+      "when": "Dis 2022",
+      "t": "Satu Visi Berakar",
+      "d": "We Kongsi diasaskan dengan idea mudah: menjadikan sokongan penjagaan kesihatan lebih mudah diakses melalui komuniti yang dibina atas keadilan, ketelusan dan penjagaan bersama."
+    },
+    "j2": {
+      "when": "Jan–Mac 2023",
+      "t": "Membina Asas",
+      "d": "Kami membina platform We Kongsi dan membuka pra-pendaftaran, menjemput rakyat Malaysia untuk menemui pendekatan baharu terhadap sokongan penjagaan kesihatan."
+    },
+    "j3": {
+      "when": "Apr 2023",
+      "t": "We Kongsi Dilancarkan",
+      "d": "Dengan lebih daripada 1,000 pra-pendaftaran, We Kongsi secara rasmi melancarkan Program Perkongsian Kos Perubatannya.",
+      "badge": "1,000+ Pra-pendaftaran"
+    },
+    "j4": {
+      "when": "Mei 2023",
+      "t": "Kes Perubatan Pertama Kami",
+      "d": "Komuniti kami bersatu buat kali pertama untuk menyokong kes hospital yang diluluskan.",
+      "badge": "Kes Pertama · RM574"
+    },
+    "j5": {
+      "when": "Akhir 2023",
+      "t": "Sebuah Komuniti Terbentuk",
+      "d": "Kami menutup tahun pertama dengan lebih daripada 1,500 ahli, memberikan kami asas kukuh untuk terus mengembangkan komuniti.",
+      "badge": "1,500+ Ahli"
+    },
+    "j6": {
+      "when": "Jan 2026",
+      "t": "Pengiktirafan Patuh Syariah",
+      "d": "We Kongsi menerima pengiktirafan patuh Syariah daripada Afsha Shariah Advisory, mengukuhkan komitmen kami terhadap operasi yang beretika dan telus.",
+      "badge": "Patuh Syariah · Afsha Shariah Advisory"
+    },
+    "j7": {
+      "when": "Jun 2026",
+      "t": "Bab Baharu dalam Sokongan Penjagaan Kesihatan",
+      "d": "Kami bekerjasama dengan HEYDOC Health untuk meningkatkan Manfaat Pesakit Luar Bersyarat kami, memberi ahli yang layak akses kepada telemedicine dan klinik panel yang menyertai.",
+      "badge": "HEYDOC Health · COB"
+    },
+    "j8": {
+      "when": "Hari Ini",
+      "t": "Terus Berkembang. Terus Mengambil Berat.",
+      "d": "Hari ini, We Kongsi terus berkembang sebagai komuniti rakyat Malaysia yang saling menyokong menerusi kos penjagaan kesihatan."
+    },
+    "team": {
+      "eyebrow": "Pasukan Kami",
+      "title": "Temui\n[[Barisan Kepimpinan]] Kami",
+      "desc": "Pengasas dan pakar yang membimbing We Kongsi — menggabungkan kepakaran dalam penjagaan kesihatan, teknologi, jualan, kewangan dan tadbir urus Syariah, disatukan oleh satu misi."
+    },
+    "role": {
+      "ceo": "Pengasas Bersama & Ketua Pegawai Eksekutif",
+      "cso": "Pengasas Bersama & Ketua Pegawai Jualan",
+      "advisor": "Pengasas Bersama & Penasihat Jualan",
+      "cto": "Pengasas Bersama & Ketua Pegawai Teknologi",
+      "cfo": "Ketua Pegawai Kewangan",
+      "trainer": "Ketua Jurulatih Produk",
+      "shariah": "Penasihat Syariah"
+    },
+    "partners": {
+      "eyebrow": "Bekerjasama",
+      "title": "[[Rakan Kongsi]] Kami",
+      "desc": "We Kongsi disokong oleh rakan kongsi berlesen dan pakar merentas pentadbiran, tadbir urus, penjagaan dan pembayaran."
+    },
+    "p1": {
+      "role": "Pentadbir Pihak Ketiga",
+      "d": "Eximius Medical Administration Solutions menguruskan proses tuntutan dan kemasukan hospital untuk ahli."
+    },
+    "p2": {
+      "role": "Pemegang Amanah",
+      "d": "Menguruskan dan memegang dana ahli, serta menyediakan pelaporan kewangan dan aktuari yang bebas."
+    },
+    "p3": {
+      "role": "Penyedia Perkhidmatan Pembayaran",
+      "d": "Mengendalikan pembayaran melalui Debit Terus, FPX, dan Visa / Mastercard untuk sumbangan keahlian."
+    },
+    "p4": {
+      "role": "Penasihat Syariah",
+      "d": "Menyediakan pengawasan pematuhan Syariah bagi model perkongsian kos dan operasinya."
+    },
+    "p5": {
+      "role": "Aktuari",
+      "d": "Menjalankan analisis aktuari untuk menyokong kemampanan jangka panjang program perkongsian."
+    },
+    "p6": {
+      "role": "Penjagaan Pesakit Luar",
+      "d": "Rakan penjagaan primer dan pesakit luar yang menyokong Manfaat Pesakit Luar Bersyarat."
+    },
+    "name": {
+      "eyebrow": "Nama Kami",
+      "title": "Mengapa [[We Kongsi]]?",
+      "we": "We",
+      "weDesc": "Semua orang. Bukan syarikat, bukan dana — ahli sendiri yang menghulurkan bantuan.",
+      "kongsi": "Kongsi",
+      "kongsiDesc": "Berkongsi, dalam Bahasa Malaysia. Satu perbuatan yang menjadi asas seluruh program ini.",
+      "close": "Digabungkan: kita berkongsi. Nama itu ialah keseluruhan ideanya, dan tiada apa-apa tentang cara kami menguruskan program ini dibenarkan bercanggah dengannya."
+    }
+  },
+  "faqp": {
+    "hero": {
+      "eyebrow": "Sokongan",
+      "title": "Soalan\n[[Lazim]]",
+      "lede": "Kami percaya ahli yang berpengetahuan membuat keputusan yang lebih baik. Layari soalan kami, dikumpulkan mengikut topik, untuk jawapan yang jelas tentang cara program perkongsian kos perubatan komuniti We Kongsi berfungsi."
+    },
+    "g1": {
+      "eyebrow": "Tentang Program",
+      "title": "Siapa [[Kami]]",
+      "q1": "Apakah itu We Kongsi, dan adakah ia insurans atau Takaful?",
+      "a1": "We Kongsi ialah program perkongsian kos perubatan komuniti secara sukarela yang ditadbir oleh Kita Kongsi Sdn. Bhd. Ia bukan insurans dan bukan Takaful. Daripada memindahkan risiko anda kepada syarikat sebagai balasan premium, ahli berkumpul dan berkongsi kos perubatan yang layak antara satu sama lain. Risiko kekal dalam komuniti, dan ahli saling membantu menghadapi penyakit.",
+      "q2": "Adakah program ini patuh Syariah, dan bolehkah bukan Islam menyertainya?",
+      "a2": "Program ini telah disemak untuk pematuhan Syariah oleh Afsha Shariah Advisory. Pada masa yang sama, keahlian terbuka kepada semua — We Kongsi mengalu-alukan semua rakyat Malaysia tanpa mengira etnik atau agama. Nilai di teras program ini — bantuan bersama, ketelusan dan perpaduan komuniti — dikongsi merentas komuniti, jadi bukan Islam amat dialu-alukan untuk menyertainya.",
+      "q3": "Siapa menguruskan wang itu, dan adakah We Kongsi memegang dana saya?",
+      "a3": "Sumbangan anda untuk perkongsian berada dalam Akaun Perkongsian milik ahli yang dipegang dan diuruskan oleh Pemegang Amanah berlesen, Palladium. We Kongsi tiada akses kepada Akaun Perkongsian — ia milik ahli. Yuran keahlian bulanan anda yang berasingan menampung perjalanan program. Pemisahan ini memastikan dana komuniti dilindungi dan dipegang secara bebas.",
+      "q4": "Bagaimana program ini dikekalkan telus?",
+      "a4": "Setiap kes yang boleh dikongsi diterbitkan pada 7 haribulan setiap bulan — di laman web, dalam sistem ahli, dan di media sosial — supaya ahli dapat melihat dengan tepat apa yang mereka kongsi. Setiap kes yang diterbitkan menunjukkan nama ahli, sebahagian NRIC, tarikh berkaitan, diagnosis, dan jumlah kos. Perkongsian berlaku secara terbuka, tiada apa yang disembunyikan daripada komuniti."
+    },
+    "g2": {
+      "eyebrow": "Keahlian & Yuran",
+      "title": "Menyertai & [[Kos]]",
+      "q1": "Siapa yang layak menyertai?",
+      "a1": "Program ini terbuka kepada semua rakyat Malaysia, apa jua etnik atau agama, yang sihat pada masa pendaftaran. Pemilik Akaun mesti berumur 18 tahun ke atas. Ahli boleh didaftarkan dari umur 0 hingga 45 tahun, dan keahlian boleh diperbaharui selepas umur 45. Jadi sama ada anda mendaftar untuk diri sendiri atau seisi rumah, ada ruang untuk anda dalam komuniti ini.",
+      "q2": "Bolehkah saya menambah anak atau tanggungan saya?",
+      "a2": "Ya. Tanggungan boleh ditambah di bawah jagaan ahli. Tanggungan ialah kanak-kanak bawah 18 tahun, atau belum berkahwin berumur 18 hingga 26 tahun dalam jagaan ahli. Ini memudahkan anda membawa keluarga ke dalam komuniti sokongan yang sama.",
+      "q3": "Berapakah kos keahlian, dan bagaimana saya membayar?",
+      "a3": "Yuran keahlian ialah RM40/bulan, RM100/suku tahun, atau RM360/tahun, dikutip melalui debit automatik menerusi eMandate (Curlec). Yuran ini menjalankan program dan tidak boleh dikembalikan. Ia berasingan daripada Akaun Perkongsian anda, yang anda buka dengan RM150 pada pelan Standard atau RM300 pada pelan Deluxe. Akaun Perkongsian adalah milik anda, dipegang oleh Pemegang Amanah berlesen, dan itulah yang membiayai perkongsian kos perubatan sebenar.",
+      "q4": "Berapakah yang boleh ditolak daripada Akaun Perkongsian saya setiap bulan?",
+      "a4": "Perkongsian bulanan dihadkan pada RM75: sehingga RM60 untuk kes pesakit dalam (ditolak pada 7 haribulan) dan RM15 untuk manfaat pesakit luar. Jika tiada kes yang diluluskan dalam sesuatu bulan, tiada potongan pesakit dalam langsung. Ini memastikan komitmen bulanan anda boleh dijangka dan terikat kepada keperluan sebenar komuniti.",
+      "q5": "Adakah sebarang ganjaran kerana kekal sihat dan tanpa tuntutan?",
+      "a5": "Ya. Jika anda kekal sebagai ahli secara berterusan selama tiga tahun atau lebih tanpa tuntutan pesakit dalam, anda boleh menerima bayaran balik co-share sehingga RM500 sebagai ganjaran kesetiaan. Ini tersedia sekali bagi setiap tempoh tiga tahun — tanda terima kasih kerana menjadi sebahagian daripada komuniti dan kekal sihat."
+    },
+    "g3": {
+      "eyebrow": "Perlindungan & Co-Share",
+      "title": "Apa Yang [[Dikongsi]]",
+      "q1": "Berapakah kos perubatan yang boleh dikongsi?",
+      "a1": "Pada kedua-dua pelan Standard dan Deluxe, kos perubatan yang layak boleh dikongsi sehingga RM1,000,000 setahun. Terdapat juga manfaat kanser pesakit luar berasingan sehingga RM100,000, manfaat kematian RM10,000, dan sokongan susulan selepas hospital sehingga RM10,000. Komuniti ini dibina untuk hadir pada saat besar mahupun saat harian.",
+      "q2": "Apakah itu co-share, dan berapa yang saya bayar?",
+      "a2": "Co-share ialah bahagian bil pesakit dalam yang diluluskan yang anda bayar sendiri. Ia berdasarkan umur: 25% untuk umur 0–5, 10% untuk umur 6–45, dan 20% untuk umur 46 ke atas. Co-share anda dihadkan pada RM500 setiap kemasukan (had ini mungkin meningkat kepada RM1,000 pada akhir Disember 2026). Tiada co-share langsung bagi rawatan di hospital kerajaan. Perhatikan bahawa co-share ialah sumbangan anda sendiri dan tidak boleh dikongsi oleh komuniti.",
+      "q3": "Bagaimana bil hospital disemak supaya adil?",
+      "a3": "Setiap bil yang diluluskan disemak mengikut Jadual Fi ke-13 MMA — penanda aras yang diiktiraf bagi caj perubatan di Malaysia. Semakan ini dijalankan oleh Pentadbir Pihak Ketiga yang dilantik (TPA, eMAS), yang mengeluarkan Surat Jaminan dan kemudian Surat Jaminan Akhir setelah bil disemak. Ia melindungi komuniti dengan memastikan kos yang dikongsi adalah munasabah dan adil."
+    },
+    "g4": {
+      "eyebrow": "Tempoh Menunggu",
+      "title": "Kelayakan & [[Masa]]",
+      "q1": "Tempoh menunggu apakah yang terpakai sebelum saya boleh berkongsi kos?",
+      "a1": "Tempoh menunggu bergantung pada jenis kejadian. Kecederaan akibat kemalangan (sehingga RM10,000) dilindungi serta-merta dari hari anda menyertai. Penyakit biasa menjadi layak selepas 90 hari keahlian. Penyakit tertentu — seperti darah tinggi, diabetes, penyakit jantung dan kanser — menjadi layak selepas 180 hari. Tempoh ini membantu memastikan komuniti kekal mampan dan adil untuk semua.",
+      "q2": "Bagaimanakah keadaan sedia ada dikendalikan?",
+      "a2": "Keadaan sedia ada ialah keadaan yang didiagnos, dirawat, atau menunjukkan gejala sebelum anda menyertai. Ia didedahkan melalui saringan kesihatan semasa anda mendaftar. Bergantung pada keadaan tersebut, ia mungkin dikecualikan daripada perkongsian atau menjejaskan kelayakan anda. Kejujuran penting di sini: tidak mendedahkan keadaan sedia ada boleh menyebabkan penamatan keahlian. Keadaan yang timbul dalam tempoh menunggu mungkin, mengikut budi bicara TPA, dianggap sebagai sedia ada."
+    },
+    "g5": {
+      "eyebrow": "Prosesnya",
+      "title": "Rawatan & [[Tuntutan]]",
+      "q1": "Apa yang perlu saya lakukan apabila memerlukan rawatan?",
+      "a1": "Mulakan dengan HEYDOC — telekonsultasi atau lawatan klinik — untuk dinilai. Jika anda memerlukan rawatan lanjut, HEYDOC akan merujuk anda ke hospital panel. Semasa kemasukan, tunjukkan Kad Kemasukan anda, nyatakan bahawa kes anda ditadbir melalui TPA, dan sedar bahawa co-share terpakai. Perjalanan ini direka untuk membimbing anda langkah demi langkah dan bukan membiarkan anda menguruskan hospital seorang diri.",
+      "q2": "Bagaimanakah kes hospital diluluskan dan dikongsi?",
+      "a2": "Setelah anda dimasukkan ke wad, TPA (eMAS) menyemak kes dan mengeluarkan Surat Jaminan. Bil anda kemudian disemak mengikut Jadual Fi ke-13 MMA, dan Surat Jaminan Akhir dikeluarkan sebelum anda discaj. Selepas itu, kes diterbitkan pada 7 haribulan bulan berikutnya dan dikongsi oleh komuniti. Semuanya bergerak melalui laluan yang jelas dan berdokumen supaya ahli boleh mempercayai hasilnya.",
+      "q3": "Apa yang berlaku dalam kecemasan?",
+      "a3": "Dalam kecemasan, kesihatan anda didahulukan — dapatkan rawatan segera. Anda tidak perlu menunggu rujukan atau kelulusan sebelum menerima rawatan kecemasan. Cuma maklumkan kepada We Kongsi secepat mungkin selepas itu supaya kes boleh diproses. Kami tidak mahu proses ini menghalang anda daripada rawatan segera."
+    },
+    "g6": {
+      "eyebrow": "Pesakit Luar",
+      "title": "[[Penjagaan]] Harian",
+      "q1": "Bagaimanakah manfaat pesakit luar (COB) berfungsi?",
+      "a1": "Manfaat pesakit luar disampaikan melalui HEYDOC dan berharga RM15/bulan, tersedia selepas tempoh menunggu 90 hari. Anda mendapat 8 episod setahun: 2 semasa pengaktifan, kemudian 2 lagi setiap suku tahun, dan episod yang tidak digunakan terkumpul. Satu episod merangkumi satu masalah, terbuka selama 7 hari, dan termasuk satu susulan percuma di klinik yang sama. Telemedicine dan lawatan klinik dilindungi sehingga RM120 setiap episod, dan anda juga mendapat telekonsultasi tambahan tanpa had antara 9 pagi dan 10 malam.",
+      "q2": "Adakah saya wajib mengambil manfaat pesakit luar?",
+      "a2": "Manfaat pesakit luar diaktifkan untuk anda secara automatik, tetapi ia sepenuhnya pilihan — anda boleh memilih untuk menariknya jika anda mahu. Ia ada sebagai cara mudah untuk menguruskan keperluan kesihatan harian tanpa lawatan hospital, dan pilihan sentiasa di tangan anda."
+    },
+    "g7": {
+      "eyebrow": "Pembayaran & Bayaran Balik",
+      "title": "Mengekalkan [[Akaun]] Anda",
+      "q1": "Apa yang berlaku jika saya terlepas pembayaran atau baki saya rendah?",
+      "a1": "Jika anda tidak membayar yuran keahlian atau menambah nilai Akaun Perkongsian anda, akaun anda boleh bertukar kepada status Digantung. Anda boleh menyelesaikan penggantungan dengan menjelaskan tunggakan dalam tempoh 26 hari. Jika perkara ini kekal tidak diselesaikan, akaun boleh menjadi Ditamatkan. Matlamatnya sentiasa untuk mengekalkan anda dalam komuniti, jadi lebih baik memastikan pembayaran dan baki anda sentiasa terkini.",
+      "q2": "Bagaimanakah saya dipulihkan selepas penggantungan atau penamatan?",
+      "a2": "Pemulihan melibatkan yuran RM30, serta tempoh menunggu sebelum perkongsian disambung semula. Jika akaun anda digantung lebih daripada 14 hari, tempoh menunggu 14 hari terpakai. Jika akaun anda pernah ditamatkan, tempoh menunggu 30 hari terpakai. Setelah tempoh itu berlalu, anda kembali berkongsi sebagai ahli penuh komuniti.",
+      "q3": "Bolehkah saya mendapat bayaran balik jika saya keluar?",
+      "a3": "Baki Akaun Perkongsian anda adalah milik anda, jadi ia boleh dikembalikan apabila anda menarik diri atau keahlian anda tamat. Cuma mohon bayaran balik dalam tempoh 60 hari, dan pemprosesan boleh mengambil masa sehingga 30 hari. Namun, yuran keahlian tidak boleh dikembalikan kerana ia menampung perjalanan berterusan program."
+    },
+    "still": {
+      "title": "Masih Ada Soalan?",
+      "desc": "Pasukan sokongan ahli kami sedia membantu anda memahami cara komuniti ini berfungsi. Hubungi kami melalui telefon, WhatsApp atau e-mel dan kami dengan senang hati akan membimbing anda."
+    }
+  },
+  "tr": {
+    "hero": {
+      "eyebrow": "Ketelusan",
+      "title": "Setiap ringgit,\n[[tercatat]].",
+      "lede": "Kami menerbitkan laporan perkongsian setiap bulan: apa yang diluluskan, berapa kosnya, dan berapa yang dibayar setiap ahli. Setiap laporan sejak September 2023 ada di sini.",
+      "updated": "Kemas kini terakhir: {{period}}"
+    },
+    "flow": {
+      "eyebrow": "Ke Mana Wang Itu Pergi",
+      "title": "Bagaimana [[Sumbangan]]\nAnda Mengalir",
+      "desc": "We Kongsi memisahkan wang yang menjalankan program daripada wang yang berkongsi kos perubatan. Dana yang diasingkan untuk perkongsian adalah milik ahli dan dipegang secara bebas — We Kongsi tidak pernah memegang atau mengawalnya.",
+      "s1": {
+        "t": "Anda Menyumbang",
+        "d": "Yuran keahlian yang berasingan menjalankan program, manakala sumbangan Akaun Perkongsian anda membiayai perkongsian sebenar kos perubatan yang layak. Kedua-duanya dikutip melalui debit automatik eMandate menerusi rakan pembayaran kami, Curlec."
+      },
+      "s2": {
+        "t": "Dipegang Secara Amanah",
+        "d": "Wang yang diasingkan untuk perkongsian berada dalam Akaun Perkongsian milik ahli yang dipegang dan diuruskan oleh Pemegang Amanah berlesen, Palladium. We Kongsi tiada akses kepadanya — Akaun Perkongsian adalah milik ahli."
+      },
+      "s3": {
+        "t": "Dikongsi Kepada Ahli",
+        "d": "Apabila seorang ahli mempunyai kos hospital atau pesakit luar yang layak, komuniti berkongsinya. Setiap kes yang disahkan diterbitkan secara terbuka, dan jumlah yang dipersetujui dikongsi daripada kumpulan wang — menyokong secara langsung ahli yang memerlukan."
+      },
+      "note": "We Kongsi beroperasi atas **model perkongsian tanpa keuntungan** — dana yang diasingkan untuk perkongsian digunakan hanya untuk menyokong kos perubatan ahli yang layak, tidak sekali-kali untuk menjana keuntungan bagi syarikat."
+    },
+    "summary": {
+      "title": "Ringkasan Perkongsian\n[[Bulanan]]",
+      "period": "Tempoh pelaporan: {{period}}. Diterbitkan secara terbuka untuk setiap ahli.",
+      "total": "Jumlah Amaun Perkongsian",
+      "vsPrev": "{{change}} berbanding {{month}}",
+      "hospitalCases": "Kes Hospital Diluluskan",
+      "hospitalValue": "Jumlah nilai bil: {{value}}",
+      "clinicCases": "Kes Klinik Diluluskan",
+      "clinicValue": "Jumlah amaun: {{value}}",
+      "avgPerMember": "Purata Perkongsian Setiap Ahli",
+      "basedOn": "Berdasarkan {{count}} ahli aktif"
+    },
+    "util": {
+      "title": "Penggunaan Dana",
+      "hospital": "Perkongsian Hospital",
+      "clinic": "Perkongsian Klinik",
+      "distributed": "Jumlah Perkongsian Diagihkan"
+    },
+    "contrib": {
+      "title": "Pecahan Sumbangan",
+      "received": "Jumlah Sumbangan Diterima",
+      "admin": "Pentadbiran & Operasi (12%)",
+      "pool": "Ditambah ke Kumpulan Perkongsian",
+      "balance": "Baki Kumpulan Perkongsian (akhir tempoh)"
+    },
+    "cases": {
+      "title": "Ringkasan Kes",
+      "inpatient": "Pesakit Dalam Hospital",
+      "daySurgery": "Pembedahan Harian",
+      "emergency": "Rawatan Kecemasan",
+      "specialist": "Pesakit Luar Pakar",
+      "panelClinic": "Klinik Panel",
+      "count": "{{count}} kes",
+      "total": "Jumlah · {{count}} kes",
+      "approval": "Kadar kelulusan {{rate}} — {{approved}} daripada {{submitted}} kes yang dikemukakan diluluskan."
+    },
+    "gov": {
+      "eyebrow": "Tadbir Urus Bebas",
+      "title": "Siapa Memastikan Kami\n[[Bertanggungjawab]]",
+      "desc": "We Kongsi dibina atas struktur rakan kongsi berlesen yang bebas — supaya tiada satu pihak mengawal wang, peraturan, atau pengesahan. Setiap satu memainkan peranan yang tersendiri dan bertanggungjawab.",
+      "emas": "Pentadbir bebas yang mengesahkan dan memproses kes, menguruskan perkhidmatan ahli dan careline, serta mengekalkan operasi harian pada jarak yang wajar daripada syarikat.",
+      "bayes": "Semakan aktuari bebas memastikan sumbangan dan model perkongsian kekal mampan serta berharga adil, supaya komuniti boleh terus saling menyokong dalam jangka panjang.",
+      "afsha": "Afsha Shariah Advisory menyemak dan memperakui program ini secara bebas untuk pematuhan Syariah, memberi jaminan kepada ahli bahawa operasi adalah beretika, adil dan telus.",
+      "palladium": "Pemegang Amanah berlesen memegang dan menguruskan Akaun Perkongsian milik ahli. We Kongsi tiada akses kepada dana ini — ia dilindungi dan dipegang secara bebas untuk ahli.",
+      "curlec": "Sumbangan dan kumpulan perkongsian dikutip dengan selamat melalui debit automatik eMandate menerusi Curlec by Razorpay, memberi ahli pengalaman pembayaran automatik yang boleh dijangka.",
+      "heydoc": "HEYDOC Health menggerakkan perkhidmatan kesihatan di sebalik WeCare, termasuk konsultasi doktor berlesen, perkhidmatan telemedicine, dan penyelarasan penjagaan kesihatan pesakit luar.",
+      "partnersTitle": "Rakan Kongsi Bebas Kami"
+    },
+    "cert": {
+      "eyebrow": "Diperakui & Disemak",
+      "title": "[[Disahkan]]\nSecara Bebas",
+      "sub": "Diperakui dan disemak oleh Afsha Shariah Advisory",
+      "text": "Komitmen We Kongsi terhadap keadilan dan operasi beretika disahkan secara bebas. Program ini telah diiktiraf secara rasmi sebagai patuh Syariah oleh badan penasihat bebas, Afsha Shariah Advisory. Perakuan ini memberi jaminan kepada setiap ahli bahawa operasi perkongsian kos perubatan kami adalah telus sepenuhnya, beretika, dan selari sepenuhnya dengan nilai bantuan bersama dan perpaduan komuniti.",
+      "cta": "Tanya Kami Tentang Tadbir Urus"
+    },
+    "archive": {
+      "eyebrow": "Arkib",
+      "title": "[[Laporan]] Perkongsian\nLepas",
+      "desc": "Ringkasan perkongsian bulanan dan tahunan diterbitkan secara terbuka. Semua laporan disemak secara bebas oleh juruaudit luar yang dilantik.",
+      "meta": "{{cases}} kes · {{members}} ahli",
+      "metaAvg": "{{cases}} kes · purata {{members}} ahli",
+      "note": "Semua laporan disemak secara bebas oleh juruaudit luar yang dilantik, KPMG Malaysia. Ahli boleh meminta salinan mana-mana laporan yang diterbitkan melalui sistem ahli atau dengan menghubungi kami.",
+      "cta": "Mohon Satu Laporan",
+      "annual": "Laporan Tahunan {{year}}"
+    },
+    "latest": {
+      "eyebrow": "Laporan Terkini"
+    },
+    "metric": {
+      "active": "Ahli Aktif",
+      "activeNote": "melepasi tempoh menunggu 90 hari",
+      "costNote": "diluluskan dan dikongsi tempoh ini",
+      "casesNote": "kes kemasukan hospital",
+      "perMemberNote": "dibayar oleh setiap ahli aktif"
+    },
+    "report": {
+      "select": "Pilih laporan",
+      "download": "Muat turun PDF",
+      "noPdf": "PDF atas permintaan"
+    },
+    "chart": {
+      "eyebrow": "Sejak Kami Bermula",
+      "title": "Perkongsian, bulan\n[[demi bulan]].",
+      "m": {
+        "cost": "Kos perubatan dikongsi",
+        "members": "Ahli aktif",
+        "cases": "Kes diluluskan"
+      },
+      "range": "Tempoh",
+      "rangeAll": "Sepanjang masa",
+      "showTable": "Lihat sebagai jadual",
+      "showChart": "Lihat sebagai carta",
+      "month": "Bulan",
+      "total": "{{value}} dikongsi merentas {{months}} laporan bulanan"
+    }
+  },
+  "hi": {
+    "hero": {
+      "eyebrow": "Rangkaian Hospital",
+      "title": "Cari [[hospital panel]].",
+      "lede": "Setiap hospital dalam panel e-MAS, swasta dan kerajaan, boleh ditapis mengikut negeri. Sahkan status hospital sebelum sebarang kemasukan yang dirancang."
+    },
+    "steps": {
+      "eyebrow": "Mendapatkan Rawatan",
+      "title": "Cara Menggunakan\n[[Panel eMAS]]",
+      "desc": "Laluan mudah empat langkah dari kemasukan hingga penyelesaian — diselaraskan oleh eMAS bagi pihak anda."
+    },
+    "s1": {
+      "t": "Tunjukkan Keahlian Anda",
+      "d": "Di kaunter kemasukan hospital, tunjukkan butiran keahlian We Kongsi / eMAS anda supaya hospital boleh mengesahkan kelayakan anda dengan eMAS."
+    },
+    "s2": {
+      "t": "eMAS Mengeluarkan Surat Jaminan",
+      "d": "Bagi kemasukan yang layak, eMAS mengeluarkan Surat Jaminan (GL) kepada hospital panel, mengesahkan skop sokongan perkongsian kos perubatan yang diluluskan."
+    },
+    "s3": {
+      "t": "Kos Diluluskan Diselesaikan Terus",
+      "d": "Kos yang diluluskan di bawah manfaat anda diselesaikan terus antara eMAS dan hospital panel — jadi anda mengelak daripada membayar bil penuh terlebih dahulu. Bahagian co-share anda masih terpakai."
+    },
+    "s4": {
+      "t": "Hubungi Careline eMAS",
+      "d": "Untuk bantuan pra-kemasukan, pertanyaan GL, atau untuk mengesahkan status panel sesebuah hospital, hubungi Careline eMAS di 03-9213 0103."
+    },
+    "dir": {
+      "eyebrow": "Rangkaian Panel",
+      "title": "[[Direktori]] Hospital\nPanel",
+      "desc": "Gambaran ringkas kumpulan hospital swasta terkenal yang biasa terdapat dalam rangkaian panel eMAS, dikumpulkan mengikut wilayah di seluruh Malaysia.",
+      "noteLabel": "Sila ambil perhatian:",
+      "note": "Senarai panel berubah. Direktori ini mencerminkan panel swasta e-MAS September 2026 dan panel kerajaan Jun 2026 — sentiasa sahkan status semasa hospital dengan careline e-MAS sebelum kemasukan yang dirancang.",
+      "hospital": "Hospital",
+      "location": "Lokasi"
+    },
+    "region": {
+      "klang": "Lembah Klang — Selangor & Kuala Lumpur",
+      "north": "Wilayah Utara — Pulau Pinang, Kedah & Perak",
+      "south": "Wilayah Selatan — Johor, Melaka & Negeri Sembilan",
+      "east": "Pantai Timur — Pahang, Terengganu & Kelantan",
+      "borneo": "Malaysia Timur — Sabah & Sarawak"
+    },
+    "verify": {
+      "eyebrow": "Sahkan Sebelum Kemasukan",
+      "title": "Sahkan [[Status Panel]]\nSesebuah Hospital",
+      "desc": "Sebelum sebarang kemasukan yang dirancang, sahkan bahawa hospital pilihan anda kini berada dalam panel eMAS dan manfaat anda layak. Pasukan kami dan Careline eMAS sedia membantu.",
+      "whatsapp": "Tanya Kami di WhatsApp",
+      "careline": "Careline eMAS: 03-9213 0103",
+      "portal": "Ahli juga boleh melihat butiran rangkaian mereka selepas log masuk ke portal ahli We Kongsi."
+    },
+    "stat": {
+      "panel": "hospital panel di seluruh negara",
+      "waiting": "hari tempoh menunggu sebelum perkongsian bermula",
+      "private": "hospital swasta",
+      "government": "hospital kerajaan",
+      "states": "negeri dan wilayah"
+    },
+    "find": {
+      "eyebrow": "Direktori Panel",
+      "title": "Panel [[penuh]]."
+    },
+    "filter": {
+      "all": "Semua",
+      "private": "Swasta",
+      "government": "Kerajaan",
+      "state": "Negeri",
+      "allStates": "Semua negeri",
+      "search": "Cari",
+      "placeholder": "Hospital atau bandar",
+      "results": "{{count}} hospital",
+      "none": "Tiada hospital sepadan dengan tapisan itu.",
+      "clear": "Kosongkan tapisan"
+    }
+  },
+  "ct": {
+    "hero": {
+      "eyebrow": "Hubungi",
+      "title": "[[Hubungi]] Kami",
+      "lede": "Sama ada anda mempunyai pertanyaan keahlian, soalan tentang perlindungan, atau ingin membincangkan kerjasama, pasukan kami sedia membantu anda secara profesional dan pantas."
+    },
+    "form": {
+      "eyebrow": "Hantar Mesej",
+      "title": "Kami ingin\n[[mendengar daripada anda]]",
+      "desc": "Isikan borang di bawah dan mesej anda akan dibuka dalam aplikasi e-mel anda, dialamatkan kepada pasukan kami.",
+      "name": "Nama Penuh",
+      "email": "Alamat E-mel",
+      "phone": "Nombor Telefon",
+      "type": "Jenis Pertanyaan",
+      "typePlaceholder": "Pilih topik…",
+      "subject": "Subjek",
+      "message": "Mesej",
+      "submit": "Hantar Pertanyaan",
+      "note": "Kami berhasrat untuk membalas dalam 1 hari bekerja. Untuk perkara mendesak, sila hubungi kami terus."
+    },
+    "type": {
+      "membership": "Permohonan Keahlian",
+      "case": "Bantuan Penyerahan Kes",
+      "coverage": "Pertanyaan Perlindungan",
+      "payment": "Masalah Pembayaran",
+      "partnership": "Cadangan Kerjasama",
+      "media": "Media & Akhbar",
+      "general": "Pertanyaan Am"
+    },
+    "details": {
+      "eyebrow": "Hubungi Kami",
+      "title": "[[Butiran]] Hubungan",
+      "general": "Talian Am & WhatsApp",
+      "generalNote": "Berbual dengan kami di WhatsApp",
+      "emailNote": "Pertanyaan am",
+      "emasNote": "Sokongan kad & hospital panel",
+      "micareNote": "Sokongan pentadbir pihak ketiga",
+      "office": "Alamat Pejabat",
+      "maps": "Lihat di Google Maps",
+      "join": "Sedia menyertai? Daftar di laman rasmi"
+    }
+  },
+  "wecare": {
+    "badge": "Memperkenalkan WeCare",
+    "title": "Mahukan Sesuatu Yang Lebih Mudah? Kenali [[WeCare]].",
+    "desc": "Pelan pesakit luar tersendiri yang direka untuk membantu anda mengakses telekonsultasi dan lawatan klinik bagi keperluan kesihatan harian.",
+    "b1": {
+      "t": "8 Episod Penjagaan Setahun",
+      "d": "Akses sehingga lapan episod penjagaan setahun, tertakluk kepada terma dan syarat pelan."
+    },
+    "b2": {
+      "t": "Telekonsultasi & Lawatan Klinik",
+      "d": "Setiap suku tahun termasuk satu episod telekonsultasi dan satu lawatan klinik panel."
+    },
+    "b3": {
+      "t": "Sehingga RM40 Setiap Episod",
+      "d": "Setiap episod penjagaan dihadkan kepada RM40, tertakluk kepada perkhidmatan yang layak dan terma pelan."
+    },
+    "cta": "Terokai WeCare",
+    "note": "Pelan pesakit luar tersendiri, berasingan daripada WeShare.",
+    "h1": "Konsultasi Telemedicine",
+    "h2": "Lawatan Klinik Panel",
+    "h3": "Cara Mudah Mendapatkan Penjagaan"
+  },
+  "trust": {
+    "eyebrow": "Kepercayaan & Ketelusan",
+    "title": "Disahkan [[Patuh Syariah]].",
+    "lead": "Dipandu Prinsip. Disahkan untuk Keyakinan.",
+    "body": "Program perkongsian kos perubatan kami disahkan patuh Syariah oleh Afsha Shariah Advisory, mencerminkan komitmen kami terhadap amalan beretika, ketelusan dan sokongan komuniti yang bertanggungjawab.",
+    "verified": "Disahkan oleh Afsha Shariah Advisory",
+    "cta": "Ketahui Prinsip Kami",
+    "certAlt": "Sijil Pematuhan Syariah untuk Program We Kongsi, dikeluarkan oleh Afsha Shariah Advisory",
+    "badge": "Program Patuh Syariah",
+    "viewCert": "Lihat Sijil Pematuhan Syariah",
+    "i1": {
+      "t": "Prinsip Beretika",
+      "d": "Dipandu oleh prinsip Syariah."
+    },
+    "i2": {
+      "t": "Ketelusan",
+      "d": "Laporan perkongsian kos perubatan yang jelas dan diterbitkan."
+    },
+    "i3": {
+      "t": "Komuniti",
+      "d": "Ahli bersatu untuk menyokong satu sama lain."
+    }
+  },
+  "partners": {
+    "title": "Rakan Kongsi Dipercayai Di Sebalik Program Kami",
+    "lede": "Disokong oleh rakan kongsi teknologi, pembayaran, pematuhan dan penjagaan kesihatan yang mantap.",
+    "hospitalsLede": "Akses kepada rangkaian hospital peserta di seluruh negara."
+  },
+  "cob": {
+    "pill": "Manfaat Tambahan Eksklusif",
+    "title": "Manfaat Pesakit Luar\nBersyarat [[(COB)]]",
+    "poweredby": "Dikuasakan oleh",
+    "desc": "Tingkatkan akses penjagaan kesihatan anda dengan COB, manfaat pesakit luar pilihan yang direka untuk menyokong penyakit harian yang layak melalui perkhidmatan teleperubatan dan lawatan klinik.",
+    "link": "Ketahui Lebih Lanjut Mengenai COB",
+    "badge": {
+      "addon": "Tambahan",
+      "month": "/bulan"
+    },
+    "b1": {
+      "t": "Perkhidmatan Teleperubatan",
+      "d": "Berunding dengan doktor berlesen secara dalam talian dari keselesaan rumah anda. Terima e-preskripsi dan pilih penghantaran ubat atau pengambilan di farmasi mengikut kesesuaian."
+    },
+    "b2": {
+      "t": "Lawatan Klinik",
+      "d": "Akses klinik panel MiCare yang terlibat di seluruh negara untuk konsultasi bersemuka, diagnosis dan rawatan bagi penyakit pesakit luar yang layak."
+    },
+    "b3": {
+      "t": "Direka Untuk Anda",
+      "d": "Sokongan untuk keadaan perubatan harian yang layak."
+    },
+    "s": {
+      "upto": "Sehingga",
+      "upto2": "Sehingga",
+      "covers": "Meliputi"
+    },
+    "s1": {
+      "label": "Sokongan Setiap Episod"
+    },
+    "s2": {
+      "label": "Episod Setahun"
+    },
+    "s3": {
+      "label": "Penyakit Pesakit Luar Yang Layak"
+    },
+    "cta": "Ketahui Lebih Lanjut Tentang COB",
+    "note": "**COB** ialah manfaat tambahan pilihan. Terma dan syarat dikenakan."
+  },
+  "pl": {
+    "hero": {
+      "eyebrow": "Pelan Kami",
+      "title": "Dua pelan.\n[[Satu komuniti.]]",
+      "lede": "WeShare menanggung kos kemasukan hospital. WeCare pula penjagaan harian. Ambil salah satu, atau kedua-duanya."
+    },
+    "more": "Lihat pelan"
+  },
+  "ws": {
+    "hero": {
+      "eyebrow": "WeShare",
+      "title": "Perkongsian kos perubatan,\n[[secara terbuka]].",
+      "lede": "Apabila seorang ahli dimasukkan ke hospital, pasukan perubatan bebas menyemak bil dan komuniti berkongsi jumlah yang diluluskan. Setiap kes diterbitkan."
+    },
+    "limit": {
+      "label": "dikongsi setiap ahli, setiap tahun"
+    }
+  },
+  "wc": {
+    "hero": {
+      "eyebrow": "WeCare",
+      "title": "Penjagaan harian,\n[[tanpa menunggu]].",
+      "lede": "Pelan pesakit luar tersendiri untuk penyakit yang tidak memerlukan kemasukan hospital — doktor melalui telefon anda, dan klinik panel apabila anda perlu diperiksa."
+    },
+    "what": {
+      "eyebrow": "Apa Yang Termasuk",
+      "title": "Penjagaan yang sesuai\n[[dengan minggu biasa]]."
+    },
+    "stat": {
+      "episodes": "episod penjagaan setahun",
+      "perEpisode": "dilindungi setiap episod penjagaan",
+      "quarter": "episod telekonsultasi dan satu lawatan klinik setiap suku tahun"
+    },
+    "how": {
+      "eyebrow": "Cara Ia Berfungsi",
+      "title": "Jumpa doktor\n[[dalam beberapa minit]].",
+      "desc": "WeCare disampaikan bersama HEYDOC Health, penyedia teleperubatan berlesen di Malaysia.",
+      "s1": {
+        "t": "Buka episod penjagaan",
+        "d": "Mulakan konsultasi dalam aplikasi apabila sesuatu berlaku."
+      },
+      "s2": {
+        "t": "Berbincang dengan doktor berlesen",
+        "d": "Melalui telekonsultasi, atau di klinik panel jika anda perlu diperiksa secara bersemuka."
+      },
+      "s3": {
+        "t": "Pelan anda menanggung lawatan itu",
+        "d": "Setiap episod dilindungi sehingga hadnya, tertakluk kepada terma pelan."
+      }
+    }
+  }
+}

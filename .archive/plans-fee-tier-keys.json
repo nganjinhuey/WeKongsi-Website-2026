@@ -1,0 +1,382 @@
+{
+  "plans.tag": {
+    "en": "Membership",
+    "ms": "Keahlian",
+    "zh": "会籍"
+  },
+  "plans.title": {
+    "en": "Find The Right [[Membership For You]]",
+    "ms": "Cari [[Keahlian Yang Sesuai Untuk Anda]]",
+    "zh": "找到[[最适合您的会籍]]"
+  },
+  "plans.desc": {
+    "en": "Flexible membership plans starting from as low as RM30/month.",
+    "ms": "Pelan keahlian fleksibel bermula serendah RM30/bulan.",
+    "zh": "灵活的会籍配套，每月低至 RM30 起。"
+  },
+  "plans.permonth": {
+    "en": "/month",
+    "ms": "/bulan",
+    "zh": "/月"
+  },
+  "plans.perquarter": {
+    "en": "/quarter",
+    "ms": "/suku tahun",
+    "zh": "/季"
+  },
+  "plans.peryear": {
+    "en": "/year",
+    "ms": "/tahun",
+    "zh": "/年"
+  },
+  "plans.getstarted": {
+    "en": "Get Started",
+    "ms": "Mulakan Sekarang",
+    "zh": "立即开始"
+  },
+  "plans.joinnow": {
+    "en": "Join Now",
+    "ms": "Sertai Sekarang",
+    "zh": "立即加入"
+  },
+  "plans.popular": {
+    "en": "Most Popular",
+    "ms": "Paling Disyorkan",
+    "zh": "最受欢迎"
+  },
+  "plans.f.full": {
+    "en": "Full Medical Cost-Sharing Benefits",
+    "ms": "Manfaat Perkongsian Kos Perubatan Penuh",
+    "zh": "完整医疗费用共担福利"
+  },
+  "plans.f.million": {
+    "en": "Up to RM1 Million Annual Support",
+    "ms": "Sokongan Tahunan Sehingga RM1 Juta",
+    "zh": "高达 RM1 百万年度支援"
+  },
+  "plans.f.app": {
+    "en": "We Kongsi App Access",
+    "ms": "Akses Aplikasi We Kongsi",
+    "zh": "We Kongsi App 使用权"
+  },
+  "plans.f.priority": {
+    "en": "Priority Member Support",
+    "ms": "Sokongan Ahli Keutamaan",
+    "zh": "会员优先服务"
+  },
+  "plans.monthly.label": {
+    "en": "Monthly",
+    "ms": "Bulanan",
+    "zh": "月付"
+  },
+  "plans.monthly.name": {
+    "en": "Monthly Plan",
+    "ms": "Pelan Bulanan",
+    "zh": "月付配套"
+  },
+  "plans.monthly.f4": {
+    "en": "Flexible Month-to-Month",
+    "ms": "Fleksibel Setiap Bulan",
+    "zh": "灵活按月供款"
+  },
+  "plans.quarterly.label": {
+    "en": "Quarterly",
+    "ms": "Suku Tahunan",
+    "zh": "季付"
+  },
+  "plans.quarterly.name": {
+    "en": "Quarterly Plan",
+    "ms": "Pelan Suku Tahunan",
+    "zh": "季付配套"
+  },
+  "plans.quarterly.permonth": {
+    "en": "Just RM33 / month",
+    "ms": "Hanya RM33 / bulan",
+    "zh": "每月仅 RM33"
+  },
+  "plans.quarterly.savings": {
+    "en": "Save up to 17% vs Monthly",
+    "ms": "Jimat sehingga 17% vs Bulanan",
+    "zh": "比月付最多省 17%"
+  },
+  "plans.quarterly.f4": {
+    "en": "Better Long-Term Value",
+    "ms": "Nilai Jangka Panjang Lebih Baik",
+    "zh": "更超值的长期选择"
+  },
+  "plans.annual.label": {
+    "en": "Annual",
+    "ms": "Tahunan",
+    "zh": "年付"
+  },
+  "plans.annual.name": {
+    "en": "Annual Plan",
+    "ms": "Pelan Tahunan",
+    "zh": "年付配套"
+  },
+  "plans.annual.permonth": {
+    "en": "Just RM30 / month",
+    "ms": "Hanya RM30 / bulan",
+    "zh": "每月仅 RM30"
+  },
+  "plans.annual.savings": {
+    "en": "Save up to 25% vs Monthly",
+    "ms": "Jimat sehingga 25% vs Bulanan",
+    "zh": "比月付最多省 25%"
+  },
+  "plans.annual.f4": {
+    "en": "Best Long-Term Value",
+    "ms": "Nilai Jangka Panjang Terbaik",
+    "zh": "最超值的长期选择"
+  },
+  "plans.note": {
+    "en": "Membership fees are fixed as published in the Program Guidelines. The membership fee is separate from your Sharing Account contribution and is collected automatically via eMandate.",
+    "ms": "Yuran keahlian ditetapkan seperti yang diterbitkan dalam Garis Panduan Program. Yuran keahlian adalah berasingan daripada sumbangan Akaun Perkongsian anda dan dikutip secara automatik melalui eMandate.",
+    "zh": "会籍费用按计划指南所公布的金额固定收取。会籍费与您的互助押金是分开的，并透过 eMandate 自动扣缴。"
+  },
+  "mem.fee.eyebrow": {
+    "en": "Membership Fee",
+    "ms": "Yuran Keahlian",
+    "zh": "会员费"
+  },
+  "mem.fee.title": {
+    "en": "A small fee keeps the\n[[community running]]",
+    "ms": "Yuran kecil memastikan\n[[komuniti terus berjalan]]",
+    "zh": "小额费用让\n[[社群持续运作]]"
+  },
+  "mem.fee.desc": {
+    "en": "This is the operational membership fee — it is non-refundable and separate from your Sharing Account (the pooled money you actually own). Auto-debited via eMandate (Curlec). Pay quarterly or annually to save versus monthly.",
+    "ms": "Ini adalah yuran keahlian operasi — ia tidak boleh dikembalikan dan berasingan daripada Akaun Perkongsian anda (wang terkumpul yang anda miliki). Didebit secara automatik melalui eMandate (Curlec). Bayar setiap suku tahun atau tahunan untuk menjimatkan berbanding bulanan.",
+    "zh": "这是营运性质的会员费 — 不可退还，并与您的分摊账户（真正属于您的资金池）分开。通过 eMandate（Curlec）自动扣款。按季或按年缴付比按月更省。"
+  },
+  "mem.fee.monthly.desc": {
+    "en": "Pay as you go, billed monthly.",
+    "ms": "Bayar mengikut penggunaan, dibil bulanan.",
+    "zh": "按月计费，随用随付。"
+  },
+  "mem.fee.quarterly.desc": {
+    "en": "Just over RM33/month — cheaper than paying monthly.",
+    "ms": "Hanya lebih sedikit daripada RM33/bulan — lebih murah daripada bayaran bulanan.",
+    "zh": "每月仅 RM33 出头 — 比按月缴付更划算。"
+  },
+  "mem.fee.annual.desc": {
+    "en": "RM30/month — our lowest membership fee rate.",
+    "ms": "RM30/bulan — kadar yuran keahlian terendah kami.",
+    "zh": "每月 RM30 — 我们最低的会员费率。"
+  },
+  "mem.fee.chooseMonthly": {
+    "en": "Choose monthly",
+    "ms": "Pilih bulanan",
+    "zh": "选择月付"
+  },
+  "mem.fee.chooseQuarterly": {
+    "en": "Choose quarterly",
+    "ms": "Pilih suku tahunan",
+    "zh": "选择季付"
+  },
+  "mem.fee.chooseAnnual": {
+    "en": "Choose annual",
+    "ms": "Pilih tahunan",
+    "zh": "选择年付"
+  },
+  "mem.fee.savesVsMonthly": {
+    "en": "Saves vs monthly",
+    "ms": "Jimat berbanding bulanan",
+    "zh": "比月付更省"
+  },
+  "mem.fee.bestValue": {
+    "en": "Best value",
+    "ms": "Nilai terbaik",
+    "zh": "最超值"
+  },
+  "mem.fee.note": {
+    "en": "The membership fee is **not** your medical contribution. Your monthly sharing contribution (capped at RM75) goes into your Sharing Account.",
+    "ms": "Yuran keahlian **bukan** sumbangan perubatan anda. Sumbangan perkongsian bulanan anda (dihadkan pada RM75) masuk ke dalam Akaun Perkongsian anda.",
+    "zh": "会员费**并非**您的医疗分摊金。您的每月分摊金（上限 RM75）会存入您的分摊账户。"
+  },
+  "mem.cmp.title": {
+    "en": "Full plan comparison",
+    "ms": "Perbandingan pelan penuh",
+    "zh": "完整配套比较"
+  },
+  "mem.cmp.sub": {
+    "en": "Coverage limit is the same for both plans",
+    "ms": "Had perlindungan adalah sama untuk kedua-dua pelan",
+    "zh": "两个配套的保障上限相同"
+  },
+  "mem.cmp.benefit": {
+    "en": "Benefit",
+    "ms": "Manfaat",
+    "zh": "福利"
+  },
+  "mem.cmp.r1": {
+    "en": "Annual medical cost coverage",
+    "ms": "Perlindungan kos perubatan tahunan",
+    "zh": "年度医疗费用保障"
+  },
+  "mem.cmp.r2": {
+    "en": "Sharing Account opening balance",
+    "ms": "Baki permulaan Akaun Perkongsian",
+    "zh": "分摊账户起始余额"
+  },
+  "mem.cmp.r3": {
+    "en": "Room & Board (max 120 days/yr)",
+    "ms": "Bilik & Makan (maksimum 120 hari/tahun)",
+    "zh": "病房与膳食（每年最多 120 天）"
+  },
+  "mem.cmp.r4": {
+    "en": "Ambulance",
+    "ms": "Ambulans",
+    "zh": "救护车"
+  },
+  "mem.cmp.r5": {
+    "en": "Daily Cash at Government Hospital (max 120 days/yr)",
+    "ms": "Tunai Harian di Hospital Kerajaan (maksimum 120 hari/tahun)",
+    "zh": "政府医院每日现金（每年最多 120 天）"
+  },
+  "mem.cmp.r6": {
+    "en": "Pre-Hospital Diagnostic Test & Consultation (30 days before admission)",
+    "ms": "Ujian Diagnostik & Konsultasi Pra-Hospital (30 hari sebelum kemasukan)",
+    "zh": "入院前检查与咨询（入院前 30 天）"
+  },
+  "mem.cmp.r7": {
+    "en": "ICU (max 30 days)",
+    "ms": "ICU (maksimum 30 hari)",
+    "zh": "重症监护（最多 30 天）"
+  },
+  "mem.cmp.r8": {
+    "en": "Surgical fees, operating theatre & anaesthetist",
+    "ms": "Yuran pembedahan, dewan bedah & pakar bius",
+    "zh": "手术费、手术室与麻醉师"
+  },
+  "mem.cmp.r9": {
+    "en": "Hospital supplies & services",
+    "ms": "Bekalan & perkhidmatan hospital",
+    "zh": "医院物资与服务"
+  },
+  "mem.cmp.r10": {
+    "en": "In-hospital doctor visit (2/day, max 120/yr)",
+    "ms": "Lawatan doktor di hospital (2/hari, maksimum 120/tahun)",
+    "zh": "住院医生巡房（每天 2 次，每年最多 120 次）"
+  },
+  "mem.cmp.r11": {
+    "en": "Day care & day surgery",
+    "ms": "Rawatan harian & pembedahan harian",
+    "zh": "日间照护与日间手术"
+  },
+  "mem.cmp.r12": {
+    "en": "Second surgical / treatment opinion",
+    "ms": "Pendapat kedua pembedahan / rawatan",
+    "zh": "手术／治疗第二意见"
+  },
+  "mem.cmp.r13": {
+    "en": "Emergency accidental dental",
+    "ms": "Pergigian kecemasan akibat kemalangan",
+    "zh": "意外紧急牙科治疗"
+  },
+  "mem.cmp.r14": {
+    "en": "Compulsory / Covid test for admission",
+    "ms": "Ujian wajib / Covid untuk kemasukan",
+    "zh": "入院强制／新冠检测"
+  },
+  "mem.cmp.r15": {
+    "en": "Post-hospital follow-up (within 60 days of discharge; max 2 claims/yr)",
+    "ms": "Susulan selepas hospital (dalam 60 hari selepas discaj; maksimum 2 tuntutan/tahun)",
+    "zh": "出院后复诊（出院 60 天内；每年最多 2 次）"
+  },
+  "mem.cmp.r16": {
+    "en": "Accidental injury surgery / treatment (during waiting period)",
+    "ms": "Pembedahan / rawatan kecederaan kemalangan (dalam tempoh menunggu)",
+    "zh": "意外伤害手术／治疗（等待期内）"
+  },
+  "mem.cmp.r17": {
+    "en": "Bereavement (90-day wait, no pre-existing)",
+    "ms": "Kematian (menunggu 90 hari, tiada sedia ada)",
+    "zh": "身故抚恤（90 天等待期，不含既往病症）"
+  },
+  "mem.cmp.r18": {
+    "en": "Outpatient cancer treatment (separate from RM1M; 180-day wait)",
+    "ms": "Rawatan kanser pesakit luar (berasingan daripada RM1J; menunggu 180 hari)",
+    "zh": "门诊癌症治疗（独立于 RM1M 之外；180 天等待期）"
+  },
+  "mem.cmp.r19": {
+    "en": "Sports-injury cases cap",
+    "ms": "Had kes kecederaan sukan",
+    "zh": "运动伤害个案上限"
+  },
+  "mem.plan.highlights": {
+    "en": "Plan highlights",
+    "ms": "Sorotan pelan",
+    "zh": "配套亮点"
+  },
+  "mem.plan.everythingPlus": {
+    "en": "Everything in Standard, with more:",
+    "ms": "Semua dalam Standard, dan lebih lagi:",
+    "zh": "包含标准配套的一切，并更进一步："
+  },
+  "mem.plan.coreIncluded": {
+    "en": "All core inpatient benefits included",
+    "ms": "Semua manfaat teras pesakit dalam disertakan",
+    "zh": "涵盖所有核心住院福利"
+  },
+  "mem.plan.coreIncludedDesc": {
+    "en": "ICU, surgery, post-hospital follow-up & more (see table)",
+    "ms": "ICU, pembedahan, susulan selepas hospital & lain-lain (lihat jadual)",
+    "zh": "重症监护、手术、出院后复诊等（详见表格）"
+  },
+  "mem.plan.joinStandard": {
+    "en": "Join with Standard",
+    "ms": "Sertai dengan Standard",
+    "zh": "选择标准配套加入"
+  },
+  "mem.plan.joinDeluxe": {
+    "en": "Join with Deluxe",
+    "ms": "Sertai dengan Deluxe",
+    "zh": "选择豪华配套加入"
+  },
+  "mem.plan.openingBalance": {
+    "en": "Sharing Account opening balance",
+    "ms": "Baki permulaan Akaun Perkongsian",
+    "zh": "分摊账户起始余额"
+  },
+  "mem.plan.roomBoard": {
+    "en": "Room & Board",
+    "ms": "Bilik & Makan",
+    "zh": "病房与膳食"
+  },
+  "mem.plan.ambulance": {
+    "en": "Ambulance",
+    "ms": "Ambulans",
+    "zh": "救护车"
+  },
+  "mem.plan.dailyCash": {
+    "en": "Daily Cash at Government Hospital",
+    "ms": "Tunai Harian di Hospital Kerajaan",
+    "zh": "政府医院每日现金"
+  },
+  "mem.plan.preHospital": {
+    "en": "Pre-Hospital Diagnostic & Consultation",
+    "ms": "Diagnostik & Konsultasi Pra-Hospital",
+    "zh": "入院前检查与咨询"
+  },
+  "mem.plan.notIncluded": {
+    "en": "not included",
+    "ms": "tidak disertakan",
+    "zh": "不包含"
+  },
+  "mem.plan.maxDays": {
+    "en": "max 120 days/yr",
+    "ms": "maksimum 120 hari/tahun",
+    "zh": "每年最多 120 天"
+  },
+  "mem.plan.perAdmission": {
+    "en": "per admission",
+    "ms": "setiap kemasukan",
+    "zh": "每次入院"
+  },
+  "mem.plan.beforeAdmission": {
+    "en": "30 days before admission",
+    "ms": "30 hari sebelum kemasukan",
+    "zh": "入院前 30 天"
+  }
+}

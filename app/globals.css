@@ -1,0 +1,1248 @@
+/* Fonts are loaded by next/font in app/layout.tsx, never with an @import here: a CSS
+   @import of an external stylesheet costs two extra round trips before first paint. */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Tidewater. Cool White is the page, Deep Petrol the ink. */
+    --background: 180 23% 97%;
+    --foreground: 188 59% 17%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 188 59% 17%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 188 59% 17%;
+
+    /* Deep Petrol #123F46 */
+    --primary: 188 59% 17%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Ice Blue #DCECF4 */
+    --secondary: 200 52% 91%;
+    --secondary-foreground: 188 59% 17%;
+
+    --muted: 180 23% 97%;
+    --muted-foreground: 192 14% 34%;
+
+    /* Turquoise #25B6A5 — a fill, never type on a light ground */
+    --accent: 173 66% 43%;
+    --accent-foreground: 188 68% 12%;
+
+    --destructive: 18 74% 41%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 188 59% 17% / 0.12;
+    --input: 188 59% 17% / 0.2;
+    /* Ocean Teal #087F7A */
+    --ring: 177 88% 26%;
+
+    --radius: 24px;
+  }
+}
+
+@layer base {
+  * {
+    border-color: rgb(18 63 70 / 0.12);
+  }
+
+  body {
+    @apply bg-background text-ink-2;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display text-ink;
+  }
+
+  /* Anchor navigation lands below the fixed header rather than under it. */
+  [id] {
+    scroll-margin-top: 6rem;
+  }
+
+  :focus-visible {
+    outline: 3px solid #087f7a;
+    outline-offset: 3px;
+    border-radius: 8px;
+  }
+}
+
+@layer components {
+  /* ---- Type scale ------------------------------------------------------
+   *
+   * Proportions follow the Angsana reference: large, tightly tracked, and only
+   * semibold. Weight is not what makes a headline read as considered — scale and
+   * negative tracking are, and 600 keeps the counters open at 84px where 800 closes
+   * them up. The face is Poppins, as the reference uses.
+   *
+   * `text-wrap: balance` is what stops a three-word second line hanging off a
+   * headline. It is ignored by browsers that do not support it, which is a no-op
+   * rather than a fallback worth writing.
+   */
+  .t-display {
+    font-size: clamp(38px, 6.6vw, 84px);
+    font-weight: 600;
+    line-height: 1.02;
+    letter-spacing: -0.045em;
+    text-wrap: balance;
+  }
+
+  .t-h2 {
+    font-size: clamp(30px, 4.6vw, 56px);
+    font-weight: 600;
+    line-height: 1.04;
+    letter-spacing: -0.035em;
+    text-wrap: balance;
+  }
+
+  .t-h3 {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+  }
+
+  .t-tile {
+    font-size: clamp(22px, 2.6vw, 32px);
+    font-weight: 600;
+    line-height: 1.1;
+    letter-spacing: -0.025em;
+  }
+
+  .t-eyebrow {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  /* ---- The Tidewater wash -----------------------------------------------
+   *
+   * Light, not shapes. Mint falls to near-white and rises into ice blue across 105°,
+   * with two very wide, very diffuse blooms over it — one white from the top right,
+   * one mint from the bottom left. Nothing here has an edge: the moment a wash grows
+   * a boundary it reads as a pattern sitting on the page rather than as light.
+   *
+   * Every stop stays pale enough that petrol type sits on it at well over AA, and
+   * the darkest point of the wash is measured, not assumed.
+   */
+  .bg-hero-soft {
+    background:
+      /* The wash dissolves into the section below instead of ending on a ruled edge.
+         It used to start fading at 56%, which meant the bottom two-fifths of the hero
+         were plain white and the gradient read as a thin strip at the top. It now
+         holds its colour to 80% and resolves in the last fifth — the glow is the
+         ground the headline sits on, not a stripe above it. */
+      linear-gradient(180deg, rgba(255, 255, 255, 0) 82%, rgba(255, 255, 255, 0.55) 94%, #ffffff 100%),
+      /* A white pool over the middle, where the headline sits. A glow behind type is
+         normally what kills its contrast; this one does the opposite — it lifts the
+         ground, so the h1 and the lede both measure better here than on the colour
+         around them. It is the only layer allowed under the copy, and it is why the
+         four coloured pools can be as strong as they are: they are all outside it. */
+      radial-gradient(34vw 38vh at 50% 32%, rgba(255, 255, 255, 0.55), transparent 70%),
+      /* Four pools in three hues, one to a corner — turquoise opposite turquoise,
+         ice blue opposite steel — rather than two tints of one colour. The turquoise
+         is what makes this read as light instead of as a tint, and .52 is its
+         ceiling: at that alpha the ground bottoms out at L=0.71, where petrol is
+         8.2:1 and ink-2 is 4.9:1, and a step brighter puts the body copy under AA.
+         The steel pool is the opposite move, a cool shadow — it is the only layer
+         here that darkens, which is why it is held to .12. */
+      radial-gradient(60vw 58vh at 6% -8%, rgba(110, 224, 205, 0.52), transparent 62%),
+      radial-gradient(56vw 54vh at 96% 6%, rgba(176, 222, 242, 0.85), transparent 62%),
+      radial-gradient(64vw 58vh at 84% 96%, rgba(110, 224, 205, 0.44), transparent 64%),
+      radial-gradient(48vw 50vh at 10% 94%, rgba(49, 90, 120, 0.12), transparent 66%),
+      /* The base ramp, on the palette's own stops: Mint → near-white → Ice Blue. */
+      linear-gradient(150deg, #c9eee5 0%, #f5faf9 46%, #dcecf4 100%);
+  }
+
+  /* ---- Quiet wash -------------------------------------------------------
+   *
+   * The hero's ground, turned down — around half the alpha, and the linear ramp
+   * swapped for the page's own cool white. A section that should feel of a piece
+   * with the hero without competing with it for the eye.
+   */
+  .bg-wash-soft {
+    background:
+      radial-gradient(52vw 56vh at 4% 10%, rgba(127, 232, 216, 0.34), transparent 62%),
+      radial-gradient(56vw 60vh at 96% 86%, rgba(176, 222, 242, 0.5), transparent 64%),
+      radial-gradient(40vw 44vh at 58% 46%, rgba(255, 255, 255, 0.9), transparent 60%),
+      #f7fafa;
+  }
+
+  /* ---- Ambient drift ----------------------------------------------------
+   *
+   * A wash that moves is the difference between a page that feels alive and one
+   * that feels printed. The movement is deliberately below the threshold of
+   * attention: a few per cent of translation over twenty-odd seconds, on a
+   * decorative layer that is `aria-hidden` and never affects layout.
+   */
+  .ambient {
+    position: absolute;
+    inset: -20%;
+    pointer-events: none;
+    will-change: transform;
+  }
+
+  /* ---- Scroll entrance --------------------------------------------------
+   *
+   * The hidden state is gated on `html.js`, which a blocking inline script sets
+   * before first paint. With JavaScript blocked or slow the page is simply visible
+   * rather than a blank below the hero, and there is no flash when it is present.
+   *
+   * Two flavours, as in the reference: `.reveal` is the quiet one used everywhere,
+   * and `.reveal-blur` adds a clearing blur for a section that deserves an entrance.
+   * Blur is deliberately not the default — it forces a containing block and repaints
+   * a whole subtree, which is wasted on a row of small cards.
+   */
+  html.js .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition:
+      opacity 0.75s cubic-bezier(0.22, 0.61, 0.36, 1),
+      transform 0.75s cubic-bezier(0.22, 0.61, 0.36, 1),
+      filter 0.75s cubic-bezier(0.22, 0.61, 0.36, 1);
+    transition-delay: var(--reveal-delay, 0ms);
+  }
+
+  html.js .reveal-blur {
+    filter: blur(6px);
+  }
+
+  html.js .reveal.is-revealed {
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+
+  /* ---- Card depth -------------------------------------------------------
+   *
+   * The reference carries almost no resting shadow — one value in its whole base
+   * sheet. Cards are a border and a tint, and the lift only appears on hover. That
+   * is what keeps a page of cards from reading as a pile of floating slabs.
+   */
+  .card-lift {
+    transition:
+      transform 0.35s cubic-bezier(0.22, 0.61, 0.36, 1),
+      box-shadow 0.35s,
+      border-color 0.35s;
+  }
+
+  .card-lift:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 32px 60px -36px rgb(18 63 70 / 0.55);
+    border-color: rgb(18 63 70 / 0.22);
+  }
+
+  .on-dark .card-lift:hover {
+    border-color: rgb(255 255 255 / 0.26);
+    box-shadow: 0 26px 46px -28px rgb(0 0 0 / 0.7);
+  }
+
+  /* The slight overshoot the reference uses when a card's icon tilts on hover.
+     Written here rather than as an arbitrary Tailwind value: the bare decimals in
+     cubic-bezier(.34,…) are ambiguous to the class scanner and warn on every build. */
+  .ease-back {
+    transition-timing-function: cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+
+  /* A bar that wipes across the top edge of a card on hover. */
+  .card-bar::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto;
+    height: 3px;
+    background: linear-gradient(90deg, #087f7a, #25b6a5);
+    transform: scaleX(0);
+    transform-origin: 0 50%;
+    transition: transform 0.5s cubic-bezier(0.22, 0.61, 0.36, 1);
+  }
+
+  .card-bar:hover::before {
+    transform: scaleX(1);
+  }
+
+  /* ---- Drifting orbs ----------------------------------------------------
+   *
+   * Large, heavily blurred pools that move slowly behind a band. They sit in a
+   * Section's `backdrop` slot, never as a child — children are clipped to the
+   * container's width and the orb's edge would show.
+   */
+  .orb {
+    position: absolute;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    filter: blur(10px);
+    pointer-events: none;
+  }
+
+  /* ---- Headline sheen ---------------------------------------------------
+   *
+   * A highlight travelling across an accent phrase. Petrol into ocean teal into steel
+   * blue, so the movement is a change of hue and not just brightness — the three
+   * colours Tidewater actually allows as type on a light ground.
+   *
+   * Every stop clears 4.5:1 on the wash at every moment of the sweep, not just the
+   * 3:1 that text this size would need: #123F46 10.9:1, #087F7A 4.6:1, #315A78 7.0:1.
+   * Turquoise is 2.4:1 and cannot appear here, however well it would travel.
+   *
+   * `color` is set before the clip so the text stays visible where
+   * background-clip: text is unsupported.
+   */
+  .text-sheen {
+    color: #123f46;
+    background-image: linear-gradient(
+      100deg,
+      #123f46 0%,
+      #123f46 26%,
+      #087f7a 40%,
+      #315a78 50%,
+      #087f7a 60%,
+      #123f46 74%,
+      #123f46 100%
+    );
+    background-size: 260% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: text-sheen 9s linear infinite;
+  }
+
+  @keyframes text-sheen {
+    0% {
+      background-position: 200% 0;
+    }
+    100% {
+      background-position: -100% 0;
+    }
+  }
+
+  @media (forced-colors: active) {
+    .text-sheen {
+      -webkit-text-fill-color: currentColor;
+      background-image: none;
+      animation: none;
+    }
+  }
+
+  /* Every borrowed motion has an off-switch, as in the reference. */
+  @media (prefers-reduced-motion: reduce) {
+    html.js .reveal,
+    html.js .reveal-blur {
+      opacity: 1;
+      transform: none;
+      filter: none;
+      transition: none;
+    }
+
+    .card-lift,
+    .card-bar::before {
+      transition: none;
+    }
+
+    .card-lift:hover {
+      transform: none;
+    }
+
+    .orb,
+    .text-sheen,
+    .ambient,
+    .fig-glow::before {
+      animation: none;
+    }
+
+    .sheen-host:hover::before,
+    .group:hover .sheen-host::before {
+      animation: none;
+      opacity: 0;
+    }
+
+    .img-zoom img {
+      transition: none;
+    }
+
+    .img-zoom:hover img,
+    .group:hover .img-zoom img {
+      transform: none;
+    }
+
+    .glow-edge::after,
+    .halo::before,
+    .row-tide,
+    .row-tide::before {
+      transition: none;
+    }
+
+    html.js .reveal .tide-bar {
+      transform: none;
+      transition: none;
+    }
+  }
+
+  /* ---- The rule under a heading -----------------------------------------
+   *
+   * A 3px turquoise bar that draws itself out when its section arrives. It is the
+   * one piece of motion here that is load-bearing: it marks where a section begins,
+   * so the page has punctuation rather than only spacing.
+   *
+   * Turquoise is 2.4:1 on the wash and could never carry type — but this is a rule,
+   * not text, so the colour is finally free to be the bright one.
+   */
+  .tide-bar {
+    transform-origin: 0 50%;
+  }
+
+  .tide-bar-center {
+    transform-origin: 50% 50%;
+  }
+
+  html.js .reveal .tide-bar {
+    transform: scaleX(0);
+    transition: transform 0.7s cubic-bezier(0.22, 0.61, 0.36, 1) 0.15s;
+  }
+
+  html.js .reveal.is-revealed .tide-bar {
+    transform: scaleX(1);
+  }
+
+  /* ---- The waiting-period timeline --------------------------------------
+   *
+   * The rail is not one element that fills; it is one segment per step, each one
+   * living inside that step's own `Reveal`. So the line grows from stop to stop in
+   * the order the stops are read, instead of racing ahead of the cards it connects.
+   *
+   * Both pieces follow `.tide-bar`'s contract exactly: the hidden state is gated on
+   * `html.js` and keyed off the parent `.reveal.is-revealed`, so there is still one
+   * scroll-entrance primitive on this site and the timeline is simply drawn in its
+   * finished state when JavaScript never runs. Positioning lives on a wrapper span,
+   * never here — a `translateX(-50%)` written in the markup and a `scale()` written
+   * in CSS are the same property, and the second would silently drop the first.
+   */
+  .tl-seg {
+    transform-origin: 50% 0;
+  }
+
+  .tl-node {
+    transform-origin: 50% 50%;
+  }
+
+  html.js .reveal .tl-seg {
+    transform: scaleY(0);
+    transition: transform 0.85s cubic-bezier(0.22, 0.61, 0.36, 1) 0.25s;
+  }
+
+  html.js .reveal.is-revealed .tl-seg {
+    transform: scaleY(1);
+  }
+
+  html.js .reveal .tl-node {
+    opacity: 0;
+    /* Overshoot, so the stop lands rather than fades — it is a marker being set
+       down on the line, and a linear ease reads as a fade-in instead. */
+    transform: scale(0.35);
+    transition:
+      transform 0.55s cubic-bezier(0.34, 1.56, 0.64, 1),
+      opacity 0.35s ease;
+  }
+
+  html.js .reveal.is-revealed .tl-node {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  /* ---- The journey rail -------------------------------------------------
+   *
+   * The About page's timeline. Same contract as `.tl-seg` above — one segment per
+   * milestone, living inside that milestone's own `Reveal`, so the line grows from
+   * stop to stop in the order the story is read rather than racing ahead of it.
+   *
+   * It is a separate class from `.tl-seg` only because that one turns horizontal
+   * from three columns up, and a journey of eight entries stays vertical at every
+   * width. Everything else is identical, including degrading to a drawn rail when
+   * JavaScript never runs.
+   */
+  .jr-seg {
+    transform-origin: 50% 0;
+  }
+
+  html.js .reveal .jr-seg {
+    transform: scaleY(0);
+    transition: transform 0.9s cubic-bezier(0.22, 0.61, 0.36, 1) 0.2s;
+  }
+
+  html.js .reveal.is-revealed .jr-seg {
+    transform: scaleY(1);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html.js .reveal .jr-seg {
+      transform: none;
+      transition: none;
+    }
+  }
+
+  /* ---- The Care Episode figure -------------------------------------------
+   *
+   * The one diagram on the WeCare page, and the only place on it that animates.
+   * Two tiles land, and the operators arrive between them.
+   *
+   * Same contract as `.tide-bar` and the timeline above — hidden state gated on
+   * `html.js`, keyed off the parent `.reveal.is-revealed` — so with JavaScript
+   * blocked the figure is simply drawn finished. Each element's place in the
+   * sequence is its own `--i`, set in the markup, so one rule covers any number of
+   * them and nothing needs a per-item class.
+   */
+  .pop-in {
+    --i: 0;
+  }
+
+  html.js .reveal .pop-in {
+    opacity: 0;
+    /* Overshoot: a tile being set down, not a tile fading up. */
+    transform: scale(0.84);
+    transition:
+      transform 0.62s cubic-bezier(0.34, 1.56, 0.64, 1) calc(var(--i) * 110ms),
+      opacity 0.42s ease calc(var(--i) * 110ms);
+  }
+
+  html.js .reveal.is-revealed .pop-in {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+
+  @media (prefers-reduced-motion: reduce) {
+    html.js .reveal .pop-in {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
+  }
+
+  /* From three columns up the rail turns and runs across the top. */
+  @media (min-width: 1024px) {
+    .tl-seg {
+      transform-origin: 0 50%;
+    }
+
+    html.js .reveal .tl-seg {
+      transform: scaleX(0);
+    }
+
+    html.js .reveal.is-revealed .tl-seg {
+      transform: scaleX(1);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html.js .reveal .tl-seg,
+    html.js .reveal .tl-node {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
+  }
+
+  /* ---- The veil over the hero photograph ---------------------------------
+   *
+   * The hero's ground is a photograph, and the type on it is the site's ordinary
+   * petrol and ink-2 — not white. That is not a style preference: the header is
+   * hardcoded to its light treatment with a dark WeKongsi wordmark, and the WeShare
+   * lockup in the hero is dark teal on transparent. Reversing the hero would mean
+   * reversing both marks and the navigation with it, which is out of scope. So the
+   * picture has to come up to the type rather than the type down to the picture.
+   *
+   * Four layers, each doing one job:
+   *   1. a near-white veil over everything, which sets the floor;
+   *   2. a white pool centred on the copy, strongest exactly where the headline is
+   *      and gone by the edges — so the faces at the sides survive;
+   *   3. the palette's own mint → near-white → ice blue ramp, so the photograph reads
+   *      as part of the band rather than as a picture dropped behind it;
+   *   4. a fade to white at the foot, so the band dissolves into the section below
+   *      instead of ending on a cut edge.
+   *
+   * Every alpha here is the lowest the rendered contrast allows — measured on the
+   * composite, not reasoned about. Raising the picture's presence means lowering
+   * these, and the type is what says how far they can go.
+   */
+  .hero-veil {
+    background:
+      /* A scrim along the top of the band. The header has no background of its own
+         until you scroll, so with a photograph behind it the nav links were standing
+         on whatever happened to be up there — measured at 3.7:1, under AA. The strip
+         is the height of the bar and gone by a sixth of the band, so it costs the
+         picture nothing anyone would have seen past the navigation anyway. */
+      linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.78) 0%,
+        rgba(255, 255, 255, 0.68) 8%,
+        rgba(255, 255, 255, 0) 18%
+      ),
+      linear-gradient(180deg, rgba(255, 255, 255, 0) 74%, rgba(255, 255, 255, 0.72) 90%, #ffffff 100%),
+      radial-gradient(
+        58% 52% at 50% 46%,
+        rgba(255, 255, 255, 0.87) 0%,
+        rgba(255, 255, 255, 0.67) 54%,
+        rgba(255, 255, 255, 0.19) 82%,
+        rgba(255, 255, 255, 0) 100%
+      ),
+      linear-gradient(
+        150deg,
+        rgba(201, 238, 229, 0.5) 0%,
+        rgba(245, 250, 249, 0.3) 46%,
+        rgba(220, 236, 244, 0.5) 100%
+      ),
+      rgba(255, 255, 255, 0.21);
+  }
+
+  /* Below three columns the veil has to work harder, and the reason is geometry,
+     not taste. The centre pool is sized in per cent of the band, so on a narrow tall
+     viewport it is a narrow ellipse while the headline runs nearly edge to edge — the
+     copy walks straight out of the brightest part of it. The pool is widened to 92%
+     and the floor raised to match. Measured: the lede clears 4.5:1 at 390px. */
+  @media (max-width: 1023px) {
+    .hero-veil {
+      background:
+        /* A scrim along the top of the band. The header has no background of its own
+           until you scroll, so with a photograph behind it the nav links were standing
+           on whatever happened to be up there — measured at 3.7:1, under AA. The strip
+           is the height of the bar and gone by a sixth of the band, so it costs the
+           picture nothing anyone would have seen past the navigation anyway. */
+        linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.78) 0%,
+          rgba(255, 255, 255, 0.68) 8%,
+          rgba(255, 255, 255, 0) 18%
+        ),
+        linear-gradient(180deg, rgba(255, 255, 255, 0) 74%, rgba(255, 255, 255, 0.72) 90%, #ffffff 100%),
+        radial-gradient(
+          92% 50% at 50% 42%,
+          rgba(255, 255, 255, 0.9) 0%,
+          rgba(255, 255, 255, 0.73) 56%,
+          rgba(255, 255, 255, 0.22) 84%,
+          rgba(255, 255, 255, 0) 100%
+        ),
+        linear-gradient(
+          150deg,
+          rgba(201, 238, 229, 0.52) 0%,
+          rgba(245, 250, 249, 0.34) 46%,
+          rgba(220, 236, 244, 0.52) 100%
+        ),
+        rgba(255, 255, 255, 0.25);
+    }
+  }
+
+
+  /* ---- Image placeholder ------------------------------------------------
+   *
+   * Where the design needs a photograph we do not have yet. Deliberately not a grey
+   * box: it carries the gradient, a label and a dashed edge, so in review it is
+   * obvious that something is missing rather than looking like a finished panel.
+   */
+  .ph-tile {
+    background:
+      radial-gradient(60% 60% at 80% 10%, rgba(255, 255, 255, 0.8), transparent 62%),
+      linear-gradient(135deg, #dcecf4 0%, #eef6f8 52%, #c9eee5 100%);
+  }
+
+  /* ---- Grain ------------------------------------------------------------
+   *
+   * The cost of turning the gradients up is that a wide, smooth ramp bands on an
+   * 8-bit display — visible steps across the sky of a hero. A few per cent of
+   * fractal noise over the top dithers the ramp away and is what separates a
+   * strong gradient that looks lit from one that looks cheap.
+   *
+   * One inline SVG, no network request, and `aria-hidden` by construction since it
+   * is a pseudo-element. Fixed at 180px so it tiles without a visible seam.
+   */
+  .grain::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.04;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  /* Measured, not guessed: the brightest *pixel* of a dark band is a noise speck,
+     not the gradient — at .055 the peak lifted the ground by 14 per channel and put
+     #7FE8D8 under AA. At .035 it adds 9 and the dithering still works. */
+  .on-dark.grain::after,
+  .on-dark .grain::after {
+    opacity: 0.035;
+  }
+
+  /* ---- Lit edge ---------------------------------------------------------
+   *
+   * A hairline along the top of a dark band that is brightest at its centre and
+   * gone at both ends. A border would read as a frame; this reads as the light in
+   * the band reaching its own edge, which is the whole difference between a
+   * section that sits on the page and one that is cut into it.
+   */
+  .band-edge::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto;
+    height: 1px;
+    background: theme("backgroundImage.edge-glow");
+    pointer-events: none;
+  }
+
+  /* ---- Glow ring --------------------------------------------------------
+   *
+   * A 1px gradient border that fades up on hover — bright where the gradient
+   * starts, gone by the far corner, so the card looks lit from one side rather
+   * than outlined. Drawn with the two-layer mask so the fill stays hollow: a
+   * gradient `border-image` cannot follow a border radius, and a gradient
+   * background with an inset child needs the child to be opaque, which rules out
+   * every glass card on the site.
+   */
+  .glow-edge::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 1.5px;
+    background: theme("backgroundImage.ring-glow");
+    -webkit-mask:
+      linear-gradient(#000 0 0) content-box,
+      linear-gradient(#000 0 0);
+    mask:
+      linear-gradient(#000 0 0) content-box,
+      linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    opacity: 0;
+    transition: opacity 0.45s cubic-bezier(0.22, 0.61, 0.36, 1);
+    pointer-events: none;
+  }
+
+  .glow-edge:hover::after,
+  .group:hover .glow-edge::after,
+  .glow-edge:focus-within::after {
+    opacity: 1;
+  }
+
+  /* ---- Halo -------------------------------------------------------------
+   *
+   * Light spilling out from behind a card on hover, drawn outside its own box. The
+   * element needs `isolate` on an ancestor, not on itself — a negative z-index
+   * inside its own stacking context would disappear behind the page background.
+   */
+  .halo::before {
+    content: "";
+    position: absolute;
+    inset: -14%;
+    z-index: -1;
+    border-radius: 50%;
+    background: radial-gradient(closest-side, rgba(37, 182, 165, 0.3), transparent 72%);
+    filter: blur(26px);
+    opacity: 0;
+    transition: opacity 0.5s cubic-bezier(0.22, 0.61, 0.36, 1);
+    pointer-events: none;
+  }
+
+  .halo:hover::before,
+  .group:hover .halo::before {
+    opacity: 1;
+  }
+
+  /* ---- Sheen ------------------------------------------------------------
+   *
+   * A narrow band of light that crosses a surface once when the pointer arrives.
+   * It runs on `animation` rather than a transition so it always completes its
+   * travel — a transition on `transform` would snap back the instant the pointer
+   * left, and half a sweep reads as a glitch.
+   */
+  .sheen-host {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .sheen-host::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 42%;
+    background: linear-gradient(100deg, transparent, rgba(255, 255, 255, 0.5), transparent);
+    opacity: 0;
+    transform: translateX(-120%) skewX(-18deg);
+    pointer-events: none;
+  }
+
+  .sheen-host:hover::before,
+  .group:hover .sheen-host::before {
+    opacity: 1;
+    animation: sheen 1.1s cubic-bezier(0.22, 0.61, 0.36, 1);
+  }
+
+  .on-dark .sheen-host::before {
+    background: linear-gradient(100deg, transparent, rgba(127, 232, 216, 0.22), transparent);
+  }
+
+  @keyframes sheen {
+    0% {
+      transform: translateX(-120%) skewX(-18deg);
+    }
+    100% {
+      transform: translateX(220%) skewX(-18deg);
+    }
+  }
+
+  /* ---- Price swap -------------------------------------------------------
+   *
+   * The small rise a figure makes when the pricing toggle changes what it is
+   * showing. It runs on `animation` with a React `key`, not a transition: the two
+   * figures are different text, so there is nothing for a transition to tween —
+   * the old number is removed and the new one has to arrive under its own power.
+   *
+   * Short and small on purpose. A price that swings in is a price you have to wait
+   * to read, and this one is the answer to the question the toggle just asked.
+   */
+  .price-swap {
+    animation: price-in 0.34s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+  }
+
+  @keyframes price-in {
+    from {
+      opacity: 0;
+      transform: translateY(6px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  /* ---- Watermark numeral ------------------------------------------------
+   *
+   * The step number set enormous and nearly invisible behind its own card. It
+   * gives a row of four cards a reading order you can see from across the room,
+   * which a 12px label in the corner does not. Decoration only — the real number
+   * is in the markup, so this is `aria-hidden` wherever it is used.
+   */
+  .watermark {
+    font-size: clamp(90px, 9vw, 132px);
+    font-weight: 600;
+    line-height: 0.76;
+    letter-spacing: -0.06em;
+    color: transparent;
+    background-image: linear-gradient(170deg, rgba(18, 63, 70, 0.14), rgba(18, 63, 70, 0));
+    -webkit-background-clip: text;
+    background-clip: text;
+    pointer-events: none;
+    user-select: none;
+  }
+
+  .on-dark .watermark {
+    background-image: linear-gradient(170deg, rgba(127, 232, 216, 0.3), rgba(127, 232, 216, 0));
+  }
+
+  /* ---- Image zoom -------------------------------------------------------
+   *
+   * The slowest motion in the system on purpose: 0.9s, so it is still moving when
+   * the eye arrives at the copy beside it. Scale only — a photograph that also
+   * shifts position reads as a parallax trick rather than as depth.
+   */
+  .img-zoom img {
+    transition: transform 0.9s cubic-bezier(0.22, 0.61, 0.36, 1);
+  }
+
+  .img-zoom:hover img,
+  .group:hover .img-zoom img {
+    transform: scale(1.06);
+  }
+
+  /* ---- A row that lights up --------------------------------------------
+   *
+   * For a list long enough that cards would be the wrong answer. The row keeps
+   * the hairline grid of a table and gains the feedback of a card: a wash from
+   * the leading edge, and the rule beneath it turned turquoise.
+   */
+  .row-tide {
+    position: relative;
+    transition: background-color 0.35s, box-shadow 0.35s;
+  }
+
+  .row-tide::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(37, 182, 165, 0.1), transparent 62%);
+    opacity: 0;
+    transition: opacity 0.35s;
+    pointer-events: none;
+  }
+
+  .row-tide:hover::before {
+    opacity: 1;
+  }
+
+  .on-dark .row-tide::before {
+    background: linear-gradient(90deg, rgba(127, 232, 216, 0.11), transparent 62%);
+  }
+
+  /* ---- Glass -----------------------------------------------------------
+   *
+   * One treatment for a panel that should let the band's glow through it. Written
+   * here rather than repeated as six utilities per card, because the inset
+   * highlight on the top edge is the part everyone forgets and it is the part
+   * that makes the surface read as glass rather than as grey.
+   */
+  .glass {
+    background: rgba(255, 255, 255, 0.72);
+    backdrop-filter: blur(14px) saturate(1.3);
+    border: 1px solid rgba(255, 255, 255, 0.85);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.9),
+      0 26px 52px -40px rgba(18, 63, 70, 0.55);
+  }
+
+  .glass-dark {
+    background: rgba(255, 255, 255, 0.07);
+    backdrop-filter: blur(16px) saturate(1.2);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.1),
+      0 0 56px -24px rgba(37, 182, 165, 0.4);
+  }
+
+  /* ---- Figures that glow ------------------------------------------------
+   *
+   * A bloom placed behind the one number a section is actually about. On the dark
+   * bands a drop shadow does nothing at all — only light reads — so this is the
+   * only way to give a figure there any weight beyond its size.
+   */
+  .fig-glow {
+    position: relative;
+  }
+
+  /* A fixed 170px, not a percentage of the element. Sized to the element it sits
+     behind, a wide figure cell got a 450px circle, and three of those in a row read
+     as three stains across the panel rather than as a halo behind each number. */
+  .fig-glow::before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 170px;
+    height: 170px;
+    translate: -50% -50%;
+    border-radius: 50%;
+    background: radial-gradient(closest-side, rgba(37, 182, 165, 0.26), transparent 72%);
+    filter: blur(26px);
+    pointer-events: none;
+  }
+
+  /*
+   * Dark bands redefine ink and surface tokens rather than each component branching on a
+   * `tone` prop for colour. This is the pattern the EASY reference uses: one set of
+   * component styles, two sets of values.
+   */
+  .on-dark {
+    --surface: rgb(255 255 255 / 0.07);
+    --surface-2: rgb(255 255 255 / 0.11);
+    --hairline: rgb(255 255 255 / 0.14);
+    --hairline-2: rgb(255 255 255 / 0.24);
+    --ink-1: #ffffff;
+    --ink-2: #c3d6da;
+    --ink-3: #9fbcc2;
+    /* Turquoise may carry type on petrol and nowhere else. This is the pale step,
+       not the brand one: against the brightest point of a lit dark band (L=0.095)
+       #7FE8D8 measures 4.99:1 where the brand #25B6A5 is 2.9:1. */
+    --accent-ink: #7fe8d8;
+    color: var(--ink-2);
+  }
+
+  .on-light {
+    --surface: #ffffff;
+    --surface-2: #ffffff;
+    --hairline: rgb(18 63 70 / 0.12);
+    --hairline-2: rgb(18 63 70 / 0.2);
+    --ink-1: #123f46;
+    --ink-2: #4a5e63;
+    --ink-3: #5e7378;
+    --accent-ink: #0a5f5b;
+    color: var(--ink-2);
+  }
+
+  /* Surfaces and ink that read from whichever band scope encloses them. */
+  .surface { background: var(--surface); border-color: var(--hairline); }
+  .ink-1 { color: var(--ink-1); }
+  .ink-2 { color: var(--ink-2); }
+  .ink-3 { color: var(--ink-3); }
+  .accent-ink { color: var(--accent-ink); }
+  .hairline { border-color: var(--hairline); }
+
+  /* Gradient text, in the two weights the bands need. */
+  /* Petrol into ocean teal. Both ends carry type on the wash — 10.9:1 and 4.6:1 —
+     which is why the gradient runs dark-to-mid rather than through turquoise. */
+  .text-gradient-brand {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(100deg, #123f46 0%, #087f7a 100%);
+  }
+
+  /*
+   * Gradient for small, bold text on white — card titles.
+   *
+   * Turquoise cannot be used here: it measures 2.4:1 against white, far below the
+   * 4.5:1 a 16px bold title needs. These two stops are the lightest pair that clears
+   * it (6.4:1 rising to 11.5:1).
+   *
+   * `color` is set before the clip so the text stays visible if background-clip: text is
+   * unsupported, and forced-colors mode drops the effect entirely rather than rendering
+   * transparent text on the user's own background.
+   */
+  .text-gradient-title {
+    color: #123f46;
+    background-image: linear-gradient(115deg, #0a6b66 0%, #123f46 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  @media (forced-colors: active) {
+    .text-gradient-title {
+      -webkit-text-fill-color: currentColor;
+      color: CanvasText;
+    }
+  }
+
+  /* On petrol: white into the palest turquoise step, 7.5:1 at its darkest. */
+  .text-gradient-light {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(100deg, #ffffff 0%, #7fe2d3 100%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ---- Range sliders on the sharing calculator ---------------------------
+ *
+ * Styled per-engine because a range input has no single cross-browser part, and twice
+ * over because the calculator sits on a dark band: the `.on-dark` scope swaps the
+ * track, the thumb and the focus ring rather than the component branching on a prop.
+ *
+ * The track is two-tone — brand gradient up to the thumb, empty track beyond it — and
+ * the split is driven by `--pct`, which the component sets from the value. A range
+ * input cannot do this with a pseudo-element, so it is painted into the track's own
+ * background as a hard-stopped gradient.
+ *
+ * `--pct` is nudged by half a thumb at each end (`calc`) so the fill meets the centre
+ * of the thumb instead of its leading edge, which otherwise leaves a sliver of empty
+ * track showing through at 100%.
+ */
+.ws-range {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 26px;
+  width: 100%;
+  background: transparent;
+  cursor: pointer;
+  --pct: 0%;
+  --ws-track: theme("colors.mint.deep");
+  --ws-fill: linear-gradient(90deg, #087f7a 0%, #25b6a5 100%);
+  --ws-thumb: theme("colors.teal.deep");
+  --ws-thumb-ring: #fff;
+  --ws-thumb-glow: 0 1px 6px rgba(18, 63, 70, 0.3);
+}
+
+.on-dark .ws-range {
+  --ws-track: rgb(255 255 255 / 0.14);
+  --ws-fill: linear-gradient(90deg, #25b6a5 0%, #7fe8d8 100%);
+  --ws-thumb: #ffffff;
+  --ws-thumb-ring: rgba(127, 232, 216, 0.9);
+  --ws-thumb-glow: 0 0 0 6px rgba(37, 182, 165, 0.18), 0 6px 16px -4px rgba(0, 0, 0, 0.6);
+}
+
+.ws-range::-webkit-slider-runnable-track {
+  height: 8px;
+  border-radius: 999px;
+  background:
+    var(--ws-fill) 0 / var(--pct) 100% no-repeat,
+    var(--ws-track);
+}
+
+.ws-range::-moz-range-track {
+  height: 8px;
+  border-radius: 999px;
+  background:
+    var(--ws-fill) 0 / var(--pct) 100% no-repeat,
+    var(--ws-track);
+}
+
+.ws-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  margin-top: -7px;
+  height: 22px;
+  width: 22px;
+  border-radius: 999px;
+  background: var(--ws-thumb);
+  border: 3px solid var(--ws-thumb-ring);
+  box-shadow: var(--ws-thumb-glow);
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+.ws-range::-moz-range-thumb {
+  height: 22px;
+  width: 22px;
+  border-radius: 999px;
+  background: var(--ws-thumb);
+  border: 3px solid var(--ws-thumb-ring);
+  box-shadow: var(--ws-thumb-glow);
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+.ws-range:hover::-webkit-slider-thumb,
+.ws-range:active::-webkit-slider-thumb {
+  transform: scale(1.12);
+}
+
+.ws-range:hover::-moz-range-thumb,
+.ws-range:active::-moz-range-thumb {
+  transform: scale(1.12);
+}
+
+.ws-range:focus-visible::-webkit-slider-thumb {
+  outline: 2px solid theme("colors.turq.light");
+  outline-offset: 3px;
+}
+
+.ws-range:focus-visible::-moz-range-thumb {
+  outline: 2px solid theme("colors.turq.light");
+  outline-offset: 3px;
+}
+
+/* While the widget is running itself, the thumb carries a soft pulse — the one cue
+   that the control is moving on its own and is not waiting to be grabbed. It stops
+   the moment the run ends, and never starts under reduced motion because the
+   component skips the run entirely there. */
+.ws-range[data-auto="true"]::-webkit-slider-thumb {
+  animation: ws-thumb-pulse 1.4s ease-in-out infinite;
+}
+
+.ws-range[data-auto="true"]::-moz-range-thumb {
+  animation: ws-thumb-pulse 1.4s ease-in-out infinite;
+}
+
+@keyframes ws-thumb-pulse {
+  0%,
+  100% {
+    box-shadow: var(--ws-thumb-glow);
+  }
+  50% {
+    box-shadow:
+      0 0 0 9px rgba(37, 182, 165, 0.22),
+      0 6px 16px -4px rgba(0, 0, 0, 0.6);
+  }
+}
+
+/* ---- The Shariah certificate's page-turn reveal ------------------------
+ *
+ * The certificate sits face-up; a cover leaf lies on top of it, hinged on its left
+ * edge, and swings open the first time the section is scrolled to.
+ *
+ * `backface-visibility: hidden` is what makes the reveal cost nothing to clean up:
+ * the leaf turns edge-on at 90 degrees, where its projected width is already zero,
+ * and is simply not painted past that. No fade to hide it, and nothing left sitting
+ * over the copy column at rest.
+ *
+ * The hinge is on the left, so between 0 and 90 degrees the leaf only ever narrows
+ * towards its own spine — it never sweeps outside the box it started in. The
+ * perspective is set on the parent rather than written into the transform so the
+ * whole leaf shares one vanishing point, which is the difference between a page
+ * turning and a rectangle being squashed.
+ */
+.cert-book {
+  perspective: 1700px;
+}
+
+.cert-leaf {
+  transform-origin: left center;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  will-change: transform;
+}
+
+/* ---- The Program Guidelines document stack -----------------------------
+ *
+ * Three sheets, fanned, so a link to a 72-page PDF looks like a document rather than
+ * a download button. The fan opens on hover and on keyboard focus anywhere inside the
+ * stack, so it is not a pointer-only flourish. The global prefers-reduced-motion rule
+ * further up flattens every transition here to nothing, which leaves the stack sitting
+ * still rather than snapping — the fanned-closed state is the correct resting state.
+ */
+.doc-stack {
+  position: relative;
+}
+
+.doc-sheet {
+  border-radius: 20px;
+  background: #fff;
+  border: 1px solid theme("colors.line");
+  transform-origin: 50% 92%;
+  transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.doc-sheet--ghost {
+  position: absolute;
+  inset: 0;
+  box-shadow: 0 10px 30px -20px rgba(18, 63, 70, 0.5);
+}
+
+.doc-sheet--back {
+  transform: rotate(-8deg) scale(0.95);
+  opacity: 0.45;
+}
+
+.doc-sheet--mid {
+  transform: rotate(-4deg) scale(0.975);
+  opacity: 0.75;
+}
+
+/* The front sheet is in flow — it is what gives the stack its height. */
+.doc-sheet--front {
+  position: relative;
+  box-shadow: 0 2px 6px rgba(18, 63, 70, 0.06), 0 26px 50px -34px rgba(18, 63, 70, 0.5);
+}
+
+.doc-stack:hover .doc-sheet--back,
+.doc-stack:focus-within .doc-sheet--back {
+  transform: rotate(-13deg) translateX(-13px) scale(0.95);
+}
+
+.doc-stack:hover .doc-sheet--mid,
+.doc-stack:focus-within .doc-sheet--mid {
+  transform: rotate(-6.5deg) translateX(-7px) scale(0.975);
+}
+
+.doc-stack:hover .doc-sheet--front,
+.doc-stack:focus-within .doc-sheet--front {
+  transform: translateY(-7px);
+}
+
+/* Ruled lines standing in for the body text of the cover page. */
+.doc-rule {
+  display: block;
+  height: 7px;
+  border-radius: 999px;
+  background: theme("colors.mint.DEFAULT");
+}
