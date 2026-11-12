@@ -123,6 +123,13 @@ export default {
           "radial-gradient(1000px 680px at 84% -6%,rgba(37,182,165,.20),transparent 62%),radial-gradient(900px 640px at 2% 104%,rgba(49,90,120,.52),transparent 64%),radial-gradient(760px 520px at 52% 46%,rgba(127,232,216,.07),transparent 66%),linear-gradient(160deg,#154A52 0%,#123F46 52%,#0A272E 100%)",
         "band-dark":
           "radial-gradient(1040px 700px at 6% -8%,rgba(37,182,165,.185),transparent 62%),radial-gradient(940px 660px at 96% 106%,rgba(49,90,120,.58),transparent 64%),radial-gradient(780px 540px at 58% 48%,rgba(127,232,216,.07),transparent 66%),linear-gradient(152deg,#123F46 0%,#0F3740 44%,#08232A 100%)",
+        /* WeCare's panel. The brief gave #097292, and that colour is already close to
+           the floor for white text on it — pure white measures 5.51:1 and white at 90%
+           measures 4.79:1. So unlike the other bands this one carries no lightening
+           bloom: every stop is #097292 or darker, which makes the flat colour the
+           worst case anywhere on the card instead of something to go hunting for. */
+        "band-ocean":
+          "radial-gradient(1000px 700px at 96% 104%,rgba(3,42,60,.55),transparent 66%),linear-gradient(152deg,#097292 0%,#076A88 55%,#05607D 100%)",
         "band-cta":
           "radial-gradient(900px 580px at 86% 4%,rgba(37,182,165,.20),transparent 64%),radial-gradient(960px 600px at 4% 98%,rgba(49,90,120,.54),transparent 66%),linear-gradient(158deg,#123F46 0%,#0C2E35 50%,#072026 100%)",
         /** The signature wash: mint → near-white → ice blue at 105°, with two wide

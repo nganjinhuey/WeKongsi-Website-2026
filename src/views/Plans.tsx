@@ -29,7 +29,16 @@ const PLANS = [
     descKey: "mem.plan.ws.desc",
     highlightKeys: ["mem.plan.ws.h1", "mem.plan.ws.h2", "mem.plan.ws.h3"],
     image: "/images/coverage-inpatient.jpg",
-    dark: true,
+    logo: "/images/weshare-logo-520.png",
+    logoSize: { w: 520, h: 150 },
+    /* The site's own optical rule, from HomePlans: WeShare's lockup carries the hand
+       above its word and WeCare's heart sits beside it, so matching the boxes sets
+       "WeCare" visibly larger. The ratio that makes both words the same height is
+       4:3, and these are HomePlans' 44/33 scaled up for a full-width panel. */
+    logoClass: "h-10 sm:h-[52px]",
+    band: "bg-band-dark",
+    /** Only WeShare has an annual limit to quote. */
+    limit: true,
     imageFirst: false,
   },
   {
@@ -40,7 +49,11 @@ const PLANS = [
     descKey: "wecare.desc",
     highlightKeys: ["wecare.h1", "wecare.h2", "wecare.h3"],
     image: "/images/wecare-teleconsult.jpg",
-    dark: false,
+    logo: "/images/wecare-logo-560.png",
+    logoSize: { w: 560, h: 101 },
+    logoClass: "h-[30px] sm:h-[39px]",
+    band: "bg-band-ocean",
+    limit: false,
     imageFirst: true,
   },
 ];
@@ -65,8 +78,8 @@ export default function Plans() {
                   pricing card. */}
               <article
                 className={cn(
-                  "overflow-hidden rounded-xl2 border",
-                  plan.dark ? "on-dark border-transparent bg-band-dark" : "on-light border-line bg-white",
+                  "on-dark grain overflow-hidden rounded-xl2 border border-transparent",
+                  plan.band,
                 )}
               >
                 <div className="grid lg:grid-cols-2">
@@ -76,69 +89,67 @@ export default function Plans() {
                       plan.imageFirst ? "lg:order-2" : "lg:order-1",
                     )}
                   >
-                    <span
-                      className={cn(
-                        "t-eyebrow inline-flex w-fit rounded-pill px-4 py-1.5",
-                        plan.dark ? "bg-white/10 text-turq-light" : "bg-mint text-teal-ink",
-                      )}
-                    >
+                    {/* Unfilled. A white tint would lift the ocean panel's ground far
+                        enough to put 12px type under AA on it, where the bare band
+                        holds comfortably. */}
+                    <span className="t-eyebrow inline-flex w-fit rounded-pill border border-white/25 px-4 py-1.5 text-white">
                       {t(plan.kindKey)}
                     </span>
 
-                    <h2
-                      className={cn(
-                        "mt-6 font-display t-tile",
-                        plan.dark ? "text-white" : "text-deep",
-                      )}
-                    >
-                      {plan.name}
+                    {/* The wordmark is the heading. These are the same transparent
+                        lockups the home page and both plan heroes use, and their ink
+                        is dark teal — 1.8:1 on the ocean panel — so on a dark card they
+                        get the white plate they were drawn for rather than a recoloured
+                        copy. The alt text is what makes this an <h2> with a name. */}
+                    <h2 className="mt-6">
+                      <span className="inline-flex w-fit rounded-2xl bg-white px-5 py-3.5 shadow-tide">
+                        <Image
+                          src={plan.logo}
+                          alt={plan.name}
+                          width={plan.logoSize.w}
+                          height={plan.logoSize.h}
+                          priority
+                          className={cn("w-auto", plan.logoClass)}
+                        />
+                      </span>
                     </h2>
 
-                    {plan.dark && (
+                    {plan.limit && (
                       <p className="mt-4 flex items-baseline gap-2">
                         <span className="font-display text-[26px] font-semibold tracking-[-0.03em] text-turq-light sm:text-[30px]">
                           {t("mem.common.upToValue", {
                             value: `RM${programFacts.annualLimit.toLocaleString("en-MY")}`,
                           })}
                         </span>
-                        <span className="text-sm text-white/80">{t("ws.limit.label")}</span>
+                        <span className="text-sm text-white/90">{t("ws.limit.label")}</span>
                       </p>
                     )}
 
-                    <p
-                      className={cn(
-                        "mt-5 max-w-lg text-[15px] leading-relaxed",
-                        plan.dark ? "text-white/80" : "text-ink-2",
-                      )}
-                    >
+                    {/* 90%, not 80%. On #097292 white at 80% measures 4.14:1 and
+                        fails; at 90% it is 4.79:1. The difference is invisible on the
+                        petrol panel and is what makes one value work on both. */}
+                    <p className="mt-5 max-w-lg text-[15px] leading-relaxed text-white/90">
                       {t(plan.descKey)}
                     </p>
 
                     <ul className="mt-8 flex flex-col gap-3.5">
                       {plan.highlightKeys.map((key) => (
                         <li key={key} className="flex items-center gap-3">
-                          <span
-                            className={cn(
-                              "grid h-5 w-5 shrink-0 place-items-center rounded-full",
-                              plan.dark ? "bg-teal/25 text-turq-light" : "bg-teal/15 text-teal-deep",
-                            )}
-                          >
+                          <span className="grid h-5 w-5 shrink-0 place-items-center rounded-full bg-white/15 text-white">
                             <Check className="h-3 w-3" />
                           </span>
-                          <span
-                            className={cn(
-                              "text-[14.5px] font-semibold",
-                              plan.dark ? "text-white" : "text-deep",
-                            )}
-                          >
-                            {t(key)}
-                          </span>
+                          <span className="text-[14.5px] font-semibold text-white">{t(key)}</span>
                         </li>
                       ))}
                     </ul>
 
                     <div className="mt-9">
-                      <Button asChild size="lg" variant={plan.dark ? "primary" : "outline"}>
+                      {/* `accent`, not `primary`. The primary pill is a deep teal
+                          gradient that measures 1.15:1 against the ocean panel — the
+                          label would still be legible but the button would not read as
+                          a button. This is the variant the design system keeps for
+                          exactly that case. */}
+                      <Button asChild size="lg" variant="accent">
                         <Link href={href(plan.href)}>
                           {t("pl.more")}
                           <ArrowRight className="h-5 w-5" />
