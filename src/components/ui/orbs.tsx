@@ -1,4 +1,6 @@
-import React from "react";
+"use client";
+
+import React, { useEffect, useRef, useState } from "react";
 import { cn } from "@/lib/utils";
 
 /**
@@ -18,6 +20,16 @@ import { cn } from "@/lib/utils";
  *
  * Belongs in a Section's `backdrop` slot, never as a child: children are clipped to
  * the container's max-width, and an orb's edge would show as a rectangle.
+ *
+ * **They stop when the band is off screen.** A drifting orb is three very large blurred
+ * radials being re-rastered every frame, and a long page carries six bands of them —
+ * eighteen on the home page, all animating whether or not anybody can see them. Measured
+ * over a synthesised scroll of the home page, that cost 6.7 per cent of frames; pausing
+ * them took it to 2.5. The band that is actually on screen animates exactly as before,
+ * so nothing about the design changes — the ones nobody is looking at simply stop.
+ *
+ * `will-change: transform` was tried first and is much worse: it promotes all eighteen
+ * to their own compositor layers and roughly doubled the main-thread cost.
  */
 export default function Orbs({
   tone = "light",
@@ -28,6 +40,25 @@ export default function Orbs({
   className?: string;
 }) {
   const dark = tone === "dark";
+  const ref = useRef<HTMLDivElement>(null);
+  /* Starts live so the first paint is never a frozen band; the observer pauses the
+     ones that are off screen on its first callback. */
+  const [live, setLive] = useState(true);
+
+  useEffect(() => {
+    const node = ref.current;
+    if (!node || typeof IntersectionObserver === "undefined") return;
+    const observer = new IntersectionObserver(
+      ([entry]) => setLive(entry.isIntersecting),
+      /* No margin worth speaking of. A screen's worth was tried first and gave almost
+         nothing back: mid-scroll nearly every band sits inside a margin that size, so
+         nearly nothing paused. Resuming is invisible anyway — the drift is paused in
+         place and continues from the same phase, so there is no jump to hide. */
+      { rootMargin: "10% 0px" },
+    );
+    observer.observe(node);
+    return () => observer.disconnect();
+  }, []);
 
   /* Turquoise is the pool that does the work — it is what makes a band read as lit
      rather than tinted. On light it is 0.34 over the wash's mid step, which bottoms
@@ -41,8 +72,13 @@ export default function Orbs({
 
   return (
     <div
+      ref={ref}
       aria-hidden="true"
-      className={cn("pointer-events-none absolute inset-0 overflow-hidden", className)}
+      className={cn(
+        "pointer-events-none absolute inset-0 overflow-hidden",
+        !live && "orbs-idle",
+        className,
+      )}
     >
       <div
         className="orb -top-[26%] right-[-8%] w-[54%] animate-drift motion-reduce:animate-none"

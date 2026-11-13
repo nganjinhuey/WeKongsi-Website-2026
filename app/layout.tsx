@@ -6,6 +6,7 @@ import { Providers } from "@/components/providers";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import AskWidget from "@/components/AskWidget";
+import ScrollState from "@/components/ScrollState";
 import SkipLink from "@/components/SkipLink";
 import { SITE_URL } from "@/lib/routes";
 
@@ -61,6 +62,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         className={`${poppins.variable} flex min-h-screen flex-col bg-background font-sans text-deep antialiased`}
       >
         <Providers>
+          <ScrollState />
           <SkipLink />
           <Header />
           <main id="main" className="flex-1">

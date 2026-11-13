@@ -278,6 +278,15 @@
     pointer-events: none;
   }
 
+  /* The orbs stand still in two cases: when their band is off screen (see the note in
+     `ui/orbs.tsx`), and while the page is moving (see `ScrollState`). Paused rather
+     than removed, so each orb holds its position and continues from the same phase —
+     there is no jump to notice on either edge. */
+  .orbs-idle .orb,
+  html.is-scrolling .orb {
+    animation-play-state: paused;
+  }
+
   /* ---- Headline sheen ---------------------------------------------------
    *
    * A highlight travelling across an accent phrase. Petrol into ocean teal into steel
