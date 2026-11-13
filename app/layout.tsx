@@ -5,7 +5,7 @@ import "./globals.css";
 import { Providers } from "@/components/providers";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import WhatsAppButton from "@/components/WhatsAppButton";
+import AskWidget from "@/components/AskWidget";
 import SkipLink from "@/components/SkipLink";
 import { SITE_URL } from "@/lib/routes";
 
@@ -67,7 +67,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             {children}
           </main>
           <Footer />
-          <WhatsAppButton />
+          <AskWidget />
         </Providers>
       </body>
     </html>

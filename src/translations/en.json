@@ -514,9 +514,6 @@
     "disclaimer": "**Disclaimer:** We Kongsi is a community-driven Medical Cost-Sharing Program and is not an insurance product. Medical cost-sharing is subject to Program Guidelines and eligibility requirements. Past sharing activities do not guarantee future sharing amounts.",
     "rights": "All rights reserved."
   },
-  "wa": {
-    "float": "Chat With Us"
-  },
   "site": {
     "footer": {
       "tagline": "A membership-based medical cost-sharing community program, administered by Kita Kongsi Sdn Bhd. Anyone Can Afford Healthcare.",
@@ -2917,6 +2914,179 @@
         "It is being used. It is being used by whoever was admitted that month — and the arithmetic only works because everyone who was not admitted kept paying anyway. Then a month comes when those two groups change places.",
         "> Because nobody plans for the accident. They plan for the possibility of one."
       ]
+    }
+  },
+  "ask": {
+    "launch": "Ask us",
+    "launchAria": "Ask a question",
+    "title": "We Kongsi Helper",
+    "subtitle": "Quick answers, no scrolling",
+    "close": "Close",
+    "greeting": "Hi there! 👋 Pick a question below and I'll answer it right here — no scrolling required.",
+    "suggestLead": "What would you like to know?",
+    "log": "Conversation",
+    "you": "You asked",
+    "bot": "Helper",
+    "relatedLead": "Anything else I can help with?",
+    "whatsapp": "Chat with us on WhatsApp",
+    "reset": "Back to the start",
+    "subtitleWeshare": "WeShare answers, no scrolling",
+    "subtitleWecare": "WeCare answers, no scrolling",
+    "greetingWeshare": "Hi there! 👋 These are the WeShare questions people ask most. Pick one and I'll answer it right here.",
+    "greetingWecare": "Hi there! 👋 These are the WeCare questions people ask most. Pick one and I'll answer it right here."
+  },
+  "chat": {
+    "what": {
+      "q": "What is We Kongsi?",
+      "a": "We're a community that shares medical costs 🤝 Everyone puts a little into their own Sharing Account, and when a member has an approved medical bill, we all chip in — so nobody carries it alone."
+    },
+    "insurance": {
+      "q": "Is it insurance?",
+      "a": "Nope, it isn't! Nothing is underwritten and no risk goes to a company — it's members helping members. If you want cover beyond what the community shares, a licensed insurer or Takaful operator is the right place for that 👍"
+    },
+    "plans": {
+      "q": "WeShare or WeCare?",
+      "a": "Two different jobs 😊 WeShare is for the big, rare hospital bill. WeCare is for everyday things — the doctor, the medicine, the clinic visit. Lots of members have both!"
+    },
+    "both": {
+      "q": "Can I have both?",
+      "a": "Absolutely 🙌 They're separate plans with separate payments and separate rules, so you can hold one or both."
+    },
+    "wecareWhat": {
+      "q": "What is WeCare?",
+      "a": "Your everyday healthcare subscription 🩹 A doctor on the phone whenever you need one, plus an allowance for medicine and clinic visits. It isn't insurance, Takaful or a medical card."
+    },
+    "cost": {
+      "q": "How much is it?",
+      "a": "Here's the quick version 💰 WeShare is RM40 a month, RM100 a quarter or RM360 a year, plus a sharing contribution capped at RM60 a month. WeCare is RM45 a quarter or RM160 a year."
+    },
+    "costWeshare": {
+      "q": "WeShare price?",
+      "a": "RM40 a month, RM100 a quarter, or RM360 a year 💳 Paying quarterly or yearly works out cheaper over twelve months. On top of that is your sharing contribution, capped at RM60 a month."
+    },
+    "costWecare": {
+      "q": "WeCare price?",
+      "a": "RM45 a quarter or RM160 a year, paid up front ✨ No registration fee and no admin fee."
+    },
+    "sharingCap": {
+      "q": "What's the RM60 cap?",
+      "a": "It's the most you'll ever be asked for in a month 🙌 Sharing is deducted on the 7th and never goes above RM60. In a month with no approved cases, nothing comes out at all."
+    },
+    "payHow": {
+      "q": "How do I pay?",
+      "a": "Auto-debit 🏦 We set it up with our payment partner Curlec when you join, so there's nothing for you to remember each month."
+    },
+    "refund": {
+      "q": "Can I get a refund?",
+      "a": "Your Sharing Account balance is yours and comes back to you when you leave 💰 Membership fees you've already paid aren't refunded, though."
+    },
+    "miss": {
+      "q": "What if I miss a payment?",
+      "a": "Don't worry, but don't leave it too long 🙏 Your membership is suspended and benefits pause, and you have 26 days to settle before it's terminated. Pay inside that window and everything comes straight back."
+    },
+    "restart": {
+      "q": "Can I stop and come back?",
+      "a": "With WeCare, yes — any time, no waiting period and no health declaration ✨ There's a RM30 reactivation fee."
+    },
+    "join": {
+      "q": "Can I join?",
+      "a": "Very likely, yes 🎉 WeShare is for Malaysians living here, aged 5 to 45 and healthy on the day you sign up. WeCare has no age limit and no health screening at all. The account itself is opened by someone 18 or over."
+    },
+    "family": {
+      "q": "Can I add my family?",
+      "a": "Yes please 👨‍👩‍👧 One account can hold several members. Each person enrols individually and meets the same age and health requirement, and you manage everyone — details, payments, support — from the one account."
+    },
+    "joinNeed": {
+      "q": "What do I need?",
+      "a": "Not much at all 📝 Your NRIC, a mobile number, an email address, and a few minutes for the health questionnaire. You'll need to be 18 or over to open the account, and a referrer goes through it with you."
+    },
+    "joinHow": {
+      "q": "How do I sign up?",
+      "a": "Through a referrer 💬 Give us a shout and we'll put you in touch with one — they'll walk you through the plans and get you registered."
+    },
+    "wait": {
+      "q": "When does it start?",
+      "a": "Depends on the plan ⏳ WeCare starts the moment your payment goes through. WeShare phases in: accidents are covered from day one up to RM10,000, common illnesses after 90 days, and specified ones like diabetes, heart conditions and cancer after 180 days."
+    },
+    "preExisting": {
+      "q": "What about existing conditions?",
+      "a": "Anything you already had before joining isn't eligible to share, I'm afraid. You'll tell us about it in the health screening when you enrol, so there are no surprises later on 🩺"
+    },
+    "shareLimit": {
+      "q": "How much can be shared?",
+      "a": "Up to RM1,000,000 of eligible hospital costs a year 🏥 and the limit resets every twelve months."
+    },
+    "coShare": {
+      "q": "Do I pay part of the bill?",
+      "a": "A small part, yes 🙂 It's called a co-share: 10% if you're 6 to 45, 25% under 6, and 20% from 46 up — and it's capped at RM500 per admission, however big the bill."
+    },
+    "fair": {
+      "q": "How do I know bills are fair?",
+      "a": "Every approved bill is checked against the MMA 13th Schedule of Fees 📋 — the recognised benchmark for medical charges in Malaysia."
+    },
+    "hospital": {
+      "q": "What if I'm hospitalised?",
+      "a": "Start with a teleconsultation on HEYDOC 📱 If you need more, a clinic visit is arranged, and the doctor refers you to a panel hospital when hospital care is needed. For anything at the hospital counter, e-MAS are your people — 03-9213 0103."
+    },
+    "emergency": {
+      "q": "What about an emergency?",
+      "a": "Get treated first, always 🚑 You never need approval before emergency care. Just let us know as soon as you reasonably can afterwards."
+    },
+    "doctor": {
+      "q": "How do I see a doctor?",
+      "a": "Open the MiCare MyMed app and tell them what's wrong 👨‍⚕️ Teleconsultation runs 9am to 10pm every day, weekends and public holidays included — unlimited and free. You can also walk straight into a panel GP clinic, cashless, no referral needed."
+    },
+    "medicine": {
+      "q": "How do I get my medicine?",
+      "a": "Either collect it from a participating pharmacy or have it delivered to you 💊 Anywhere in Malaysia."
+    },
+    "episodes": {
+      "q": "What's a Care Episode?",
+      "a": "It's how WeCare counts things 🎟️ Each quarter you get one Medicine Episode and one Clinic Visit Episode — one of each, not two of either. They're only used when you actually get treated; talking to a doctor is free and uses none."
+    },
+    "episodesUnused": {
+      "q": "What if I don't use them?",
+      "a": "They stay yours for the rest of the subscription year, up to a balance of eight 👍 They don't carry over into the next year, though."
+    },
+    "wecareCap": {
+      "q": "What's the RM40 cap?",
+      "a": "Each Care Episode is supported up to RM40 💵 That covers the consultation, the medicine and getting it to you. Anything above it is yours to pay, and you're always told before it happens."
+    },
+    "wecareNot": {
+      "q": "What isn't covered?",
+      "a": "WeCare leaves out hospitalisation, specialist care, chronic conditions and repeat prescriptions, scans, screening, vaccinations, and non-medical bits like vitamins 📝 The hospital side is what WeShare is for."
+    },
+    "trustWho": {
+      "q": "Who holds my money?",
+      "a": "Palladium Trustee, a licensed trustee company 🔒 Your Sharing Account sits with them, and We Kongsi has no access to it."
+    },
+    "trustWhat": {
+      "q": "What am I sharing?",
+      "a": "Everything is published on the 7th of each month, before a single ringgit is deducted 📊 The monthly report lives right here on the site, so you can see every case before you share in it."
+    },
+    "optOut": {
+      "q": "Can I skip a case?",
+      "a": "You can — taking part is voluntary 🤲 If you'd rather not share in a particular case, you're free to leave during the publishing period."
+    },
+    "contact": {
+      "q": "Who do I call?",
+      "a": "Depends what it's about 📞 Hospital admissions — e-MAS on 03-9213 0103. Everyday care, the app, clinics and medicine — MiCare on 1800 88 7940. Anything about your membership itself, that's us."
+    },
+    "joinWeshare": {
+      "q": "Can I join?",
+      "a": "If you're a Malaysian living here, aged 5 to 45 and healthy on the day you sign up — then yes 🎉 The account itself is opened by someone 18 or over, and they can enrol family members under it."
+    },
+    "waitWeshare": {
+      "q": "When does it start?",
+      "a": "It phases in ⏳ Accidents are covered from day one, up to RM10,000. Common illnesses become eligible after 90 days, and specified ones like diabetes, heart conditions and cancer after 180 days."
+    },
+    "joinWecare": {
+      "q": "Can I subscribe?",
+      "a": "Almost certainly 🎉 Any Malaysian living here can subscribe — no age limit, no health declaration and no health screening at all."
+    },
+    "waitWecare": {
+      "q": "Is there a waiting period?",
+      "a": "None at all ⚡ Your cover starts the moment your payment is confirmed."
     }
   }
 }
