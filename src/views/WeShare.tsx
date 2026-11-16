@@ -50,10 +50,14 @@ export default function WeShare() {
       />
       <GuidelinesCta
         docKey="gl.docWeshare"
-        contentsKey="gl.ws.contents"
         href={external.guidelinesWeshare}
         pages={guidelineDocs.weshare.pages}
         size={guidelineDocs.weshare.size}
+        amendment={{
+          href: external.amendmentWeshare,
+          pages: guidelineDocs.weshareAmendment.pages,
+          size: guidelineDocs.weshareAmendment.size,
+        }}
       />
       <WsxFaq />
       <WsxCta />

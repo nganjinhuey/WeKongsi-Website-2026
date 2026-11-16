@@ -81,6 +81,12 @@ export const external = {
   guidelinesWeshare: "/guidelines/weshare-program-guidelines-nov-2026.pdf",
   guidelinesWecare: "/guidelines/wecare-program-guidelines-nov-2026.pdf",
   /**
+   * What the current edition of the cost-sharing Guidelines changed, and where each
+   * change sits in them. WeShare only: the log is written against that document's own
+   * sections, and WeCare's guidelines are a separate publication.
+   */
+  amendmentWeshare: "/guidelines/weshare-amendment-log-nov-2026.pdf",
+  /**
    * The two Section 7.C forms, served from `public/forms/`. They are the only way to
    * open a formal Dispute or Appeal: the Guidelines do not recognise one raised by
    * phone or chat, so these sit on the Contact page beside the ordinary enquiry form

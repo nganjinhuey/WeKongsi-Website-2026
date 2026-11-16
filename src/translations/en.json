@@ -2053,31 +2053,12 @@
     "docWeshare": "We Kongsi Program Guidelines",
     "docWecare": "WeCare Program Guidelines",
     "dated": "November 2026",
-    "inside": "Inside the document",
-    "ws": {
-      "contents": [
-        "How We Kongsi works",
-        "Account ownership",
-        "Membership & eligibility",
-        "The sharing process",
-        "Sharing conditions",
-        "Fees & payments",
-        "Decision making",
-        "Appendix & definitions"
-      ]
+    "amend": {
+      "title": "What changed in this edition",
+      "desc": "A one-page summary of everything the November 2026 edition changes, and the section of the Guidelines each change sits in.",
+      "cta": "Open the amendment log"
     },
-    "wc": {
-      "contents": [
-        "About WeCare",
-        "Account ownership",
-        "Membership & status",
-        "Fees & payments",
-        "Using your benefit",
-        "The 21 conditions covered",
-        "What is not covered",
-        "Who to contact"
-      ]
-    }
+    "metaOne": "PDF · 1 page · {{size}}"
   },
   "wsq": {
     "eyebrow": "Questions",

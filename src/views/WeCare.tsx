@@ -44,7 +44,6 @@ export default function WeCare() {
       <WcxLimits />
       <GuidelinesCta
         docKey="gl.docWecare"
-        contentsKey="gl.wc.contents"
         href={external.guidelinesWecare}
         pages={guidelineDocs.wecare.pages}
         size={guidelineDocs.wecare.size}

@@ -248,4 +248,6 @@ export const wecareFacts = {
 export const guidelineDocs = {
   weshare: { pages: 72, size: "1.5 MB" },
   wecare: { pages: 17, size: "0.5 MB" },
+  /** The amendment log for the WeShare edition — measured 16 November 2026. */
+  weshareAmendment: { pages: 1, size: "0.3 MB" },
 } as const;

@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { ExternalLink, FileText } from "lucide-react";
+import { ExternalLink, FileClock, FileText } from "lucide-react";
 import { useTranslation } from "@/hooks/useTranslation";
 import { Section, Eyebrow } from "@/components/ui/section";
 import { Button } from "@/components/ui/button";
@@ -15,32 +15,39 @@ import Reveal from "@/components/ui/reveal";
  * products and were previously sharing a single link.
  *
  * The document is drawn as a document: three fanned sheets whose front one is a
- * miniature cover, opening further on hover or keyboard focus. A row of section names
- * sits beside it, because the honest reason someone does not open a 72-page PDF is
- * that they have no idea what is in it. The page count and weight are stated for the
- * same reason — a 72-page file on a phone connection is worth warning someone about.
+ * miniature cover, opening further on hover or keyboard focus. The page count and
+ * weight are stated beside it, because a 72-page file on a phone connection is worth
+ * warning someone about before they tap.
  *
  * The precedence line is the point of the section. Everything on a plan page is a
  * summary, and saying which document wins is the honest way to end one.
+ *
+ * Where there is an amendment log, it sits in the left column rather than as a second
+ * button on the sheet. A member who has read the previous edition does not want to
+ * re-read seventy-two pages to find out what moved, and that is a different errand
+ * from opening the document for the first time — it needs its own sentence, which the
+ * sheet has no room for.
  */
 export default function GuidelinesCta({
   docKey,
-  contentsKey,
   href,
   pages,
   size,
+  amendment,
 }: {
   /** Translation key for the document's own title. */
   docKey: string;
-  /** List-valued key naming the document's top-level sections. */
-  contentsKey: string;
   href: string;
   pages: number;
   /** Human-readable file size, e.g. "1.5 MB". */
   size: string;
+  /**
+   * The log of what this edition changed, where one is published. Omitted on a
+   * document that has not been amended, and the whole block then does not render.
+   */
+  amendment?: { href: string; pages: number; size: string };
 }) {
-  const { t, tList } = useTranslation();
-  const contents = tList(contentsKey);
+  const { t } = useTranslation();
 
   return (
     <Section tone="soft" id="guidelines" className="py-16 lg:py-24">
@@ -58,17 +65,30 @@ export default function GuidelinesCta({
               </RichText>
               <p className="mt-5 max-w-xl text-[15px] leading-relaxed text-ink-2">{t("gl.lede")}</p>
 
-              <h3 className="mt-9 t-eyebrow text-teal-ink">{t("gl.inside")}</h3>
-              <ul className="mt-4 flex flex-wrap gap-2">
-                {contents.map((item) => (
-                  <li
-                    key={item}
-                    className="rounded-pill border border-line bg-white px-3.5 py-1.5 text-[13px] text-ink-2"
-                  >
-                    {item}
-                  </li>
-                ))}
-              </ul>
+              {amendment && (
+                <div className="mt-8 rounded-[18px] border border-line bg-mint-soft p-5">
+                  <p className="flex items-center gap-2 font-display text-[14.5px] font-semibold text-deep">
+                    <FileClock aria-hidden="true" className="h-4 w-4 shrink-0 text-teal-deep" />
+                    {t("gl.amend.title")}
+                  </p>
+                  <p className="mt-2 text-[13.5px] leading-relaxed text-ink-2">
+                    {t("gl.amend.desc")}
+                  </p>
+                  <Button asChild variant="outline" size="sm" className="mt-4">
+                    <a href={amendment.href} target="_blank" rel="noopener noreferrer">
+                      {t("gl.amend.cta")}
+                      <ExternalLink className="h-4 w-4" />
+                    </a>
+                  </Button>
+                  {/* "1 pages" is the kind of thing a reader notices and a writer
+                      does not. The log is one page today and may not always be. */}
+                  <p className="mt-3 text-[12px] text-ink-3">
+                    {amendment.pages === 1
+                      ? t("gl.metaOne", { size: amendment.size })
+                      : t("gl.meta", { pages: String(amendment.pages), size: amendment.size })}
+                  </p>
+                </div>
+              )}
 
               <p className="mt-8 text-[12.5px] leading-relaxed text-ink-3">{t("gl.note")}</p>
             </div>
