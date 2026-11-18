@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import { ArrowRight, Check, Tag } from "lucide-react";
 import { useTranslation } from "@/hooks/useTranslation";
-import { external } from "@/lib/routes";
+import { whatsappWith } from "@/lib/routes";
 import { programFacts } from "@/data/site";
 import { panelCounts } from "@/data/hospitals";
 import { Section } from "@/components/ui/section";
@@ -268,7 +268,7 @@ export default function WsxPricing() {
 
                   <div className="mt-8">
                     <Button asChild size="lg" variant={s.btn} className="w-full">
-                      <a href={external.join} target="_blank" rel="noopener noreferrer">
+                      <a href={whatsappWith(t("wa.msg.joinWeshare"))} target="_blank" rel="noopener noreferrer">
                         {t("wsx.price.cta")}
                         <ArrowRight className="h-5 w-5" />
                       </a>

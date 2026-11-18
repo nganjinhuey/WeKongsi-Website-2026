@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import { Phone, Mail, MapPin, Headphones, FileText, ExternalLink, Send } from "lucide-react";
 import { useTranslation } from "@/hooks/useTranslation";
-import { external } from "@/lib/routes";
+import { external, whatsappWith } from "@/lib/routes";
 import { carelines } from "@/data/hospitals";
 import { Section, SectionHeading } from "@/components/ui/section";
 import { Button } from "@/components/ui/button";
@@ -91,7 +91,7 @@ export default function Contact() {
       value: external.phone,
       href: external.phoneHref,
       noteKey: "ct.details.generalNote",
-      noteHref: external.whatsapp,
+      noteHref: whatsappWith(t("wa.msg.general")),
     },
     {
       id: "email",
@@ -345,7 +345,7 @@ export default function Contact() {
               <p className="mt-6 text-sm text-ink-2">
                 {t("ct.details.join")}{" "}
                 <a
-                  href={external.whatsapp}
+                  href={whatsappWith(t("wa.msg.join"))}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-semibold text-teal-deep hover:underline"

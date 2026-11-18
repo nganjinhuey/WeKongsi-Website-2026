@@ -8,7 +8,7 @@ import { Menu, X, ArrowRight, ChevronDown, Hospital, Stethoscope } from "lucide-
 import type { LucideIcon } from "lucide-react";
 import { useTranslation } from "@/hooks/useTranslation";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { external } from "@/lib/routes";
+import { external, whatsappWith } from "@/lib/routes";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
@@ -437,7 +437,7 @@ export default function Header() {
             {/* The drawer used to carry Join above Login; with the bar now showing
                 Login, a second Login button under it was the same door twice. */}
             <Button asChild variant="outline" size="lg">
-              <a href={external.whatsapp} target="_blank" rel="noopener noreferrer">
+              <a href={whatsappWith(t("wa.msg.general"))} target="_blank" rel="noopener noreferrer">
                 {t("footer.whatsapp")}
               </a>
             </Button>

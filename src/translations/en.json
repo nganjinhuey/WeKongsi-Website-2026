@@ -3069,5 +3069,13 @@
       "q": "Is there a waiting period?",
       "a": "None at all ⚡ Your cover starts the moment your payment is confirmed."
     }
+  },
+  "wa": {
+    "msg": {
+      "general": "Hi! I'm interested in We Kongsi.",
+      "join": "Hi! I'm interested in joining We Kongsi — could you connect me with a referrer?",
+      "joinWeshare": "Hi! I'm interested in joining WeShare — could you connect me with a referrer?",
+      "joinWecare": "Hi! I'm interested in subscribing to WeCare — could you connect me with a referrer?"
+    }
   }
 }

@@ -4,7 +4,7 @@ import React from "react";
 import Link from "next/link";
 import { ArrowRight, HeartPulse, MessageCircle, ShieldPlus } from "lucide-react";
 import { useTranslation } from "@/hooks/useTranslation";
-import { external } from "@/lib/routes";
+import { whatsappWith } from "@/lib/routes";
 import { generalFaq } from "@/data/faq";
 import { Section, SectionHeading } from "@/components/ui/section";
 import { Button } from "@/components/ui/button";
@@ -101,7 +101,7 @@ export default function Faq() {
                 <Link href={href("/contact")}>{t("footer.contactus")}</Link>
               </Button>
               <Button asChild variant="ghostLight" size="lg">
-                <a href={external.whatsapp} target="_blank" rel="noopener noreferrer">
+                <a href={whatsappWith(t("wa.msg.general"))} target="_blank" rel="noopener noreferrer">
                   {t("footer.whatsapp")}
                 </a>
               </Button>

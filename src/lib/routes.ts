@@ -120,4 +120,19 @@ export const external = {
   micareHref: "tel:1800887940",
 };
 
+/**
+ * A WhatsApp link that opens with the first message already typed.
+ *
+ * The thread starts with whatever the visitor tapped, so the person answering knows
+ * before they say hello whether this is somebody wanting to join WeCare, somebody
+ * stuck on a panel hospital, or somebody the FAQ failed. The visitor can edit or
+ * delete it — it is a draft in their own app, not something sent on their behalf.
+ *
+ * The message itself is a translation key like everything else a visitor reads; this
+ * only does the encoding, which is what stops an apostrophe or an em dash truncating
+ * the text at the first ampersand.
+ */
+export const whatsappWith = (message: string) =>
+  `${external.whatsapp}?text=${encodeURIComponent(message)}`;
+
 export const SITE_URL = "https://www.wekongsi.com";

@@ -4,7 +4,7 @@ import React from "react";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { useTranslation } from "@/hooks/useTranslation";
-import { external } from "@/lib/routes";
+import { whatsappWith } from "@/lib/routes";
 import { Section } from "@/components/ui/section";
 import { Button } from "@/components/ui/button";
 import RichText from "@/components/RichText";
@@ -30,7 +30,7 @@ export default function WsxCta() {
         <Reveal index={2}>
           <div className="mt-9 flex flex-wrap justify-center gap-3">
             <Button asChild size="lg">
-              <a href={external.join} target="_blank" rel="noopener noreferrer">
+              <a href={whatsappWith(t("wa.msg.joinWeshare"))} target="_blank" rel="noopener noreferrer">
                 {t("wsp.cta.join")}
                 <ArrowRight className="h-5 w-5" />
               </a>

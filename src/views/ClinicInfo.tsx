@@ -12,7 +12,7 @@ import {
   type Clinic,
 } from "@/data/clinics";
 import { carelines } from "@/data/hospitals";
-import { external } from "@/lib/routes";
+import { whatsappWith } from "@/lib/routes";
 import { Section, SectionHeading, Eyebrow } from "@/components/ui/section";
 import { Button } from "@/components/ui/button";
 import PageHero from "@/components/sections/PageHero";
@@ -356,7 +356,7 @@ export default function ClinicInfo() {
                 </a>
               </Button>
               <Button asChild>
-                <a href={external.whatsapp} target="_blank" rel="noopener noreferrer">
+                <a href={whatsappWith(t("wa.msg.general"))} target="_blank" rel="noopener noreferrer">
                   {t("ci.verify.whatsapp")}
                 </a>
               </Button>

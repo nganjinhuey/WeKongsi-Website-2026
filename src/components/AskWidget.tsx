@@ -4,7 +4,7 @@ import React, { useEffect, useId, useMemo, useRef, useState } from "react";
 import { usePathname } from "next/navigation";
 import { MessageCircleQuestion, RotateCcw, X } from "lucide-react";
 import { useTranslation } from "@/hooks/useTranslation";
-import { external } from "@/lib/routes";
+import { whatsappWith } from "@/lib/routes";
 import { CHAT_ROOTS, findChatNode, scopeForPath, type ChatScope } from "@/data/chat";
 import { stripLanguage } from "@/lib/i18n";
 
@@ -193,7 +193,7 @@ export default function AskWidget() {
           {/* ---- Where a guided path honestly ends ---- */}
           <div className="flex shrink-0 flex-wrap items-center justify-between gap-3 border-t border-line bg-white px-4 py-3.5">
             <a
-              href={external.whatsapp}
+              href={whatsappWith(t("wa.msg.general"))}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-pill bg-deep px-4 py-2.5 text-[13.5px] font-semibold text-white transition-colors hover:bg-teal-ink"

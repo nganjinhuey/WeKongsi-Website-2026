@@ -10,7 +10,7 @@ import {
   panelCounts,
   carelines,
 } from "@/data/hospitals";
-import { external } from "@/lib/routes";
+import { whatsappWith } from "@/lib/routes";
 import { Section, SectionHeading, Eyebrow } from "@/components/ui/section";
 import { Button } from "@/components/ui/button";
 import PageHero from "@/components/sections/PageHero";
@@ -342,7 +342,7 @@ export default function HospitalInfo() {
               </Button>
               <Button asChild>
                 <a
-                  href={external.whatsapp}
+                  href={whatsappWith(t("wa.msg.general"))}
                   target="_blank"
                   rel="noopener noreferrer"
                 >

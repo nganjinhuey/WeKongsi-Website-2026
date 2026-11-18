@@ -12,7 +12,7 @@ import {
   type PublishedStory,
   type StoryCategory,
 } from "@/data/stories";
-import { external } from "@/lib/routes";
+import { external, whatsappWith } from "@/lib/routes";
 import { Section, Eyebrow } from "@/components/ui/section";
 import { Button } from "@/components/ui/button";
 import PageHero from "@/components/sections/PageHero";
@@ -267,7 +267,7 @@ export default function Stories() {
                 </a>
               </Button>
               <Button asChild variant="ghostLight" size="lg">
-                <a href={external.whatsapp} target="_blank" rel="noopener noreferrer">
+                <a href={whatsappWith(t("wa.msg.general"))} target="_blank" rel="noopener noreferrer">
                   {t("st.cta.chat")}
                 </a>
               </Button>

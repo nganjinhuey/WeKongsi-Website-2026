@@ -4,7 +4,7 @@ import React from "react";
 import Link from "next/link";
 import { ArrowRight, Check } from "lucide-react";
 import { useTranslation } from "@/hooks/useTranslation";
-import { external } from "@/lib/routes";
+import { whatsappWith } from "@/lib/routes";
 import { Button } from "@/components/ui/button";
 import RichText from "@/components/RichText";
 import { Eyebrow } from "@/components/ui/section";
@@ -47,7 +47,7 @@ export default function FinalCta() {
         <Reveal index={3}>
           <div className="mt-9 flex flex-col gap-3 sm:flex-row">
             <Button asChild size="lg">
-              <a href={external.join} target="_blank" rel="noopener noreferrer">
+              <a href={whatsappWith(t("wa.msg.join"))} target="_blank" rel="noopener noreferrer">
                 {t("site.cta.become")}
                 <ArrowRight className="h-5 w-5" />
               </a>
